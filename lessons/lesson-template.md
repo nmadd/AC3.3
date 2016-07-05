@@ -1,16 +1,16 @@
 - title: 
 - tags: 
 
-##Standards:
+###Standards:
 (Overarching learning goals, e.g. 'Students become comfortable with Angular')
 
-## Objectives
+### Objectives
 (Concrete, measurable tasks and learnings that map back to the overarching learning goals)
 Eg. By the end of the lesson, students will be able to:
 * Facilitate a daily standup
 * Define sprints and minimum viable products
 
-## Schedule
+### Schedule
 * Warmup: link to challenge problem
 * Morning lecture: e.g. Intro to Arrays
 * Morning exercises: Link to exercises
@@ -20,15 +20,15 @@ Eg. By the end of the lesson, students will be able to:
 * Afternoon exercises: Link to exercises
 * Review
 
-## Resources
+### Resources
 Add links for slides, live coding examples, helpful resources, etc.
 
-##Assessment Materials
+###Assessment Materials
 - Midday Check-in and solutions (add links)
 - Exercises and solutions (add links)
 - Homework and solutions (add links)
 
-##Lecture
+###Lecture
 ####Intro - High level overview
 **Discussion**: What does the class currently know about the topic? Why do we care about this topic? 
 
@@ -63,12 +63,12 @@ Link to the first exercise(s)
 Link to the next exercise(s)
 
 
-## Review and Wrapup
+### Review and Wrapup
 Review and check progress
 * What was easy? What was challenging?
 * What made sense? What didn’t make sense?
 
-## Further Reading
+### Further Reading
 * Add links to further reading
 
 
