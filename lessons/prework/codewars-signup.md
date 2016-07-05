@@ -1,4 +1,4 @@
-In order to signup for a CodeWars account you'll need to do the following:
+**In order to signup for a CodeWars account you'll need to do the following:**
 
 - Go to [codewars.com](https://www.codewars.com/) and click the 'Sign Up' button in the upper right corner
 - It will then ask you to 'Choose your language to begin...' Select 'JavaScript' to continue.
