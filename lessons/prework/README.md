@@ -16,5 +16,5 @@ To get started signup for a CodeWars account then start solving questions!
 [CodeWars questions to choose from]()
 
 ###2 Complete the follow Codecademy HTML & CSS lessons:
-	- [HTML & CSS Unit 1](https://www.codecademy.com/learn/web), first two lessons only ([HTML Basics](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b) and [Build your Own Webpage](https://www.codecademy.com/courses/web-beginner-en-LceTK/0/1?curriculum_id=50579fb998b470000202dc8b))
-	- [HTML & CSS Unit 4](https://www.codecademy.com/learn/web), first two lessons only ([CSS: An Overview](https://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b) and [Design a Button for your Website](https://www.codecademy.com/courses/web-beginner-en-UuBLw/0/1?curriculum_id=50579fb998b470000202dc8b)
+- [HTML & CSS Unit 1](https://www.codecademy.com/learn/web), first two lessons only ([HTML Basics](https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b) and [Build your Own Webpage](https://www.codecademy.com/courses/web-beginner-en-LceTK/0/1?curriculum_id=50579fb998b470000202dc8b))
+- [HTML & CSS Unit 4](https://www.codecademy.com/learn/web), first two lessons only ([CSS: An Overview](https://www.codecademy.com/courses/web-beginner-en-TlhFi/0/1?curriculum_id=50579fb998b470000202dc8b) and [Design a Button for your Website](https://www.codecademy.com/courses/web-beginner-en-UuBLw/0/1?curriculum_id=50579fb998b470000202dc8b)
