@@ -1,4 +1,4 @@
-Complete at least 8-10 of the below questions to achieve a 7 kyu ranking! 
+**Complete at least 8-10 of the below questions to achieve a 7 kyu ranking!**
 
 To complete a question, click on one of the below links, then click on the blue 'TRAIN' button in the upper right corner of the page. From there, type your answer into the area labeled 'Your Solution.' When you think you have the answer (or just want to run your code) you can hit the 'RUN TESTS' button in the bottom right corner to run your code with the provided tests. Once you're ready to submit your answer, hit the 'SUBMIT' button. If you're happy with your response you can then click on the 'SUBMIT FINAL' button which will officially submit your final response.
 
