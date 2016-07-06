@@ -2,8 +2,7 @@
 - tags: javascript, arrays, functions
 
 ## Objectives
-* Be able to explain how `forEach` and `map` work and are implemented
-* Be familiar with 
+* Be able to use `forEach` and `map`
 
 ## Resources
 - [Five Array Methods You Should Use Today (indexOf, forEach, map, filter, reduce)](http://colintoh.com/blog/5-array-methods-that-you-should-use-today)
@@ -12,15 +11,9 @@
 ####Intro to Advanced Array Methods
 Built-in array methods are a really powerful tool in JavaScript. We're familiar with some of the most commonly used array methods, so now let's learn some more advanced ones! 
 
-**Discussion:** What are some array methods that we already know?
+**Discussion:** What are some array methods that we already know? Why do we use them?
 
-####Demo: Advanced array methods
-- `forEach`
-- `map`
-- `filter`
-- `reduce`
-
-**Discussion:** What are some advantages of using forEach instead of a `for` loop? Disadvantages? What about `map`, `reduce`, and `filter`?
+**Discussion:** What are some strategies for looping over arrays?
 
 ####Exercise: Implement `forEach`
 Write a function called `forEach` that takes in two arguments: an array and a function. `forEach` should apply the passed in function to every member of the array. It should not return anything.
@@ -48,4 +41,12 @@ var arr = [1,2,3,4,5];
 function double(num) {
 	return num * 2;
 }
+
+####Demo: Advanced array methods
+- `forEach`
+- `map`
+- `filter`
+- `reduce`
+
+**Discussion:** What are some advantages of using forEach instead of a `for` loop? Disadvantages? What about `map`, `reduce`, and `filter`?
 ```
