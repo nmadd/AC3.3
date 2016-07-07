@@ -28,7 +28,7 @@ Watch out for type coercion - if you mix two pieces of data that are different t
 - Type coercion
 
 ##Strings
-Strings are one of five 'primitive' JavaScript data types. 
+Strings are one of five 'primitive' JavaScript data types. Strings are fundamental to almost everything we do in JavaScript, so good string manipulation skills are crucial.
 
 ##Demo: String manipulation
 - `indexOf`
@@ -38,6 +38,9 @@ Strings are one of five 'primitive' JavaScript data types.
 - `charAt` / `charCodeAt`
 - `split`
 - `length`
+
+##Numbers
+Numbers are also a 'primitive' JavaScript data type. Unlike some other languages, JavaScript only has one type of number. Let's dive right in and get some experience with basic number manipulation.
 
 ##Demo: Number manipulation
 - `pareseInt`
