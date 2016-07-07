@@ -1,6 +1,6 @@
 # Unit 0: Prework
 
-Congratulations on getting accepted to Access Code! Please complete the following two assignments before you start class. When you're done, please send an email with a link to your CodeWars and Codecademy profiles to nate@c4q.nyc by end of the day **Thursday, July 14th**:
+Congratulations on getting accepted to Access Code! Please complete the following two assignments before you start class. When you're done, please send an email with a link to your CodeWars and Codecademy profiles to nate@c4q.nyc by end of the day **Sunday, July 17th**:
 
 ###1. Get to level 7 on CodeWars:
 
