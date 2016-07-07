@@ -58,7 +58,3 @@ Review and check progress
 * What was easy? What was challenging?
 * What made sense? What didn’t make sense?
 
-#Further Reading
-* Add links to further reading
-
-
