@@ -1,2 +1,5 @@
+*.DS_Store
 .DS_Store
 lessons/.DS_Store
+lessons/html-and-css/.DS_Store
+lessons/javascript-fundamentals/.DS_Store
