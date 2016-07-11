@@ -6,12 +6,12 @@ Sublime Text Tips and Tricks | tools
 * Learn tips and tricks for Sublime Text
 
 ## Resources
-[Installing Sublime Text Themes + Cool Themes](https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016)
-[Sublime Text Keyboard Shortcuts](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
-[Color Sublime - Sublime Text Themes] (http://colorsublime.com/)
-[Popular Sublime Text Packages] (https://packagecontrol.io/browse/popular)
-[Sublime Text Tips and Tricks] (https://generalassemb.ly/blog/sublime-text-3-tips-tricks-shortcuts/)
-[Sublime Text Power User Book (Paid Download)] (https://sublimetextbook.com/)
+- [Installing Sublime Text Themes + Cool Themes](https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016)
+- [Sublime Text Keyboard Shortcuts](http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_osx.html)
+- [Color Sublime - Sublime Text Themes] (http://colorsublime.com/)
+- [Popular Sublime Text Packages] (https://packagecontrol.io/browse/popular)
+- [Sublime Text Tips and Tricks] (https://generalassemb.ly/blog/sublime-text-3-tips-tricks-shortcuts/)
+- [Sublime Text Power User Book (Paid Download)] (https://sublimetextbook.com/)
 
 ##Lecture
 ###Installing Sublime Text Packages and Themes
