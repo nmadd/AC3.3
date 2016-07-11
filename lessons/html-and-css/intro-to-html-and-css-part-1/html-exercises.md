@@ -33,6 +33,7 @@ Write the HTML code to produce this list:
 * Apple
 * Orange
 * Mango
+
 <!-- end @acxbank -->
 <!-- @acxbank html-tags-img -->
 ### Q7. html-tags-img
