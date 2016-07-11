@@ -15,6 +15,7 @@
 - Walkthrough and demo every question of exam
 
 ##Demo: Additional review
+- truthy vs falsy 
 - forwards and backwards `for` loop
 - `while` loop vs `for` loop
 - accessing different parts of an array

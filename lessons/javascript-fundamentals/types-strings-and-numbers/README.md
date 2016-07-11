@@ -40,7 +40,7 @@ Strings are one of five 'primitive' JavaScript data types. Strings are fundament
 - `length`
 
 ##Numbers
-Numbers are also a 'primitive' JavaScript data type. Unlike some other languages, JavaScript only has one type of number. Let's dive right in and get some experience with basic number manipulation.
+Numbers are also a 'primitive' JavaScript data type. Unlike some other languages, JavaScript only has one type of number. Let's dive right in and# get some experience with basic number manipulation.
 
 ##Demo: Number manipulation
 - `pareseInt`

@@ -26,7 +26,7 @@ Functions are everywhere in JavaScript, including things like `console.log`, `al
 - What happens if we write a variable within a function without using the `var` keyword?
 
 ###Anonymous functions
-We cam also declare functions anonymously, without giving them a variable name
+We can also declare functions anonymously, without giving them a variable name
 
 **Discussion** Why would we need anonymous functions? What are some advantages and disadvantages?
 
