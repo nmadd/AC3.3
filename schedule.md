@@ -1,7 +1,7 @@
 | Unit |  Date      | Lesson |
 |:----:|:----------:|--------|
 | 0    | 2016-07-18 | [Environment & Tools](lessons/env-and-tools) |
-| 0    | 2016-07-18 | [Intro to Pair Programming]() |
+| 0    | 2016-07-18 | [Intro to Pair Programming](lessons/pair-programming) |
 | 1    | 2016-07-19 | [JS Fundamentals: Workshop Review](lessons/javascript-fundamentals/workshop-review) |
 | 1    | 2016-07-20 | [JS Fundamentals: Types, Strings, and Numbers](lessons/javascript-fundamentals/types-strings-and-numbers) |
 | 1    | 2016-07-21 | [JS Fundamentals: Objects and Arrays](lessons/javascript-fundamentals/objects-and-arrays) |
