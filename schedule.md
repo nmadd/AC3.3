@@ -10,4 +10,4 @@
 | 1    | 2016-07-26 | [JS Fundamentals: Advanced Array Methods](lessons/javascript-fundamentals/advanced-array-methods) |
 | 1    | 2016-07-27 | [Intro To HTML and CSS Part 2](lessons/html-and-css/intro-to-html-and-css-part-2) |
 | 1    | 2016-07-28 | [Review/Project]() |
-| 1    | 2016-07-29 | [Asessment]() |
+| 1    | 2016-07-29 | [Assessment]() |
