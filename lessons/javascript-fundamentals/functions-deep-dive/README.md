@@ -35,7 +35,7 @@ We can also declare functions anonymously, without giving them a variable name
 ###Demo: The call stack
 Enter the following in Chrome console and open dev tools:
 ```javascript
-function one(){
+function one() {
 	debugger;
 	console.log('one');
 	two();
@@ -47,7 +47,7 @@ function two() {
 	three();
 }
 
-function three(){
+function three() {
 	debugger;
 	console.log('three')
 	four();
