@@ -8,6 +8,9 @@
 [JS Workshop](http://c4q.github.io/accesscode-apply-jsworkshop/activity-conditionals.html)
 
 #Lecture
+##Importance of review 
+**Discussion** What are some strategies for going back and practicing things you don't understand? What's the importance and ultimate goal of redoing things?
+
 ##Workshop review
 **Discussion** What was most confusing about workshop? What would you like to focus review on? 
 

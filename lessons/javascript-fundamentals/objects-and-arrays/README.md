@@ -19,6 +19,15 @@ Objects are similar to arrays, except each value in an object has an explicit 'k
 
 We can access object values by their keys by using either 'dot' notation or brackets.
 
+Object examples:
+```js
+var usernamesAndPasswords = {nsync4lyfe: "xsdw33", ledzeppelin279: "zep745", boring_username: "df3rds", jimbo233: "uwe9292"}
+```
+
+```js
+var favoriteFoods = {john: "ice cream", sarah: "steak", liz: "pizza"}
+```
+
 ##Demo: Intro to objects
 - Defining an object using brackets
 - Accessing properties in objects using both dot notation and brackets

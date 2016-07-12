@@ -19,20 +19,20 @@ Write a function to check if an input is an empty string. If the input is an emp
 
 Examples:
 ```javascript
-isEmptyString('') //returns true
-isEmptyString('this is a string') //returns false
+isEmptyString('') // returns true
+isEmptyString('this is a string') // returns false
 isEmptyString(99) // returns false
 ```
 <!-- end @acxbank -->
 <!-- @acxbank count-the-vowels -->
 ### Q3. count-the-vowels
 
-Write a function that accepts a string as a parameter and counts the number of vowels within the string (vowels include a, e, i, o ,u - don't count 'y'). The function should return the number of vowels in the string.
+Write a function that accepts a string as a parameter and counts the number of vowels within the string (vowels include a, e, i, o , u - don't count 'y'). The function should return the number of vowels in the string.
 
 Example output:
 ```javascript
-vowelCount('test string'); //returns 2
-vowelCount('longer string with more vowels'); //returns 8
+vowelCount('test string'); // returns 2
+vowelCount('longer string with more vowels'); // returns 8
 ```
 <!-- end @acxbank -->
 <!-- @acxbank capitalize-first-letters-of-string -->
@@ -51,8 +51,8 @@ Write a function to return a part of string after a specified character. The fun
 
 Examples:
 ```javascript
-subStrAfterChars('this is a test string', 'a') //returns " test string"
-subStrAfterChars('this is another test', 'o') //returns "ther test"
+subStrAfterChars('this is a test string', 'a') // returns " test string"
+subStrAfterChars('this is another test', 'o') // returns "ther test"
 ```
 <!-- end @acxbank -->
 <!-- @acxbank upper-lower-string -->
@@ -62,8 +62,8 @@ Write a function that takes a string and capitalizes every even indexed letter. 
 
 Examples:
 ```javascript
-upperLower('elephant'); //returns 'ElEpHaNt'
-upperLower('BANANA'); returns 'BaNaNa
+upperLower('elephant');  // returns 'ElEpHaNt'
+upperLower('BANANA');    // returns 'BaNaNa'
 ```
 <!-- end @acxbank -->
 <!-- @acxbank truncate-a-string -->
@@ -73,8 +73,8 @@ Write a function to truncate a string if it is longer than the specified number 
 
 Example outputs:
 ```javascript
-text_truncate('We are doing JS string exercises',19)); //returns "We are doing JS ..."
-text_truncate('This is a short sentence',100)); //returns "This is a short sentence" 
+text_truncate('We are doing JS string exercises', 19)); // returns "We are doing JS ..."
+text_truncate('This is a short sentence', 100)); // returns "This is a short sentence" 
 ```
 <!-- end @acxbank -->
 <!-- @acxbank exes-and-ohs -->
@@ -84,10 +84,10 @@ Check to see if a string has the same amount of 'x's and 'o's. The method must r
 
 Example outputs:
 ```javascript
-XO("ooxx") => true
-XO("xooxx") => false
-XO("ooxXm") => true
-XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
-XO("zzoo") => false
+XO("ooxx")    // returns true
+XO("xooxx")   // returns false
+XO("ooxXm")   // returns true
+XO("zpzpzpp") // returns true because zero 'x's and 'o's are present
+XO("zzoo")    // returns false
 ```
 <!-- end @acxbank -->

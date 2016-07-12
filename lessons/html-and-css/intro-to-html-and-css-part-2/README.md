@@ -10,7 +10,7 @@ Intro To HTML and CSS Part 2| html, css
 
 
 ## Resources
-[CSS Syntax (MDN)] (https://developer.mozilla.org/en-US/Learn/CSS/Introduction_to_CSS/Syntax)
+[CSS Syntax](http://www.w3schools.com/css/css_syntax.asp)
 [CSS Selectors] (https://developer.mozilla.org/en-US/Learn/CSS/Introduction_to_CSS/Selectors)
 [HTML Attributes Tutorial] (http://www.tutorialspoint.com/html/html_attributes.htm)
 [Inspecting CSS Using Chrome Dev Tool] (https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/?hl=en)

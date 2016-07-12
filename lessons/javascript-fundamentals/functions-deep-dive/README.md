@@ -11,7 +11,7 @@ TODO: Add links for slides, live coding examples, helpful resources, etc.
 
 ##Lecture
 ###Functions are everywhere
-Functions are the fundamental building blocks of JavaScript programs. Functions allow us to easily reuse pieces of code in different contexts, reduce repition, and keep our programs modular.
+Functions are the fundamental building blocks of JavaScript programs. Functions allow us to easily reuse pieces of code in different contexts, reduce repitition, and keep our programs modular.
 
 **Discussion** Why is reducing repetition important? Why is reusability and modularity important?
 

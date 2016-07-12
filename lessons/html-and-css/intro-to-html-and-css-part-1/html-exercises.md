@@ -7,7 +7,7 @@ Write the tags in order from largest font to smallest font.
 <!-- @acxbank html-tags-p -->
 ### Q2. html-tags-p
 
-Which tags would you use to cerate three separate paragraphs in your HTML document?
+Which tags would you use to create three separate paragraphs in your HTML document?
 <!-- end @acxbank -->
 <!-- @acxbank html-tags-br -->
 ### Q3. html-tags-br
@@ -17,14 +17,14 @@ Which HTML tag creates a line break in your text? How is it different from other
 <!-- @acxbank html-tags-button -->
 ### Q4. html-tags-button
 
-Write the html code to create a button that has no default behvaior. Give the button the name "click-me" and the label "click here!"
+Write the html code to create a button that has no default behavior. Give the button the name "click-me" and the label "click here!"
 <!-- end @acxbank -->
 <!-- @acxbank html-tags-button-2 -->
 ### Q5. html-tags-button-2
 
 Think of how you could create a button that, when clicked on, links to www.google.com. Give the button the name "google-btn" and display the string *google* on the button.
 
-Write the html code to two ways to accomplish this.
+Write the html code to build this in two different ways.
 <!-- end @acxbank -->
 <!-- @acxbank html-tags-ul-li -->
 ### Q6. html-tags-ul-li
