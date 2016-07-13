@@ -28,12 +28,14 @@ We've learned some HTML for creating basic page layouts. But what about more com
 - `id` attribute
 
 ##Demo: Intro to CSS
+![css](http://media2.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
 - Selecting by elements
 - `font-size`
 - `color` and `bg-color`
 - `margin` and `padding`
 - `position`
 - `class` and `id` selectors
+- `text-align`
 -  nested selectors 
 
 ##Demo: Inspecting CSS using Chrome Dev Tools
