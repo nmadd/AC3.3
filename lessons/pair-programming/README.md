@@ -27,6 +27,7 @@ and beyond, where collaboration is imperative to success
 
 ##How to pair
 While pairing, you should have the following two roles:
+
 1. **The Driver:** The driver should type and physically control the computer
 2. **The Navigator:** The navigator should instruct the driver on the overall, high-level strategy and direction to take the code. The navigator should also be looking out for mistakes, and should inform the driver.
 
