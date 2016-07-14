@@ -47,7 +47,7 @@ Expected Output : 'The Quick Brown Fox '
 <!-- @acxbank cut-a-string-at-character -->
 ### Q5. cut-a-string-at-character
 
-Write a function to return a part of string after a specified character. The function should take two arguments, the first beign the string, and the second being the character. The function should return only the part of the string that comes AFTER the specified character. In other words, the function should chop the string into two parts and return only the part that comes after the specified character.
+Write a function to return a part of string after a specified character. The function should take two arguments, the first being the string, and the second being the character. The function should return only the part of the string that comes AFTER the specified character. In other words, the function should chop the string into two parts and return only the part that comes after the specified character.
 
 Examples:
 ```javascript
@@ -89,5 +89,32 @@ XO("xooxx")   // returns false
 XO("ooxXm")   // returns true
 XO("zpzpzpp") // returns true because zero 'x's and 'o's are present
 XO("zzoo")    // returns false
+```
+<!-- end @acxbank -->
+<!-- @acxbank unique-characters-in-string -->
+### Q9. unique-characters-in-string
+
+Write a function called `checkUnique` that takes in a string as an argument and checks if the string has all unique characters. In other words, the function should check to make sure there are no duplicate characters in the string. If the string's characters are all unique, the function should return `true`. Otherwise it should return `false`. 
+
+Examples:
+```js
+checkUnique("fireman"); //returns true
+checkUnique("hello"); //returns false
+checkUnique("abcdefgh"); //returns true
+checkUnique("aabbccdd"); //returns false
+```
+<!-- end @acxbank -->
+<!-- @acxbank string-rotation -->
+### Q10. string-rotation
+
+Assume you have a function called `isSubstring` which checks if one word is a substring
+of another. Given two strings, s1 and s2, write a function called `isRotated` to check if s2 is a rotation of s1 using only one call to `isSubstring` (e.g., "waterbottle" is a rotation of "erbottlewat").
+
+Examples:
+```js
+isRotated("waterbottle","erbottlewat" ); //returns true
+isRotated("waterbottle","bottlerewat" ); //returns false
+isRotated("dragon","agondr" ); //returns true
+isRotated("dragon","dog" ); //returns false
 ```
 <!-- end @acxbank -->
