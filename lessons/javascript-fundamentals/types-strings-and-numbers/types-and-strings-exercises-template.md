@@ -6,3 +6,5 @@
 @acxbank upper-lower-string
 @acxbank truncate-a-string
 @acxbank exes-and-ohs
+@acxbank unique-characters-in-string
+@acxbank string-rotation

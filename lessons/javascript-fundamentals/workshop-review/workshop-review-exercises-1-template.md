@@ -3,6 +3,10 @@
 @acxbank for-js-6
 @acxbank remove-zero
 @acxbank min-function
+@acxbank sum-every-third
 @acxbank find-longest-word
+@acxbank tip-calculator
 @acxbank repeat-a-string
 @acxbank print-sequence
+@acxbank anagram-checker
+@acxbank max-array-slice-sum
