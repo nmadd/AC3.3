@@ -4,8 +4,8 @@
 |:----------:|:------:|:------:|:--------:|:-----:|:----:|
 | 2016-07-18 |X|X|X| [Environment & Tools](lessons/env-and-tools)<br> [Intro to Pair Programming](lessons/pair-programming) ||
 | 2016-07-19 |||X| [Workshop Review](lessons/javascript-fundamentals/workshop-review) ||
-| 2016-07-20 |[Link](pre-work/types-strings-numbers)||| [Types, Strings, and Numbers](lessons/javascript-fundamentals/types-strings-and-numbers) ||
-| 2016-07-21 |[Link](pre-work/objects-and-arrays)||| [Objects and Arrays](lessons/javascript-fundamentals/objects-and-arrays) |||
+| 2016-07-20 |[Link](pre-work/types-strings-numbers.md)||| [Types, Strings, and Numbers](lessons/javascript-fundamentals/types-strings-and-numbers) ||
+| 2016-07-21 |[Link](pre-work/objects-and-arrays.md)||| [Objects and Arrays](lessons/javascript-fundamentals/objects-and-arrays) |||
 | 2016-07-22 |[Link](pre-work/htmlcss1.md)||| [Intro To HTML and CSS Part 1](lessons/html-and-css/intro-to-html-and-css-part-1) |&nbsp;||
 
 **Homework:**
