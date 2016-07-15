@@ -16,6 +16,11 @@ Functions are the fundamental building blocks of JavaScript programs. Functions 
 
 Functions are everywhere in JavaScript, including things like `console.log`, `alert`, `prompt`, and array methods.
 
+###Demo
+- Built in functions
+- Passing functions to functions
+- The `arguments` object
+
 ##Intro to scope
 Functions create their own 'namespaces' (known as 'scope') which contain sets of variables, objects, and functions that you can access. Each function has its own scope, so variables declared within a function will not interfere with variables declared outside of a function (even if the variables have the same name).
 

@@ -1,9 +1,6 @@
 - title: JavaScript Fundamentals: Types, Strings, and Numbers
 - tags: javascript, numbers, strings, types
 
-#Pre-reading
-- [Eloquent JavaScript Chapter 1](http://eloquentjavascript.net/)
-
 # Objectives
 * Be able to name the six JavaScript types
 * Know how to use `typeof` to identify type
