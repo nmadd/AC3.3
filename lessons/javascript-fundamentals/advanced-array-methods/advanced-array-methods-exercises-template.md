@@ -2,6 +2,9 @@
 @acxbank forEach-log
 @acxbank simple-filter
 @acxbank high-low-sort
+@acxbank simple-filter-2
 @acxbank reverse-string-2
 @acxbank reduce-sum
 @acxbank implement-map
+@acxbank map-triple-array
+@acxbank map-strings-to-nums
