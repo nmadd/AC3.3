@@ -22,4 +22,5 @@
 - Dash
 
 #Other tips:
+- Use `⌘ + tab` to easily switch between programs
 - Change mouse speed 

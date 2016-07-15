@@ -2,7 +2,7 @@
 - tags: setup
 
 # Objectives
-* Be able to pair program effectively
+* Install a ton of cool stuff!
 
 # Resources
 - [Sublime Text Tips and Tricks](sublime-text-tips-and-tricks.md)
