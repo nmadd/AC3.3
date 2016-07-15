@@ -38,3 +38,8 @@ Other tips:
 - Pay close attention to the code and try to catch errors as early as possible
 - Stick to your roles until the agreed upon switching point; navigator should not be grabbing the keyboard/typing when it is not their role, and vice versa
 - Rely on your partner and support your partner. Work together as a team! 
+
+#Exercises
+- [Pair 1 Exercises](pairing-exercises-1.md)
+- [Pair 2 Exercises](pairing-exercises-2.md)
+- [Pair 3 Exercise - Best GIFs Ever](best-gifs-ever.md)
