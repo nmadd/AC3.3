@@ -27,12 +27,11 @@ numStringAdder(1, 1); // returns 2
 <!-- @acxbank javascript-math-2 -->
 ### Q3. javascript-math-2
 
-Write a function `sumOfAbs(arr)` that will receive as input an array of numbers, and return the sum of the absolute values of these numbers. For eample:
+Write a function `sumOfAbs(arr)` that will receive an argument an array of numbers, and return the sum of the absolute values of these numbers. For example:
 
 ```javascript
 sumOfAbs([ 1, 1, -1, -1])  // will return 4
 ```
-will return **4**.
 
 Use the Math library.
 <!-- end @acxbank -->
@@ -75,4 +74,21 @@ function randomNumber(min, max) {
 ```
 
 Write a function `randomArray(size, min, max)` that returns an array of size **size** where each element is a **whole** number between **min** and **max**.
+<!-- end @acxbank -->
+<!-- @acxbank challenge-in-rectangle -->
+### Q8. challenge-in-rectangle
+
+Suppose we represent a rectangle in Cartesian coordinates by an object with four properties: left and right _x_ coordinates, and the top and bottom _y_ coordinates.  Assume the left coordinate is less than the right, and the bottom coordinate less than the bottom.
+
+For example,
+```javascript
+rectangle = {
+  left: 4,
+  right: 10,
+  bottom: -2,
+  top: 2
+};
+```
+
+Write a function `inRectangle(x, y, rect)` that takes the _x_ and _y_ coordinates of a point, and a rectangle object as above, and returns true if the point is inside the rectangle.  If the point falls exactly on the edge of the rectangle, the function should return true.
 <!-- end @acxbank -->
