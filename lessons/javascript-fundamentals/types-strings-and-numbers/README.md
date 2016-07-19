@@ -42,7 +42,7 @@ Numbers are also a 'primitive' JavaScript data type. Unlike some other languages
 - `Infinity`
 
 ##Exercises
-[Numbers exercises](number-exercises.md)
+[Numbers exercises](numbers-exercises.md)
 
 
 ##Strings
@@ -57,4 +57,4 @@ Strings are one of five 'primitive' JavaScript data types. Strings are fundament
 - `length`
 
 ##Exercises
-[String exercises](types-and-string-exercises.md)
+[String exercises](types-and-strings-exercises.md)
