@@ -18,11 +18,11 @@ console.log('C');
 ```
 
 5. What does each below symbol mean?
-- &&
-- ||
-- !
-- >
-- <
+a. &&
+b. ||
+c. !
+d. >
+e. <
 
 6. Write a function named `sumAllElements` that returns the sum of all of the elements of an array.
 
