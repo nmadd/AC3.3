@@ -5,3 +5,4 @@
 @acxbank random-number-generator
 @acxbank javascript-math-7
 @acxbank javascript-math-8
+@acxbank challenge-in-rectangle
