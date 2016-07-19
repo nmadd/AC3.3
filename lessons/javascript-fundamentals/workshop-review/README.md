@@ -22,10 +22,9 @@
 
 ##Demo: Additional review
 - truthy vs falsy 
-- forwards and backwards `for` loop
-- `while` loop vs `for` loop
 - accessing different parts of an array
-- function syntax 
+- `while` loop vs `for` loop
+- function arguments 
 - difference between console.log and return 
 - additional 'what does this function output?' questions (from workshop)
 - workshop practice problem answers
