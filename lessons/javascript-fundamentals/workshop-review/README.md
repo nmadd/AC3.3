@@ -11,6 +11,9 @@
 ##Importance of review 
 **Discussion** What are some strategies for going back and practicing things you don't understand? What's the importance and ultimate goal of redoing things?
 
+##Exercise: End of Workshop Exam Round 2
+[End of Workshop Exam](end-of-workshop-exam.md)
+
 ##Workshop review
 **Discussion** What was most confusing about the workshop? What would you like to focus review on? 
 
