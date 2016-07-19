@@ -15,6 +15,7 @@ if(myFavNumber > yourFavNumber) {
   console.log('B');
 }
 console.log('C');
+```
 
 5. What does each below symbol mean?
 - &&
