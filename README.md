@@ -24,3 +24,13 @@ Welcome to Access Code!
 
 **Homework:**
 
+|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-07-25 |||| [Intro to the DOM]() ||
+| 2016-07-26 |||| [DOM Manipulation]() ||
+| 2016-07-27 |||| []() ||
+| 2016-07-28 |||| []() ||
+| 2016-07-29 |||| []() |&nbsp;||
+
+**Homework:**
+
