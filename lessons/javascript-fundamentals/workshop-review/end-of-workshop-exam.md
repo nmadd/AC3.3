@@ -1,10 +1,10 @@
-1. Given an array `myFavoriteNumbers`, write code to log to the console the **first** element of the array.
+**1** Given an array `myFavoriteNumbers`, write code to log to the console the **first** element of the array.
 
-2. Given an array `myFavoriteNumbers`, write code to log to the console the **last** element of the array.
+**2** Given an array `myFavoriteNumbers`, write code to log to the console the **last** element of the array.
 
-3. What is the value of 13 % 4 ?
+**3** What is the value of 13 % 4 ?
 
-4. What does this program output?
+**4** What does this program output?
 
 ```js
 var myFavNumber = 133;
@@ -17,26 +17,28 @@ if(myFavNumber > yourFavNumber) {
 console.log('C');
 ```
 
-5. What does each below symbol mean?
-- &&
-- ||
-- !
-- >
-- <
+**5** What does each below symbol mean?
+```js
+a. &&
+b. ||
+c. !
+d. >
+e. <
+```
 
-6. Write a function named `sumAllElements` that returns the sum of all of the elements of an array.
+**6** Write a function named `sumAllElements` that returns the sum of all of the elements of an array.
 
 
 
 
-7. What is wrong with the following function? It should return the square of the input integer. Please **identify and fix 3 bugs.**
+**7** What is wrong with the following function? It should return the square of the input integer. Please **identify and fix 3 bugs.**
 
 var Square an Integer = function () {
   x * x;
 }
 
 
-8. The following function should print out each element of the input array, but it's broken. What is wrong with the following function? Please identify and fix at least 6 bugs:
+**8** The following function should print out each element of the input array, but it's broken. What is wrong with the following function? Please identify and fix at least 6 bugs:
 
 ```js
 var function(input) {
@@ -46,7 +48,7 @@ var function(input) {
 }
 ```
 
-9. What does this program output for the call: `MysteryFunction([1,7,5,4,9])`?
+**9** What does this program output for the call: `MysteryFunction([1,7,5,4,9])`?
 
 ```js
 var MysteryFunction = function (input) {
