@@ -1,3 +1,8 @@
+@acxbank concat-strings
+@acxbank string-first-letter
+@acxbank string-last-letter
+@acxbank word-to-array
+@acxbank sentence-to-array
 @acxbank type-checker
 @acxbank is-empty-string
 @acxbank count-the-vowels

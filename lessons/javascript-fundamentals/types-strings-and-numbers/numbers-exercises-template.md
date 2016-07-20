@@ -1,3 +1,8 @@
+@acxbank sumThree
+@acxbank divide
+@acxbank add-two
+@acxbank remainder
+@acxbank string-to-int
 @acxbank javascript-math-1
 @acxbank parseInt-sum
 @acxbank javascript-math-2
