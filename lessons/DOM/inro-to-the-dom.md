@@ -15,3 +15,5 @@
 - `parent` and `child` nodes
 - `innerHTML`
 - `document.getElementById`
+- `firstChild` / `lastChild`
+- `firstChild` / `lastChild`
