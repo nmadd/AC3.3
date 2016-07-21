@@ -7,6 +7,7 @@ Examples:
 ```javascript
 arrLength([1, 2, 3, 3, 2, 1]);  // returns 6
 arrLength(["jets", "mets", "giants", "yankees"]); //returns 4
+```
 
 ### Q2. which-array-is-longer
 
