@@ -1,9 +1,6 @@
 - title: JavaScript Fundamentals: Intro to Objects
 - tags: javascript, objects
 
-#Pre-reading
-[Eloquent JavaScript Chapter 4 (read the entire chapter EXCEPT for the following sections: 'The Lycanthrope's Log', 'Computing Correlation', 'Objects as Maps', 'The Final Analysis.' Also, you do not need to do the exercises at the end of the chapter)](http://eloquentjavascript.net/04_data.html)
-
 # Objectives
 * Be able to define basic objects and access properties
 * Explain the difference between objects and arrays
@@ -40,7 +37,7 @@ var favoriteFoods = {john: "ice cream", sarah: "steak", liz: "pizza"}
 - Math object
 
 ##Exercises
-[Object exercises](object-exercises.md)
+[Object exercises](objects-exercises.md)
 
 ##Arrays vs Objects
 **Discussion** What’s are the differences between arrays and objects? What are some situations where we should use an array instead of an object? Vice versa?
