@@ -7,8 +7,7 @@ Examples:
 ```javascript
 arrLength([1, 2, 3, 3, 2, 1]);  // returns 6
 arrLength(["jets", "mets", "giants", "yankees"]); //returns 4
-<!-- end @acxbank -->
-<!-- @acxbank which-array-is-longer -->
+
 ### Q2. which-array-is-longer
 
 Write a function named `longestArr` that takes in two arrays as arguments. The function should compare the length of the two arrays and return whichever array is longer (aka whichever array has more values in it).
