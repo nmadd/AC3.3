@@ -16,6 +16,9 @@ Functions are the fundamental building blocks of JavaScript programs. Functions 
 
 Functions are everywhere in JavaScript, including things like `console.log`, `alert`, `prompt`, and array methods.
 
+##Function declaration vs function expression
+There are two ways od defining functions: function expressions, and function declarations. Function declarations are completely hoisted; with function expressions, only the variable gets hoisted.
+
 ###Demo
 - Built in functions
 - Passing functions to functions
@@ -30,10 +33,19 @@ Functions create their own 'namespaces' (known as 'scope') which contain sets of
 - `for` loop scope (or not)
 - What happens if we write a variable within a function without using the `var` keyword?
 
+##Exercises
+[Scope Exercises](scope-exercises.md)
+
+##First-class functions
+Functions are 'first-class citizens' in JavaScript, which means they can be passed around similarly to other values like strings, and numbers. In other words, you can pass in functions as arguments, and even return a function from a function.
+
 ##Anonymous functions
 We can also declare functions anonymously, without giving them a variable name
 
 **Discussion** Why would we need anonymous functions? What are some advantages and disadvantages?
+
+##Exercises
+[Function exercises](function-exercises.md)
 
 ##The call stack
 Functions are called in a certain order, depending on where they;re invoked. This order (known as 'the call stack') effects how our program runs, and can be traced using Chrome dev tools.

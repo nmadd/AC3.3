@@ -12,9 +12,10 @@
 Array methods are a really powerful tool in JavaScript. Specifically, methods like `map`, `filter`, and `reduce` make solving certain problems (for example, a lot of problems that we've previously been using loops to solve) a lot easier. Let's learn how they work!
 
 ###Demo: Advanced array methods
+- `every`
+- `sort` 
+- `reverse`
+- `filter`
 - `forEach`
 - `map`
-- `filter`
 - `reduce`
-- `every`
-- `sort` / `reverse`
