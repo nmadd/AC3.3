@@ -3,8 +3,7 @@
 
 Create an object that has some information about yourself, including your name, hometown, favorite food, and favorite musical artist. Feel free to add any other properties you'd like.
 
-Examples:
-```js
+ ```js
 var nate = {name: 'Nate', 
             hometown: 'Montclair, NJ', 
             favorite_food: 'Chocolate ice cream', 
@@ -56,7 +55,6 @@ This is a ______ rabbit
 
 Create two objects:
 1. An object called **cat**. This object will contain the properties **kind** ("cat") and **age** (2);
-
 2. An object called **mouse**. This object will contain the properties **kind** ("mouse") and **age** (20);
 
 Write a function called **whoIsWiser** that accepts two objects as arguments: **firstAnimal** and **secondAnimal**. Have the function compare the **age** property of the two objects. If the age is equal, it
