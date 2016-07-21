@@ -39,6 +39,9 @@ var favoriteFoods = {john: "ice cream", sarah: "steak", liz: "pizza"}
 - Looping over objects
 - Math object
 
+##Exercises
+[Object exercises](object-exercises.md)
+
 ##Arrays vs Objects
 **Discussion** What’s are the differences between arrays and objects? What are some situations where we should use an array instead of an object? Vice versa?
 
@@ -57,3 +60,6 @@ Array methods are essentially functions that are built into certain objects (in 
 - `concat`
 - `join`
 - `indexOf`
+
+##Exercises
+[Array exercises](array-methods-exercises.md)
