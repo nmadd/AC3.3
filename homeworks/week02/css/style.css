@@ -1,0 +1,25 @@
+
+.big {
+    width: 80%;
+    margin: 25px auto;
+}
+
+.small {
+    width: 100%;
+}
+
+.small ul {
+    padding: 5px;
+}
+.small li {
+    list-style-type: none;
+}
+
+.movie {
+}
+
+/* Use the following for genre-specific styling. For example, maybe
+ use a different border or background color for each genre. */
+ .animation { }
+.action { }
+.drama { }
