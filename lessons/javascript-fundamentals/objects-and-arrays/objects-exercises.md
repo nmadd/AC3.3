@@ -131,6 +131,7 @@ var student = {
 };
 
 objSize(student); //returns 4
+```
 <!-- end @acxbank -->
 <!-- @acxbank javascript-simple-objects-5 -->
 ### Q10. javascript-simple-objects-5
