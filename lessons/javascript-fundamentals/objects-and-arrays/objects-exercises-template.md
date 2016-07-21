@@ -1,5 +1,6 @@
 @acxbank iObject
 @acxbank create-object
+@acxbank get-object-name
 @acxbank favorite-movies
 @acxbank javascript-simple-objects-2
 @acxbank javascript-simple-objects-3
