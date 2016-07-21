@@ -86,7 +86,7 @@ Examples:
 ```javascript
 tail([1, 2, 3, 4]);  // returns [2, 3, 4]
 tail(['cat', 'dog', 'catdog']);  // returns ['dog', 'catdog']
-tail([1, 'one']);  // returns [1]
+tail([1, 'one']);  // returns ['one']
 ```
 <!-- end @acxbank -->
 <!-- @acxbank join-three-arrays -->
