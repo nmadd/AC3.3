@@ -1,5 +1,18 @@
+<!-- @acxbank iObject -->
+### Q1. iObject
+
+Create an object that has some information about yourself, including your name, hometown, favorite food, and favorite musical artist. Feel free to add any other properties you'd like.
+
+Examples:
+```js
+var nate = {name: 'Nate', 
+            hometown: 'Montclair, NJ', 
+            favorite_food: 'Chocolate ice cream', 
+            favorite_artist: 'Jimi Hendrix'}
+```
+<!-- end @acxbank -->
 <!-- @acxbank create-object -->
-### Q1. create-object
+### Q2. create-object
 
 Create an object called `company`. The company object should contain the following properties: name, year founded, CEO. The CEO should be an object that contains two properties: `name` and `age`. Choose a real company (other than Apple) and add its details.
 
@@ -8,13 +21,24 @@ Example:
 { name: 'Apple', founded: 1976, ceo: { name: 'Tim Cook', age: 55 } }
 ```
 <!-- end @acxbank -->
+<!-- @acxbank get-object-name -->
+### Q3. get-object-name
+
+Write a function named `getObjName` that takes in an object as an argument. The function return the value of the `name` property of the object.
+
+Examples:
+```javascript
+getObjName({name: 'Jimi', insrument: 'guitar'});  // returns 'Jimi'
+getObjName({name: 'Snorlax', type: 'normal'});  // returns 'Snorlax'
+```
+<!-- end @acxbank -->
 <!-- @acxbank favorite-movies -->
-### Q2. favorite-movies
+### Q4. favorite-movies
 
 Create an array of 3-5 objects, where each object describes one of your favorite movies and has properties for the `title`, `genre`, and `year_released`.
 <!-- end @acxbank -->
 <!-- @acxbank javascript-simple-objects-2 -->
-### Q3. javascript-simple-objects-2
+### Q5. javascript-simple-objects-2
 
 Create two objects:
 1. An object called **whiteRabbit**, containing as property a variable named **type**. Make this variable equal to *white*.
@@ -28,7 +52,7 @@ This is a ______ rabbit
 ```
 <!-- end @acxbank -->
 <!-- @acxbank javascript-simple-objects-3 -->
-### Q4. javascript-simple-objects-3
+### Q6. javascript-simple-objects-3
 
 Create two objects:
 1. An object called **cat**. This object will contain the properties **kind** ("cat") and **age** (2);
@@ -52,7 +76,7 @@ Call the function with the following variables:
 4. mouse, mouse.
 <!-- end @acxbank -->
 <!-- @acxbank javascript-simple-objects-4 -->
-### Q5. javascript-simple-objects-4
+### Q7. javascript-simple-objects-4
 
 You are given the following code:
 ```javascript
@@ -83,7 +107,7 @@ write a function called **dialogue** that would accepts as arguments two objects
 Assume that both **words** arrays are of the same length. However, you do not know the length of these arrays in advance.
 <!-- end @acxbank -->
 <!-- @acxbank javascript-simple-objects-1 -->
-### Q6. javascript-simple-objects-1
+### Q8. javascript-simple-objects-1
 
 Create an empty object called **rabbit**. Add a function called **speak** as a property to your object. This function will accept a single argument and log to the console "The rabbit says: " followed by the argument. Call the function with the string "Can I have some lettuce?".
 
@@ -93,12 +117,23 @@ The rabbit says: Can I have some lettuce?
 ```
 <!-- end @acxbank -->
 <!-- @acxbank obj-length -->
-### Q7. obj-length
+### Q9. obj-length
 
-Create an object explicitly (using {}); then write a function that takes this object as its input and return the object's size (number of properties in the object) as its output.
+Write a function called `objSize` that takes this object as its input and return the object's size (number of properties in the object) as its output.
+
+Example:
+```js
+var student = { 
+  name : "Tony Stark", 
+  university: "MIT", 
+  Major: "Physics",
+  age : 40
+};
+
+objSize(student); //returns 4
 <!-- end @acxbank -->
 <!-- @acxbank javascript-simple-objects-5 -->
-### Q8. javascript-simple-objects-5
+### Q10. javascript-simple-objects-5
 
 You are helping create a simple text-based role playing game. The Following code is given:
 
