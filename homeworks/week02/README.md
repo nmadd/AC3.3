@@ -25,7 +25,7 @@ automagically inserted into the ```<body>``` of the HTML page for you.
 
  The function has two arguments: ```movieArray``` will contain an
  array of "movie" objects, which we will explain below, and
- ```displayWide``` is a boolean which (in [Step 4](#user-content-step-3)) 
+ ```displayWide``` is a boolean which (in [Step 4](#user-content-step-4)) 
  will control what kind of HTML you should generate, but you can ignore
  it for now.
 
