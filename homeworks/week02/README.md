@@ -19,15 +19,15 @@ function render(movieArray, displayWide)
 
 This function will be automagically called for you when you open or
 reload this webpage, so you can think of this function as the "entry
-point" to the code that you will write for this assignment. The
-function needs to return a string, which will be displayed in the
-```<body>``` of the HTML page.
+point" to the code that you will write for this assignment. This
+function must return a string, and the string that it returns will get 
+automagically inserted into the ```<body>``` of the HTML page for you.
 
  The function has two arguments: ```movieArray``` will contain an
  array of "movie" objects, which we will explain below, and
- ```displayWide``` is a boolean which (in [Step
- 3](#user-content-step-3)) will control what kind of HTML you should
- generate, but you can ignore it for now.
+ ```displayWide``` is a boolean which (in [Step 4](#user-content-step-3)) 
+ will control what kind of HTML you should generate, but you can ignore
+ it for now.
 
 ## Step 1:
 
