@@ -1,8 +1,6 @@
 $(document).ready(function() {
 
-    var isBig = window.innerWidth > 500;
-
-    html = render(data, isBig);
+    html = render(data, window.innerWidth > 500);
 
     $("body").append(html);
 });
