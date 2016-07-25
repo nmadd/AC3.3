@@ -11,6 +11,13 @@
 ##Intro to advanced array methods
 Array methods are a really powerful tool in JavaScript. Specifically, methods like `map`, `filter`, and `reduce` make solving certain problems (for example, a lot of problems that we've previously been using loops to solve) a lot easier. Let's learn how they work!
 
+##Pure vs impure functions
+Read over the following: [Pure vs Impure Functions](http://www.nicoespeon.com/en/2015/01/pure-functions-javascript/)
+
+- What's the difference between a puer and an impure function?
+- What's the importance of purity?
+- Does every function need to be pure?
+
 ###Demo: Advanced array methods
 - `every`
 - `sort` 
