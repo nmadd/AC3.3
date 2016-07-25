@@ -33,7 +33,9 @@ And try to answer these questions:
 [Scope Exercises](scope-exercises.md)
 
 ##First-class functions
-[Functions as First Class Citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/)
+Read the following: [Functions as First Class Citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/)
+
+Then try to answer these questions:
 
 - What does it mean for a function to be a 'first class citizen?'
 - What are some other examples of first class citizens in JavaScript?
