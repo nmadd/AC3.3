@@ -55,7 +55,7 @@ Read the 'Arguments Object' section in the following article: [The Arguments Obj
 - What is it generally used for?
 
 ##Exercises
-[Function exercises](function-exercises.md)
+[Function exercises](functions-exercises.md)
 
 ##The call stack
 Functions are called in a certain order, depending on where they;re invoked. This order (known as 'the call stack') effects how our program runs, and can be traced using Chrome dev tools.
