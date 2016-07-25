@@ -12,7 +12,7 @@ Welcome to Access Code!
 | 2016-07-21 |[Link](pre-work/objects-and-arrays.md)||| [Objects and Arrays](lessons/javascript-fundamentals/objects-and-arrays) |||
 | 2016-07-22 |[Link](pre-work/htmlcss1.md)||| [Intro To HTML and CSS Part 1](lessons/html-and-css/intro-to-html-and-css-part-1) |&nbsp;||
 
-**Homework:**
+**Homework:** [Assignment] | [Answers]()
 
 |  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
