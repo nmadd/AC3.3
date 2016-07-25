@@ -6,43 +6,51 @@
 * Understand the difference between anonymous and named functions
 
 # Resources
-[JavaScript Functions (W3)](http://www.w3schools.com/js/js_functions.asp)
+- [JavaScript Functions (W3)](http://www.w3schools.com/js/js_functions.asp)
+- [JavaScript Scope](http://www.w3schools.com/js/js_scope.asp)
+- [Everything You Wanted To Know About JS Scope](https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 
 #Lecture
 ##Functions are everywhere
 Functions are the fundamental building blocks of JavaScript programs. Functions allow us to easily reuse pieces of code in different contexts, reduce repitition, and keep our programs modular.
-
-**Discussion** Why is reducing repetition important? Why is reusability and modularity important?
 
 Functions are everywhere in JavaScript, including things like `console.log`, `alert`, `prompt`, and array methods.
 
 ##Function declaration vs function expression
 There are two ways od defining functions: function expressions, and function declarations. Function declarations are completely hoisted; with function expressions, only the variable gets hoisted.
 
-###Demo
-- Built in functions
-- Passing functions to functions
-- The `arguments` object
-
 ##Intro to scope
-Functions create their own 'namespaces' (known as 'scope') which contain sets of variables, objects, and functions that you can access. Each function has its own scope, so variables declared within a function will not interfere with variables declared outside of a function (even if the variables have the same name).
+Read the following: [JavaScript Scope](http://www.w3schools.com/js/js_scope.asp)
 
-###Demo: Functional scope
-- Same variable name, inside and outside of function
-- Nested functions
-- `for` loop scope (or not)
-- What happens if we write a variable within a function without using the `var` keyword?
+And try to answer these questions:
+- What is 'scope?'
+- What's the difference between global and local variables?
+- How do we create local variables?
+- What's the importance of using the `var` keyword?
+- How do we create new scope in JavaScript?
 
 ##Exercises
 [Scope Exercises](scope-exercises.md)
 
 ##First-class functions
-Functions are 'first-class citizens' in JavaScript, which means they can be passed around similarly to other values like strings, and numbers. In other words, you can pass in functions as arguments, and even return a function from a function.
+[Functions as First Class Citizens](http://ryanchristiani.com/functions-as-first-class-citizens-in-javascript/)
+
+- What does it mean for a function to be a 'first class citizen?'
+- What are some other examples of first class citizens in JavaScript?
 
 ##Anonymous functions
-We can also declare functions anonymously, without giving them a variable name
+Read the first two sections of the following: [Anonymous JS Functions](http://thoughtsonscripts.blogspot.com/2012/01/javascript-anonymous-functions.html)
 
-**Discussion** Why would we need anonymous functions? What are some advantages and disadvantages?
+And then answer the following questions:
+- What's an anonymous function?
+- Why would we need anonymous functions?
+- What are some advantages and disadvantages of anonymity?
+
+##The `arguments` object
+Read the 'Arguments Object' section in the following article: [The Arguments Object](http://www.w3schools.com/js/js_function_parameters.asp)
+
+- What is the `arguments` object?
+- What is it generally used for?
 
 ##Exercises
 [Function exercises](function-exercises.md)
