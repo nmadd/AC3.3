@@ -283,3 +283,13 @@ getProductsOfAllIntsExceptAtIndex([1, 7, 3, 4]); //returns [84, 12, 28, 21]
 ```
 In other words, to get to the above answer your function would need to calculate: `[7*3*4, 1*3*4, 1*7*4, 1*7*3]`
 <!-- end @acxbank -->
+
+###Q15. highest-product-of-3
+
+Given an array of integers as an argument, write a function called `highestProduct` that should return the highest product you can get from any three of the integers. Watch out for negative numbers....
+
+Examples:
+```js
+highestProduct([1, 3, 2, 5, 6]); //returns 90 (by multiplying 6 * 5 * 3)
+highestProduct([-10, 5, -10, 5, 10]); //returns 1000 (by multiplying -10 * -10 * 10)
+```
