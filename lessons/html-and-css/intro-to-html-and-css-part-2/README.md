@@ -6,7 +6,6 @@
 * Learn basic CSS styling
 * Start getting familiar with CSS chrome dev tools
 
-
 # Resources
 [CSS Syntax](http://www.w3schools.com/css/css_syntax.asp)
 [CSS Selectors] (https://developer.mozilla.org/en-US/Learn/CSS/Introduction_to_CSS/Selectors)
@@ -42,5 +41,3 @@ We've learned some HTML for creating basic page layouts. But what about more com
 - Inspecting specific elements
 - Inspecting margin, padding, etc.
 - Trying out different styles
-
-
