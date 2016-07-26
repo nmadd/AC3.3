@@ -36,7 +36,7 @@ Begin by creating a function that implements the following signature:
 function renderMovie(movie)
 ```
 
-The ```movie``` argument will be a JavaScript object with six fields,
+The ```movie``` argument will be a JavaScript object with five fields,
 like this example:
 
 ```javascript
