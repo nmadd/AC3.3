@@ -15,15 +15,15 @@ Sublime Text Tips and Tricks | tools
 
 ##Lecture
 ###Installing Sublime Text Packages and Themes
-1. Install Sublime Text 3: 
+1. Install Sublime Text 3: https://www.sublimetext.com/3
 2. Install package manager: https://packagecontrol.io/installation
 3. Browse popular packages: https://packagecontrol.io/browse/popular
 4. Install packages by typing `⌘ ⇧ P (Command - Shift - P)` in Sublime Text and selecting `Package Control: Install Package`. You should then see a list of packages. Select the name of the package you'd like to install and hit `enter` to install the package. Some popular packages include: 
-	- Bracket Highlighter
-	- GitGutter
-	- SublimeLinter & JSHint
-	- HTML-CSS-JS Prettify
 	- Sidebar Enhancements
+  - Bracket Highlighter
+  - GitGutter
+  - SublimeLinter & JSHint
+  - HTML-CSS-JS Prettify
 	- ColorPicker
 5. You can also install themes by typing `⌘ ⇧ P (Command - Shift - P)` in Sublime Text and selecting `Package Control: Install Package`. Then search for the theme you'd like, select it, and install it. After installing the theme you'll need to set it in the `Preferences -> Settings – User` file by adding a line that looks like the following:
 
