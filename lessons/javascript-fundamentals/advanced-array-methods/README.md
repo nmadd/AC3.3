@@ -40,6 +40,9 @@ Read [this article](http://www.w3schools.com/jsref/jsref_obj_array.asp) to find 
 - `every`
 - `some
 
+##Exercises
+[Advanced Array Methods Exercises Part 1](advanced-array-methods-exercises.md)
+
 
 ###Demo: Advanced array methods part 2
 Again look over [this article](http://www.w3schools.com/jsref/jsref_obj_array.asp) to find the definitions of the below methods, and try to define what each is used for. What makes these functions different from things like `for` loops and `while` loops? What are the advantages and disadvantages of using them instead of loops?
@@ -48,3 +51,6 @@ Again look over [this article](http://www.w3schools.com/jsref/jsref_obj_array.as
 - `filter`
 - `map`
 - `reduce`
+
+##Exercises
+[Advanced Array Methods Exercises Part 2](advanced-array-methods-exercises-2.md)
