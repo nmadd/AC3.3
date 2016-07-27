@@ -22,5 +22,5 @@ Welcome to Access Code!
 | 2016-07-28 |||| [Review/Project]() ||
 | 2016-07-29 |||| [Assessment]() |&nbsp;||
 
-**Homework:**
+**Homework:** [Assignment](homeworks/week02)
 
