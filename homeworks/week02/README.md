@@ -13,9 +13,10 @@ create a new folder. If you look inside this new folder you should see
 an `index.html` file and two subfolders: `css` and `js`. This
 directory structure (a project directory with HTML files and
 subdirectories for CSS and JavaScript files) is very common for
-developing web projects. You will be editing a file in the `css`
-folder, which will be described below. And for this assignment, you
-can ignore the `js` folder.
+developing web projects. For this assignment, you will be editing
+`index.html` as well as a file in the `css` folder, which will be
+described below. And for this assignment, you can ignore the `js`
+folder, but feel free to look inside if you are curious -- and brave!
 
 Double-click on the `index.html` file, and it should open in
 your browser, displaying a simple `Hello, world.` message.
