@@ -37,6 +37,7 @@ How would you do the folllwing?
 - `innerHTML`
 - `document.getElementById`
 - `firstChild` / `lastChild`
+- [DEMO](demo.md)
 
 ##Manipulating the DOM
 We can add, remove, and change DOM elements using certain methods. DOM manipulation is the basis of adding interactivity to websites.
@@ -46,3 +47,6 @@ Read the following: [Manipulating DOM Nodes](http://www.w3schools.com/js/js_html
 ##Demo: Manipulating elements
 - `document.body.appendChild`
 - `document.createElement`
+
+##Project
+[Directions](groceryList.md)
