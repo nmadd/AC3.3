@@ -65,7 +65,7 @@ For your first task, add some JavaScript that makes this change from
 large to small dynamic, so you can resize the window and the format
 will change without reloading.
 
-Now open `js/main.js` in your editor. Note that all code is being
+Open `js/main.js` in your editor. Note that all code is being
 added inside a jQuery block that runs when the document is ready:
 
 ```javascript
@@ -79,10 +79,10 @@ event](https://api.jquery.com/resize/#entry-examples).
 
 Inside that handler, use the special JavaScript variable
 `window.innerWidth` and add an `if` statement so that if the window
-width is greater than 500, select the element with ID `frame`, [remove
+width is greater than 500, select the DOM element with ID `frame`, [remove
 the class](https://api.jquery.com/removeclass/) `small` from it, and
 [add the class](https://api.jquery.com/addclass/) `big`. (You can do
-this on one line by chaining together your class modifieers.)
+this on one line by chaining together your class modifiers.)
 Otherwise (i.e., if the window is *less* than 500), select the element
 with ID `frame`, but now [remove the
 class](https://api.jquery.com/removeclass/) `big` from it, and [add
