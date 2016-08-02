@@ -27,7 +27,7 @@ Welcome to Access Code!
 |  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-08-01 |||| [Intro to the DOM](lessons/DOM/intro-to-the-dom.md) ||
-| 2016-08-02 |||| [Intro to Browser Events](lessons/DOM/intro-to-browser-events.md) ||
+| 2016-08-02 |||| [Intro to Browser Events](lessons/DOM) ||
 | 2016-08-03 |||| [Intro to jQuery](lessons/jquery/intro-to-jquery.md) ||
 | 2016-08-04 |||| []() ||
 | 2016-08-05 |||| []() |&nbsp;||
