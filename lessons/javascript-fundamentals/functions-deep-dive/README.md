@@ -14,7 +14,10 @@
 ##Functions are everywhere
 Functions are the fundamental building blocks of JavaScript programs. Functions allow us to easily reuse pieces of code in different contexts, reduce repitition, and keep our programs modular.
 
-Functions are everywhere in JavaScript, including things like `console.log`, `alert`, `prompt`, and array methods.
+Functions are everywhere in JavaScript, including things like `console.log`, `prompt`, and array methods.
+
+##Global vs local
+JavaScript variables can either be global or local. It is generally bad practice to create global variables. There is typically a single global variable that holds all other variables (e.g. `window`). 
 
 ##Function declaration vs function expression
 There are two ways od defining functions: function expressions, and function declarations. Function declarations are completely hoisted; with function expressions, only the variable gets hoisted.
