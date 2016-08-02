@@ -195,7 +195,8 @@ To solve this, we'll merge the filtering from Steps 2 and 3 into one
 handler. First, comment out your solutions to Steps 2 and 3. Don't 
 delete them, because we'll refer back to them. But we don't need that
 functionality now because we will be recreating it in a better way 
-here.
+here. But don't comment out the `preventDefault()`! That is still
+needed.
 
 Start with the following event handler:
 
