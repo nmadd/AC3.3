@@ -14,7 +14,7 @@
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-07-25 |||| [Functions Deep Dive](lessons/javascript-fundamentals/functions-deep-dive) ||
 | 2016-07-26 |||| [Advanced Array Methods](lessons/javascript-fundamentals/advanced-array-methods) ||
-| 2016-07-27 |[link](http://www.htmldog.com/guides/css/beginner/)||| [Intro To HTML and CSS Part 2](lessons/html-and-css/intro-to-html-and-css-part-2) ||
+| 2016-07-27 |||| [Intro To HTML and CSS Part 2](lessons/html-and-css/intro-to-html-and-css-part-2) ||
 | 2016-07-28 |||| [Review/Project]() ||
 | 2016-07-29 |||| [Assessment]() |&nbsp;||
 
