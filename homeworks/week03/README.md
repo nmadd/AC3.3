@@ -192,9 +192,12 @@ with each other in weird ways. Try to filter all dramas newer than
 2000 for example and see what happens.
 
 To solve this, we'll merge the filtering from Steps 2 and 3 into one
-handler.
+handler. First, comment out your solutions to Steps 2 and 3. Don't 
+delete them, because we'll refer back to them. But we don't need that
+functionality now because we will be recreating it in a better way 
+here.
 
-Start with following event handler:
+Start with the following event handler:
 
 ```javascript
   $('input').bind('keyup change', function(event) {
