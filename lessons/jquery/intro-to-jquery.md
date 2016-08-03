@@ -3,14 +3,13 @@
 
 # Resources
 - [jQuery Selectors](http://www.w3schools.com/jquery/jquery_selectors.asp)
+- [Reference List of jQuery Selectors](http://www.w3schools.com/jquery/jquery_ref_selectors.asp)
 - [jQuery Events](http://www.w3schools.com/jquery/jquery_events.asp)
 
 #Lecture
 ##Intro to jQuery
 jQuery is a simple library thats makes it even easier to add interaction to webpages. 
 
-##Exercise: Codecademy Introduction to jQuery
-[Intro to jQuery](https://www.codecademy.com/ja/courses/web-beginner-en-bay3D/0/1?curriculum_id=50a3fad8c7a770b5fd0007a1)
 
 ##jQuery Selectors
 Read the following: [Inro to jQuery Selectors](http://www.w3schools.com/jquery/jquery_selectors.asp).
@@ -35,13 +34,27 @@ Using jQuery, how would we do the following actions?
 Read the following: 
 - [jQuery Hide/Show](http://www.w3schools.com/jquery/jquery_hide_show.asp)
 - [jQuery Fade](http://www.w3schools.com/jquery/jquery_fade.asp)
-- [jQuery Slide](http://www.w3schools.com/jquery/jquery_slide.asp)
 - [jQuery Animate](http://www.w3schools.com/jquery/jquery_animate.asp)
 
 Using jQuery, how would we do the following actions?
 - hide a button if a user clicks on it?
 - fade a button out if a user hovers over it?
 - animate something to move to the left?
+
+##Exercises 1
+[Intro to jQuery Exercises 1](intro-to-jquery-exercises/exercises-1.js)
+
+##Manipulating Style and CSS
+Read the following: 
+- [jQuery CSS manipulation](http://www.w3schools.com/jquery/jquery_css.asp)
+- [jQuery Adding and Removing Classes](http://www.w3schools.com/jquery/html_addclass.asp)
+
+Using jQuery, how would we do the following actions?
+- change the background color of an element?
+- add a class to an element?
+
+##Exercises 2
+[Intro to jQuery Exercises 2](intro-to-jquery-exercises/exercises-2.js)
 
 ##Adding and removing elements with jQuery
 Read the following: 
@@ -63,11 +76,6 @@ Using jQuery, how would we do the following actions?
 - change some HTML content?
 - get a form value?
 
-##Manipulating Style and CSS
-Read the following: 
-- [jQuery CSS manipulation](http://www.w3schools.com/jquery/jquery_css.asp)
-- [jQuery Adding and Removing Classes](http://www.w3schools.com/jquery/html_addclass.asp)
+##Exercises 3
+[Intro to jQuery Exercises 3](intro-to-jquery-exercises/exercises-3.js)
 
-Using jQuery, how would we do the following actions?
-- change the background color of an element?
-- add a class to an element?
