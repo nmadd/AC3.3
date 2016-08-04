@@ -1,10 +1,15 @@
 //YOUR CODE HERE:
 
 //1. Click on any button to console log "Clicked a button"
+// $('button').click(function(){
+//   console.log('clicked a button')
+// })
 
 
 //2. Hover over any box to console log "Hovering over a box"
-
+$('button').click(function(){
+  console.log('clicked a button')
+})
 
 
 //3. Click on Button 1 to hide all squares. Click on Button 2 to show all squares.
