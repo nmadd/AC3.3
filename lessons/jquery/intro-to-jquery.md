@@ -79,3 +79,6 @@ Using jQuery, how would we do the following actions?
 ##Exercises 3
 [Intro to jQuery Exercises 3](intro-to-jquery-exercises/exercises-3.js)
 
+##Project 1: jQuery Grocery List
+[jQuery Grocery List](jQuery-grocery-list/README.md)
+
