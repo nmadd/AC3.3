@@ -15,4 +15,21 @@
 //    $(this).animate({left: '250px'});
 // })
 
-$('p').css('background-color', 'magenta')
+// $('button').click(function(){
+//   $('p').css('background-color': 'magenta')
+// })
+
+// $('button').click(function(){
+//   var newElement = document.createElement('li');
+//   newElement.innerHTML = 'Ten';
+//   $('li').after(newElement)
+// })
+
+$('button').click(function(){
+  console.log($('.input-box').val())
+})
+
+
+
+
+
