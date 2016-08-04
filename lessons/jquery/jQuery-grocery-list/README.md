@@ -3,6 +3,7 @@ Make a simple to-do-list web app using jQuery that helps you track of what groce
 
 
 ### Instructions
+- Create a new folder called "jquery-grocery-list"
 - Add an `index.html` file to your folder (this is where you'll be adding your HTML)
 - Add an `app.js` file to your folder (this is where you'll be adding your jQuery code)
 - Add `body` tags to your HTML file
