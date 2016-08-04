@@ -11,6 +11,8 @@
 // })
 
 
-$('li').click(function() {
-   $(this).animate({left: '250px'});
-})
+// $('').click(function() {
+//    $(this).animate({left: '250px'});
+// })
+
+$('p').css('background-color', 'magenta')
