@@ -4,6 +4,8 @@ Welcome to Access Code!
 
 # Unit 1
 
+### Week 1
+
 |  Date      |Pre-Work| Pre-check | Challenge| Lesson |Check-in|
 |:----------:|:------:|:------:|:--------:|:-----:|:----:|
 | 2016-07-18 |X|X|X| [Environment & Tools](lessons/env-and-tools)<br> [Intro to Pair Programming](lessons/pair-programming) ||
@@ -12,7 +14,9 @@ Welcome to Access Code!
 | 2016-07-21 |[Link](pre-work/objects-and-arrays.md)||| [Objects and Arrays](lessons/javascript-fundamentals/objects-and-arrays) |||
 | 2016-07-22 |[Link](pre-work/htmlcss1.md)||| [Intro To HTML and CSS Part 1](lessons/html-and-css/intro-to-html-and-css-part-1) |&nbsp;||
 
-**Homework:** [Assignment] | [Answers]()
+**Homework:** [Week 1 Assignment] | [Answers]()
+
+### Week 2
 
 |  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
@@ -22,7 +26,9 @@ Welcome to Access Code!
 | 2016-07-28 |||| [Review/Project]() ||
 | 2016-07-29 |||| [Assessment]() |&nbsp;||
 
-**Homework:** [Assignment](homeworks/week02)
+**Homework:** [Week 2 Assignment](homeworks/week02)
+
+### Week 3
 
 |  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
@@ -32,4 +38,4 @@ Welcome to Access Code!
 | 2016-08-04 |||| [Intro to jQuery](lessons/jquery/intro-to-jquery.md) ||
 | 2016-08-05 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScRhUk9vQZYtO4_9VuILg1f0b7YT5NixCU4moW1lXn9SXg4Ow/viewform)|[Link](challenges/08-05-challenges.md)| [Intro to jQuery](lessons/jquery/intro-to-jquery.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfIQGGMlD4vj5zyTRdTJCvW7SNr2_Ft1ICMoFIMsZHjeiNmhQ/viewform)&nbsp;||
 
-**Homework:**
+**Homework:** [Week 3 Assignment](homeworks/week03)
