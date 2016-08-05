@@ -39,6 +39,7 @@ How would you do the folllwing?
 - `firstChild` / `lastChild`
 - [DEMO](demo.md)
 
+
 ##Manipulating the DOM
 We can add, remove, and change DOM elements using certain methods. DOM manipulation is the basis of adding interactivity to websites.
 
@@ -50,3 +51,4 @@ Read the following: [Manipulating DOM Nodes](http://www.w3schools.com/js/js_html
 
 ##Project
 [Directions](groceryList.md)
+
