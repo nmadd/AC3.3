@@ -10,7 +10,7 @@ $(document).ready(function() {
 
 
     // Step 3: Text box year filter
-    $('form').submit(function(event) { event.preventDefault(); })
+    $('form').submit(function (event) { event.preventDefault(); })
 
 
 

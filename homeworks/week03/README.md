@@ -69,7 +69,7 @@ Open `js/main.js` in your editor. Note that all code is being
 added inside a jQuery block that runs when the document is ready:
 
 ```javascript
-$(document).ready(function() {
+$(document).ready(function () {
   ...
 }
 ```
@@ -150,7 +150,7 @@ Inside this handler, let's start by getting the numerical value of the
 year that the user has just entered. Start with this:
 
 ```javascript
-  var user_year = parseInt( ___ )
+  var userYear = parseInt( ___ )
 ```
 
 Replace "___" by using a selector to target your year `<input>` and
@@ -161,9 +161,9 @@ we can do a comparison on.
 Now add the following:
 
 ```javascript
-  $('div.movie').each(function() {
+  $('div.movie').each(function () {
 
-      var movie_year = parseInt( $(this).find('dd.year').html() )
+      var movieYear = parseInt( $(this).find('dd.year').html() )
 
       // comparison:
 
@@ -178,8 +178,8 @@ extracts the value of the year for the current movie that we're
 looping over.
 
 Now you have all the pieces to finish this filter. Beneath the
-"comparison" comment, add an `if` statement that compares `movie_year`
-to `user_year`. If `movie_year` is greater, then call `$(this).show()`
+"comparison" comment, add an `if` statement that compares `movieYear`
+to `userYear`. If `movieYear` is greater, then call `$(this).show()`
 to display the current movie. Otherwise, call `.hide()` on it.
 
 This should allow you to type in a year and only see movies that are
@@ -201,7 +201,7 @@ needed.
 Start with the following event handler:
 
 ```javascript
-  $('input').bind('keyup change', function(event) {
+  $('input').bind('keyup change', function (event) {
 
   })
 ```
@@ -212,34 +212,34 @@ will use this one handler to respond to `keyup` events *and* `change`
 events for each `input` on the page.
 
 Inside that, copy and paste your line from Step 3 that sets `var
-user_year` to the value of your year `<input>`.
+userYear` to the value of your year `<input>`.
 
 Add the following `if` to make sure we have a valid value: (Question:
 Can you think of why we didn't need to worry about this in Step 3?)
 
 ```javascript
-  if ( isNaN(user_year) ) {
-    user_year = 0
+  if (isNaN(userYear)) {
+    userYear = 0
   }
 ```
 
 Also, add the entire `.each()` loop from Step 3 above. After setting
-`movie_year`, add an almost identical line that sets a new variable
-called `movie_genre`. You can do this by targeting `dd.genre` instead
+`movieYear`, add an almost identical line that sets a new variable
+called `movieGenre`. You can do this by targeting `dd.genre` instead
 of `dd.year`.
 
 Next, add the following line:
 
 ```javascript
-  var checked = $('input#'+movie_genre).prop('checked')
+  var checked = $('input#'+movieGenre).prop('checked')
 ```
 
-This uses the `movie_genre` variable to get the value of the
+This uses the `movieGenre` variable to get the value of the
 corresponding check box.
 
 Finally, you have all the pieces to put together your filter logic. It
 is just as with Step 3, except that now, you want to `.show()` the
-movie only if `movie_year` is greater than `user_year` *and* `checked`
+movie only if `movieYear` is greater than `userYear` *and* `checked`
 is `true`.
 
 Once you get that worked out, your genre filters and year filters
@@ -248,7 +248,7 @@ should be working together.
 ## Bonus
 
 If you've gotten this far and still have time, try adding another form
-that let's the user input the title, genre, year, description and
+that lets the user input the title, genre, year, description and
 three actors for another movie. When the user hits the 'submit'
 button, use a `.submit()` handler that generates an HTML string and
 appends that after the last movie `<div>`. Hint: you might want to
