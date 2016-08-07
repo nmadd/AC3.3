@@ -33,3 +33,12 @@ Welcome to Access Code!
 | 2016-08-05 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScRhUk9vQZYtO4_9VuILg1f0b7YT5NixCU4moW1lXn9SXg4Ow/viewform)|[Link](challenges/08-05-challenges.md)| [Intro to jQuery](lessons/jquery/intro-to-jquery.md) |&nbsp;||
 
 **Homework:**
+
+|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-08-08 |||[Link](challenges/challenges-3.md)| [Object Constructors and Prototypes](lessons/javascript-advanced/object-prototypes/README.md) ||
+| 2016-08-09 |||| [Linked Lists]() ||
+| 2016-08-10 |||| [jQuery Lite]() ||
+| 2016-08-11 |||| [Review/Assessment]() ||
+
+**Homework:**
