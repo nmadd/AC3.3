@@ -124,6 +124,8 @@ function cars() {
 2. Use **Hero.prototype** to add a method **whoAreYou** that will return: `My name is [the hero's name] and I am a [the hero's occupation]`.
 3. Use the **Hero** constructor to create an object **hero1** with the name **Michaelangello** and occupation **Ninja**.
 4. Use the **whoAreYou** method to log to the console **hero1**'s name and occupation.
+``` 
+```
 <!-- end @acxbank -->
 <!-- @acxbank javascript-constructors-3 -->
 ### Q8. javascript-constructors-3
