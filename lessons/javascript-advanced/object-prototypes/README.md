@@ -10,12 +10,13 @@
 #Lecture
 ##The `this` keyword
 
-Read over the following: [`this` keyword](https://repl.it/Cjet/8)
+Read over the following: [`this` keyword](https://repl.it/Cjet/10)
 
 `this` is a special keyword in JavaScript that helps use reuse functionality with different objects. The value of the `this` keyword is assigned depending on where you call a function. The value of the `this` keyword will be the object that calls the function that contains `this`. In other words, `this` refers to whichever object is used to call it.
 
 
-##Exercises: [`this` keyword exercises](this-keyword-exercises.md)
+##Exercises: 
+[`this` keyword exercises](this-keyword-exercises.md)
 
 ##Object constructors
 Constructors are useful when you want to create multiple objects that all share similar properties or methods. 
