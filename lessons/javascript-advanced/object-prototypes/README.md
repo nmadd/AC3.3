@@ -35,11 +35,13 @@ And try to answer these questions:
 - What is a prototype?
 - How can we add methods and properties to a prototype?
 
-##Exercises: [Constructor and prototype exercises](constructor-and-prototype-exercises.md)
+##Exercises: 
+[Constructor and prototype exercises](constructor-and-prototype-exercises.md)
 
 ##Bonus: `Object.create` vs `new` keyword
 You can also use `Object.create` to create objects directly from an `Object.prototype`, without the need for a constructor function. 
 
 Read more about `Object.create` [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
 
-##Project: [Pokemon lite](pokemon-lite.md)
+##Project: 
+[Pokemon lite](pokemon-lite.md)
