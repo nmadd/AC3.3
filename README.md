@@ -42,7 +42,7 @@ Welcome to Access Code!
 
 |  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-08-08 |||[Link](challenges/challenges-3.md)| [Object Constructors and Prototypes](lessons/javascript-advanced/object-prototypes/README.md) ||
+| 2016-08-08 |[Link](https://docs.google.com/forms/d/e/1FAIpQLSeEukaFh0z-vUl-K4z3DkVwmcE1pCtUPqyyziu6r_596xwgAQ/viewform)||[Link](challenges/challenges-3.md)| [Object Constructors and Prototypes](lessons/javascript-advanced/object-prototypes/README.md) ||
 | 2016-08-09 |||| [Linked Lists]() ||
 | 2016-08-10 |||| [jQuery Lite]() ||
 | 2016-08-11 |||| [Review/Assessment]() ||
