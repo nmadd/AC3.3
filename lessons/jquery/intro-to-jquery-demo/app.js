@@ -26,7 +26,8 @@
 // })
 
 $('button').click(function(){
-  console.log($('.input-box').val())
+  var inputVal = $('.input-box').val();
+  console.log(inputVal);
 })
 
 
