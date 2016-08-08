@@ -71,10 +71,11 @@ DreamFactory.listDreams();
 
 1. Create a **constructor** function called `Hero` That will accept a variable **name** as an argument.
 2. Use the **Hero** constructor to create an object **myHero** with the name 'Link'.
+
+```
+```
 <!-- end @acxbank -->
 <!-- @acxbank javascript-this&new1 -->
-```
-```
 ### Q4. javascript-this&new1
 
 Look over the below code. Then try to add yourself as a new `person` object, similar to how `myFather` and `myMother` are created.
