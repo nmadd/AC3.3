@@ -33,7 +33,7 @@ head = (8) => (3) => (4) => (5) // not real javascript syntax
 Write a function `genLinkList` that receives an array and generates a linked list with nodes corresponding to the index within the array.
 ```javascript
 var list = getLinkList([8, 'meow', true])
-//list returns the head node of the linked list, which is (1)
+//list returns the head node of the linked list, which is (8)
 ```
 
 ### Step 5A
