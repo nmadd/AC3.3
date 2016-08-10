@@ -44,7 +44,7 @@ Welcome to Access Code!
 |:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
 | 2016-08-08 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeEukaFh0z-vUl-K4z3DkVwmcE1pCtUPqyyziu6r_596xwgAQ/viewform)|[Link](challenges/challenges-3.md)| [Object Constructors and Prototypes](lessons/javascript-advanced/object-prototypes/README.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfwD00I2Cgfe-_Ro3rWLnEngXddgw2Y6Ut8jI48J0xjrU0qnw/viewform)|[Link](https://docs.google.com/spreadsheets/d/1HyKCaDsV1j9sHqWnRdpqNghbIkb42I6EV_aTVCGjxHM/edit?usp=sharing)/[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfFciOSgqEnALgigCYMZB3j3uCQoJcCOVEcU5U3eShVd8VWdg/viewform)|
 | 2016-08-09 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScNc2K2ebf1LzU7eM4F2PfLWDMQd8aNOxu6rKi-t-DWNrJybw/viewform)|| [Linked Lists](lessons/data-structures/linkedlist.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSesqqOV58UnNg5D1A6VGtVN_fbrXaYvT7jkaxZrhNMK5_E-pg/viewform)|[Link](https://docs.google.com/spreadsheets/d/11IAGVRxloGUkOqiRP_nsKiPiwIprPvF42yei_rRaRFM/edit?usp=sharing)/[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfJRiXvONZSFBHKsYK6LgDCQDxtNKSyJs8wmUvCpUq79RZK8g/viewform)|
-| 2016-08-10 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScgb7q-Fi8QQ29QDYWCFdB8Wllcf5IY0bLUvm8cNaJ6WECkJA/viewform)|| [jQuery Lite]() |||
+| 2016-08-10 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScgb7q-Fi8QQ29QDYWCFdB8Wllcf5IY0bLUvm8cNaJ6WECkJA/viewform)|[Link](challenges/challenges-4.md)| [jQuery Lite]() |||
 | 2016-08-11 |||| [Review/Assessment]() |||
 
 **Homework:**
