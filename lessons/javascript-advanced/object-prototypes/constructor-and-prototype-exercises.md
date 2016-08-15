@@ -71,6 +71,9 @@ DreamFactory.listDreams();
 
 1. Create a **constructor** function called `Hero` That will accept a variable **name** as an argument.
 2. Use the **Hero** constructor to create an object **myHero** with the name 'Link'.
+
+```
+```
 <!-- end @acxbank -->
 <!-- @acxbank javascript-this&new1 -->
 ### Q4. javascript-this&new1
@@ -124,6 +127,8 @@ function cars() {
 2. Use **Hero.prototype** to add a method **whoAreYou** that will return: `My name is [the hero's name] and I am a [the hero's occupation]`.
 3. Use the **Hero** constructor to create an object **hero1** with the name **Michaelangello** and occupation **Ninja**.
 4. Use the **whoAreYou** method to log to the console **hero1**'s name and occupation.
+``` 
+```
 <!-- end @acxbank -->
 <!-- @acxbank javascript-constructors-3 -->
 ### Q8. javascript-constructors-3

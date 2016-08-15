@@ -40,11 +40,25 @@ Welcome to Access Code!
 
 **Homework:** [Week 3 Assignment](homeworks/week03)
 
-|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
-|:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-08-08 |[Link](https://docs.google.com/forms/d/e/1FAIpQLSeEukaFh0z-vUl-K4z3DkVwmcE1pCtUPqyyziu6r_596xwgAQ/viewform)||[Link](challenges/challenges-3.md)| [Object Constructors and Prototypes](lessons/javascript-advanced/object-prototypes/README.md) ||
-| 2016-08-09 |||| [Linked Lists]() ||
-| 2016-08-10 |||| [jQuery Lite]() ||
-| 2016-08-11 |||| [Review/Assessment]() ||
+|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|Pairs|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
+| 2016-08-08 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeEukaFh0z-vUl-K4z3DkVwmcE1pCtUPqyyziu6r_596xwgAQ/viewform)|[Link](challenges/challenges-3.md)| [Object Constructors and Prototypes](lessons/javascript-advanced/object-prototypes/README.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfwD00I2Cgfe-_Ro3rWLnEngXddgw2Y6Ut8jI48J0xjrU0qnw/viewform)|[Link](https://docs.google.com/spreadsheets/d/1HyKCaDsV1j9sHqWnRdpqNghbIkb42I6EV_aTVCGjxHM/edit?usp=sharing)/[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfFciOSgqEnALgigCYMZB3j3uCQoJcCOVEcU5U3eShVd8VWdg/viewform)|
+| 2016-08-09 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScNc2K2ebf1LzU7eM4F2PfLWDMQd8aNOxu6rKi-t-DWNrJybw/viewform)|| [Linked Lists](lessons/data-structures/linkedlist.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSesqqOV58UnNg5D1A6VGtVN_fbrXaYvT7jkaxZrhNMK5_E-pg/viewform)|[Link](https://docs.google.com/spreadsheets/d/11IAGVRxloGUkOqiRP_nsKiPiwIprPvF42yei_rRaRFM/edit?usp=sharing)/[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfJRiXvONZSFBHKsYK6LgDCQDxtNKSyJs8wmUvCpUq79RZK8g/viewform)|
+| 2016-08-10 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScgb7q-Fi8QQ29QDYWCFdB8Wllcf5IY0bLUvm8cNaJ6WECkJA/viewform)|[Link](challenges/challenges-4.md)| [Pokemon Lite](lessons/javascript-advanced/object-prototypes/pokemon-lite.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSePqpJAaqnghvtpRvGh5OQmoKQm0iONe_ClSlO_rM44ac2gcQ/viewform)|[Link](https://docs.google.com/spreadsheets/d/1edzaOXXQ8vgG_HfyT_V2tBIk1BUUd0-DrHtnzkmMffg/edit#gid=0)/[Feedback](https://docs.google.com/forms/d/e/1FAIpQLScuNEyiXoWpO4r3eAl_66AToDOa-yqSiCP5r8kyywW88sZhIw/viewform)|
+| 2016-08-11 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfQSxf_TaEM7b38RMIxRdxu7QSezhQ2P5Itg09izJ9gC63cWg/viewform)|| [Review/Assessment]() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSd8jrKBVAy_ts6cBHBhzE3MhYaHSwxRniVoKDIGw2rgwFTshQ/viewform)|[Link](https://docs.google.com/a/coalitionforqueens.org/spreadsheets/d/1pqGC9HUtsgXGUJsf6ZTkk-IxbTD_qeP57AEz9TnXTIA/edit?usp=sharing)/[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSelA-wHzETcSvFe9zH1qkRQPASWZri0_Y6luc_VPslRVyNeJg/viewform)|
+
+**Homework:**
+
+# Unit 2
+
+### Week 5
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|Pairs|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
+| 2016-08-15 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfRiV3NdASn0zrTvPKggeggXU37TUbLWwzpl8EAAVLXUsqENg/viewform)||[W5D1 Javascript Fundamentals](lessons/week5/w5d1_review)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSemGtxSWF6E2K2T4RO2h4sYBlC4cK6wMo6rNX508hoMhRvjDg/viewform)||
+| 2016-08-16 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe1lLiiKxYC66d0-aaIOwBBRTxOr-HeU92ue2eI_Bj-89Yanw/viewform)|||||
+| 2016-08-17 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSewoSXrSnIa-kvu1OHm_dK5tlrELUSE7vptaYkYum-epVjALQ/viewform)|||||
+| 2016-08-18 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeGicwymz_Wwnl5_Zukyc-VLJoXwxg2ZBz5hZQHbxKGNMse4w/viewform)|||||
+| 2016-08-19 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfaUQcd8UsI0y38sEDtQ5D11Umcv_BgovXhYmhtHZLHrcOvDg/viewform)|||||
 
 **Homework:**
