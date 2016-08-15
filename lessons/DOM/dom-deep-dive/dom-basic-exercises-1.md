@@ -14,3 +14,9 @@ Do not edit your HTML file for any of these exercises. Only use DOM methods:
 - Add some text to your new button. The text should be different than the first button.
 - Append the second button to the ``'main-div'``. Reload your index.html page and you should see your two buttons.
 - Add the class `'btn'` to both of your buttons
+- Create an `ul` (unordered-list) element
+- Append the `ul` element to the main div
+- Create three separate `li` (list) items
+- Append the `li` items to the `ul`
+- Add the class `'list-item'` to each of the `li` elements
+- Add the `id` 'main-list' to the `ul`
