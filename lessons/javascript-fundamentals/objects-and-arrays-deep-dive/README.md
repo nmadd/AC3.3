@@ -111,6 +111,30 @@ existsInArr(arr, 'b'); //"It's in the array!"
 existsInArr(arr, 'd'); //"It's in the array!"
 existsInArr(arr, 'x'); //"It's not in the array...
 existsInArr(arr, 'cat'); //"It's not in the array...
+
+//There are also some higher level array methods that are abstractions for commonly performed operations, such as looping over an array. Some of these more abstract methods include `forEach`, `map`, `filter`, and `reduce.` For example, you can use forEach to loop over an array and do anything that you could do with a for loop:
+
+//Looping over an array and console logging every value with a for loop:
+for(var i = 0; i < arr.length; i++) {
+  console.log(arr[i]);
+}
+//Looping over an array and console logging every value with forEach:
+arr.forEach(function(val){
+  console.log(val);
+})
+
+//Looping over an array and summing the values with a for loop:
+var arr = [1, 2, 3, 4, 5];
+var sum = 0;
+for(var i = 0; i < arr.length; i++) {
+  console.log(arr[i]);
+}
+//Looping over an array and summing the values with forEach:
+var arr = [1, 2, 3, 4, 5];
+var sum = 0;
+arr.forEach(function(num){
+  sum += num;
+})
 ```
 
 ##Exercises

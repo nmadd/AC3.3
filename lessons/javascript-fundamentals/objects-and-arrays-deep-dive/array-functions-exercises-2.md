@@ -45,6 +45,19 @@
   containsTwoInArr(['dog', 'cat', 'bear'], 'cat', 'bear'); //true
   containsTwoInArr(['dog', 'cat', 'bear'], 'cat','llama'); //false
   ```
+- Write a function called `wordsLongerThanN` that takes in an array of words and a number (n) as an argument. The function should return a new array that only contains the words from the original array that are longer than 'n' letters, where 'n' is the number passed in as the second argument.
+    Examples:
+
+    ```js
+    wordsLongerThanN(['cat', 'dog', 'elephant', 'giraffe', 'bear'], 3); //returns ['elephant', 'giraffe', 'bear']
+    wordsLongerThanN(['airplane', 'car', 'motorcycle'], 20); //returns []
+    ```
+- Write a function called `valToObj` that takes in an array of numbers as an argument and returns a new array where all the of numbers are turned into objects. Each object should have a `val` property that contains the original number, and a `squared` property that contains the number squared.
+  Examples:
+
+  ```js
+  valToObj([1, 2, 3, 4, 5]); //returns [{val: 1, squared: 1}, {val: 2, squared: 4}, {val: 3, squared: 9}, {val: 4, squared: 16}, {val: 5, squared: 25}]
+  ```
 - Write a function called `pushNTimes` that takes in three arguments: an array, a value, and a number (n). The function should add the value to the end of the array n number of times (depending on what number you entered in as the third argument), and return the new array.
 
   Examples:
