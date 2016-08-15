@@ -51,9 +51,9 @@ Welcome to Access Code!
 
 ### Week 5
 
-|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|Pairs|
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|Pairs|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
-| 2016-08-15 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfRiV3NdASn0zrTvPKggeggXU37TUbLWwzpl8EAAVLXUsqENg/viewform)||[W5D1 Javascript Fundamentals](lessons/week5/w5d1_review)|||
+| 2016-08-15 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfRiV3NdASn0zrTvPKggeggXU37TUbLWwzpl8EAAVLXUsqENg/viewform)||[W5D1 Javascript Fundamentals](lessons/week5/w5d1_review)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSemGtxSWF6E2K2T4RO2h4sYBlC4cK6wMo6rNX508hoMhRvjDg/viewform)||
 | 2016-08-16 |||||||
 | 2016-08-17 |||||||
 | 2016-08-18 |||||||
