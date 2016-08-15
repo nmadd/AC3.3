@@ -48,3 +48,15 @@ Welcome to Access Code!
 | 2016-08-11 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfQSxf_TaEM7b38RMIxRdxu7QSezhQ2P5Itg09izJ9gC63cWg/viewform)|| [Review/Assessment]() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSd8jrKBVAy_ts6cBHBhzE3MhYaHSwxRniVoKDIGw2rgwFTshQ/viewform)|[Link](https://docs.google.com/a/coalitionforqueens.org/spreadsheets/d/1pqGC9HUtsgXGUJsf6ZTkk-IxbTD_qeP57AEz9TnXTIA/edit?usp=sharing)/[Feedback](https://docs.google.com/forms/d/e/1FAIpQLSelA-wHzETcSvFe9zH1qkRQPASWZri0_Y6luc_VPslRVyNeJg/viewform)|
 
 **Homework:**
+
+### Week 5
+
+|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-08-01 ||||[W5D1 Javascript Fundamentals](lessons/week5/w5d1_review)||
+| 2016-08-02 ||||||
+| 2016-08-03 ||||||
+| 2016-08-04 ||||||
+| 2016-08-05 ||||||
+
+**Homework:**
