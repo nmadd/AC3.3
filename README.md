@@ -53,10 +53,10 @@ Welcome to Access Code!
 
 |  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-08-01 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfRiV3NdASn0zrTvPKggeggXU37TUbLWwzpl8EAAVLXUsqENg/viewform)||[W5D1 Javascript Fundamentals](lessons/week5/w5d1_review)||
-| 2016-08-02 ||||||
-| 2016-08-03 ||||||
-| 2016-08-04 ||||||
-| 2016-08-05 ||||||
+| 2016-08-15 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfRiV3NdASn0zrTvPKggeggXU37TUbLWwzpl8EAAVLXUsqENg/viewform)||[W5D1 Javascript Fundamentals](lessons/week5/w5d1_review)||
+| 2016-08-16 ||||||
+| 2016-08-17 ||||||
+| 2016-08-18 ||||||
+| 2016-08-19 ||||||
 
 **Homework:**
