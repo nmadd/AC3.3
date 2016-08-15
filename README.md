@@ -55,10 +55,10 @@ Welcome to Access Code!
 
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|Pairs|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
-| 2016-08-15 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfRiV3NdASn0zrTvPKggeggXU37TUbLWwzpl8EAAVLXUsqENg/viewform)||[W5D1 Javascript Fundamentals](lessons/week5/w5d1_review)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSemGtxSWF6E2K2T4RO2h4sYBlC4cK6wMo6rNX508hoMhRvjDg/viewform)||
-| 2016-08-16 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe1lLiiKxYC66d0-aaIOwBBRTxOr-HeU92ue2eI_Bj-89Yanw/viewform)|||||
-| 2016-08-17 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSewoSXrSnIa-kvu1OHm_dK5tlrELUSE7vptaYkYum-epVjALQ/viewform)|||||
-| 2016-08-18 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeGicwymz_Wwnl5_Zukyc-VLJoXwxg2ZBz5hZQHbxKGNMse4w/viewform)|||||
+| 2016-08-15 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfRiV3NdASn0zrTvPKggeggXU37TUbLWwzpl8EAAVLXUsqENg/viewform)||[Loops, Functions, and Truth Tables Deep Dive](lessons/week5/w5d1_review)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSemGtxSWF6E2K2T4RO2h4sYBlC4cK6wMo6rNX508hoMhRvjDg/viewform)||
+| 2016-08-16 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe1lLiiKxYC66d0-aaIOwBBRTxOr-HeU92ue2eI_Bj-89Yanw/viewform)|[Link](challenges/challenges-5.md)|[Arrays and Array Methods Deep Dive](lessons/javascript-fundamentals/objects-and-arrays-deep-dive/README.md)|||
+| 2016-08-17 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSewoSXrSnIa-kvu1OHm_dK5tlrELUSE7vptaYkYum-epVjALQ/viewform)||[Object Constructors, Prototypes, and `this` Deep Dive](lessons/javascript-fundamentals/objects-and-arrays-deep-dive/README.md)|||
+| 2016-08-18 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeGicwymz_Wwnl5_Zukyc-VLJoXwxg2ZBz5hZQHbxKGNMse4w/viewform)||[DOM Deep Dive](lessons/DOM/dom-deep-dive/README.md)|||
 | 2016-08-19 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfaUQcd8UsI0y38sEDtQ5D11Umcv_BgovXhYmhtHZLHrcOvDg/viewform)|||||
 
 **Homework:**

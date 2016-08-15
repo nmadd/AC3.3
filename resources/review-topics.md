@@ -1,3 +1,7 @@
+Chrome dev tools:
+- opening console to see if there are any errors
+- inspecting objects
+
 Loops:
 - What is each part of the loops (initializing counter, conditional, incrememnt)
 - do loops always have to start at 0?
@@ -8,7 +12,7 @@ Loops:
 
 Functions:
 - console.log vs return
-- passing in arguments 
+- passing in arguments
 - does order of arguments matter?
 - calling functions
 - does order of calling functions matter?
