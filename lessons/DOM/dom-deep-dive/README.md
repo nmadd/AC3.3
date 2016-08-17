@@ -7,6 +7,7 @@
 - [DOM Reference](http://www.w3schools.com/js/js_htmldom_document.asp)
 - [Accessing DOM Elements](http://www.w3schools.com/js/js_htmldom_elements.asp)
 - [The Basics of JS DOM Manipulation](http://callmenick.com/post/basics-javascript-dom-manipulation)
+- [DOM addEventListener Method](http://www.w3schools.com/jsref/met_element_addeventlistener.asp)
 
 #Lecture
 ##From static to dynamic pages
@@ -22,6 +23,7 @@ So what is the DOM? You can start by [reading this](https://css-tricks.com/dom/)
 Basically, your browser creates the DOM based on your static HTML page. At its simplest the DOM is just your browser's interpretation of your HTML, structured in a way that lets you use JavaScript to interact with and manipulate your page.
 
 In other words, our HTML starts off as a static page. Then its loaded into our browser. But our browser needs some way to interact with the HTML. Luckily our browser understands JavaScript, so it can use JavaScript to interact with the HTML. But if we simply have a static HTML page there's no way for HTML and JavaScript to talk to each other. So our browser creates the DOM to make it a little easier to form a connection between HTML and JavaScript.
+
 
 ##DOM basics
 To start, we can use the DOM methods to basically create any HTML that we could in a normal, static HTML page.
@@ -88,4 +90,49 @@ newButton.className = 'main-button';
 var mainDiv = document.getElementById('main-div');
 mainDiv.appendChild(newButton);
 //Our new button will now be added within our main div
+```
+
+##Event Listeners
+So we know we can use DOM methods to do pretty much anything we could do with static HTML, but that's not the real power of the DOM. The DOM really starts becoming powerful when we want to perform dynamic changes and manipulation.
+
+The browser is a live, active environment where things are constantly happening and changing. Users interact with our web pages by doing things like clicking, hovering, scrolling, and entering text. Collectively these are known as 'events.' In other words, an 'event' occurs anytime the user interacts with our webpage in the browser. Events can also be trigged by other things as well, like a document loading.
+
+Conveniently, there are a bunch of  DOM methods that make it easy to take advantage of events. The most all-purpose of these is `addEventListener`
+
+Here are some examples of how `addEventListener` is used:
+```html
+<button id="main-button"></button>
+```
+Adds an event listener to the button with id `main-button` that console logs a string when the button is clicked:
+```js
+document.getElementById('main-button').addEventListener('click', function(){
+  console.log('Clicked the main button');
+})
+
+```
+You can add multiple event listeners to the same element:
+```js
+document.getElementById('main-button').addEventListener('click', function(){
+  console.log('This will also be logged');
+})
+
+```
+You can also add event listeners that will get triggered by different types of events, like hovering your mouse over something:
+```js
+document.getElementById('main-button').addEventListener('mouseover', function(){
+  console.log('Mouse is hovering over the main button');
+})
+
+```
+Adds an event listener to the body that changes the entire page's background color to lime when clicked:
+```js
+document.getElementsByTagName('body')[0].addEventListener('click', function(){
+  this.style.backgroundColor = "lime";
+})
+```
+You can also pass in a special `event` object as an argument into you callback function, which will then tell you a ton of information about the specific event that was triggered (for example, if it was a click event, the  `event` object would contain information about things like exactly where and when the click occurred):
+```js
+document.getElementsByTagName('body')[0].addEventListener('click', function(event){
+  console.log(event); //this will log out a ton of info about the event to the console
+})
 ```
