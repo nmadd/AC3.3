@@ -29,7 +29,16 @@ $('button').click(function(){
   var inputVal = $('.input-box').val();
   console.log(inputVal);
 })
+var arr = [1, 2, 3 ,4 ,5]
+function doSomething(arr) {
+  for(var i = 0; i < arr.length; i++) {
+    debugger;
+    console.log(arr[i]);
+    debugger;
+  }
+}
 
+doSomething(arr);
 
 
 
