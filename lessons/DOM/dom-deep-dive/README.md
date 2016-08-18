@@ -8,6 +8,7 @@
 - [Accessing DOM Elements](http://www.w3schools.com/js/js_htmldom_elements.asp)
 - [The Basics of JS DOM Manipulation](http://callmenick.com/post/basics-javascript-dom-manipulation)
 - [DOM addEventListener Method](http://www.w3schools.com/jsref/met_element_addeventlistener.asp)
+- [DOM Event Bubbling](http://javascript.info/tutorial/bubbling-and-capturing)
 
 #Lecture
 ##From static to dynamic pages
@@ -92,6 +93,10 @@ mainDiv.appendChild(newButton);
 //Our new button will now be added within our main div
 ```
 
+##Exercises
+- [DOM Exercises 1](dom-basic-exercises-1.md)
+- [DOM Exercises 2](dom-basic-exercises-2.md)
+
 ##Event Listeners
 So we know we can use DOM methods to do pretty much anything we could do with static HTML, but that's not the real power of the DOM. The DOM really starts becoming powerful when we want to perform dynamic changes and manipulation.
 
@@ -124,7 +129,7 @@ document.getElementById('main-button').addEventListener('mouseover', function(){
 })
 
 ```
-Adds an event listener to the body that changes the entire page's background color to lime when clicked:
+Adds an event listener to the body that changes the entire page's background color to lime when clicked. Notice you can also use the `this` keyword with DOM methods, similar to jQuery:
 ```js
 document.getElementsByTagName('body')[0].addEventListener('click', function(){
   this.style.backgroundColor = "lime";
@@ -136,3 +141,13 @@ document.getElementsByTagName('body')[0].addEventListener('click', function(even
   console.log(event); //this will log out a ton of info about the event to the console
 })
 ```
+##Event Bubbling
+Events will 'bubble' upwards to their parent elements. So if you trigger an event listener on an element that is nested within another element, even listeners on any parent elements will also get triggered. You can stop this bubbling by using the `event.stopPropogation` method, which is built into the special `event` object.
+
+Read more about event bubbling here: [DOM Event Bubbling](http://javascript.info/tutorial/bubbling-and-capturing)
+
+##Exercises
+- [DOM Event Listener Exercises](dom-event-listeners-exercises-1.md)
+
+##Project
+- [Todo List App](todo-list.md)
