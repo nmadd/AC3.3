@@ -1,9 +1,11 @@
 ##Setup
 - Create an index.html file that just has an empty <body></body> tag in it
+- Create an `app.js` file in the same folder
+- Add a `<script>` tag to your index.html file and link in your `app.js` file
 - Open your index.html file up in Chrome. It should just be a blank page
 
 ##Exercises
-Do not edit your HTML file for any of these exercises. Only use DOM methods:
+Do not edit your HTML file for any of these exercises. You should put all of your code in your `app.js` file. Only use DOM methods:
 - Create a new 'div' element
 - Add a 'main-div' id to your div element (you can use the [`setAttribute`](http://www.w3schools.com/jsref/met_element_setattribute.asp) method)
 - Append the new div element to the document.body
