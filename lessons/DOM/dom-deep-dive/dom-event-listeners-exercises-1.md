@@ -1,5 +1,8 @@
 ##Setup
 - Create an index.html file that just has an empty <body></body> tag in it
+- Create an `app.js` in the same folder 
+- Add a `script` tag to your `index.html` file and link in your `app.js` file
+- Add all of your code directly to the `app.js` file
 - Open your index.html file up in Chrome. It should just be a blank page
 
 ##Exercises
