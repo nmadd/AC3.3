@@ -7,23 +7,9 @@
 - [Intro To Node Modules](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
 - [Node Require and Exports](http://openmymind.net/2012/2/3/Node-Require-and-Exports/)
 - [Debugging Your Node.js Code](https://spin.atomicobject.com/2015/09/25/debug-node-js/)
+- [Node.js Process Object](http://www.tutorialspoint.com/nodejs/nodejs_process.htm)
 
-#Lecture
-
-- Node GLOBAL object
-- Node REPL
-- Running files with node, using the `node` keyword
-  - Write a 'Hello world' program
-  - Write a couple of functions
-- Loading in modules
-- Creating modules
-  - Writing our own simple modules (math module?)
-- Intro to NPM
-- Installing basic npm packages (moment, chalk)
-  - Adding chalk (and moment?) to our basic modules
-- Setting up a basic server????
-
-##Running files using node.js
+## Running files using node.js
 Node.js gives us a whole new environment to run our code in. While in the past we've mostly been running our code in the browser, node.js lets us run our code directly in our terminal.
 
 To run a node script, all you need to do is open up your terminal, and type the following commands:
@@ -36,14 +22,14 @@ So for example, if you have a folder with a JavaScript file in it called `app.js
 node app.js
 ```
 
-##Node REPL
+## Node REPL
 You can also run a node.js REPL (read-evaluate-print-loop) environment for testing out simple commands. To enter the REPL, simply type `node` into your command line.
 
 While in the REPL you can do things like create and store variables, and create and excute functions. You can also use the `.load` keyword to load in entire `.js` files. To load a `.js` file, while in the node REPL type in `.load <name-of-file>` and the file should be loaded in (note: you'll need to be in the same folder in order to load in the file by just using it's name - otherwise, you'll need the entire path to the file.)
 
 To exit the REPL, type `control c` twice.
 
-##Importing and Exporting Files Using Node's Module System
+## Importing and Exporting Files Using Node's Module System
 Node.js is great for building out large scale projects. You can use node.js to build complex, fullstack web applications that have hundreds or even thousands of files.
 
 However once apps start getting bigger and more complex, organizing them starts becoming a little more crucial. Luckily node.js has a built in module system that makes organizing large apps and pieces of code into multiple files pretty easy. In node.js, each separate `js` file is essentially a separate module.
@@ -115,7 +101,7 @@ module.exports.multiply = function multiply() {
   }
 }
 ```
-##Intro to npm
+## Intro to npm
 One of the most powerful features of node.js is it's package management system. You've seen how easy it is to create modules, and luckily thousands of people have taken advantage of that by creating their own modules and uploading them to the cloud so others can download and use them.
 
 npm (which stands for node package manager) is the best way to install, share and distribute those modules (aka packages). You can checkout the [npm website here](https://www.npmjs.com/) and a list of some of the [most popular packages here](https://www.npmjs.com/browse/star).  
@@ -129,11 +115,23 @@ Let's check a few npm packages out:
 - [moment](https://www.npmjs.com/package/moment)
 - [figlet](https://www.npmjs.com/package/figlet)
 
-##node.js process object
+## node.js process object
+`process` is a global object in node.js that gives you helpful information about what your program or script is doing behind the scenes.
 
+The `process` object has a lot of properties but the one we'll be focusing on most is `process.argv`. The `process.argv` property basically returns an array of all the arguments you type into your command line in your terminal when you run a script.
 
-
-TODO: Intro to NPM (moment, chalk, figlet)
-TODO: Intro to creating our own NPM modules?
-TODO: Intro to process and process.args
-TODO: Update node.js slide deck to include overview of all topics
+So if you create a `main.js` that just contained the following code:
+```js
+console.log(process.argv);
+```  
+And then typed the following into your command line in your terminal (while in the same folder as your `main.js` file):
+```
+$ node main.js hello world
+```
+The following would be logged to the console (the first two element of the array are the file paths for `node` and `main.js`):
+```js
+[ '/usr/local/Cellar/node/6.1.0/bin/node',
+  '/Users/Nate/Dropbox (Personal)/Code/C4Q/AC3.3/lessons/node-js/intro-to-node-js/main.js',
+  'hello',
+  'world' ]
+  ```
