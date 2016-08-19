@@ -59,6 +59,6 @@ Welcome to Access Code!
 | 2016-08-16 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe1lLiiKxYC66d0-aaIOwBBRTxOr-HeU92ue2eI_Bj-89Yanw/viewform)|[Link](challenges/challenges-5.md)|[Arrays and Array Methods Deep Dive](lessons/javascript-fundamentals/objects-and-arrays-deep-dive/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf2NySIbyZ1Y1MvP-2h_LaK2ArMNEEOakjatIWV40wI94rCzg/viewform)||
 | 2016-08-17 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSewoSXrSnIa-kvu1OHm_dK5tlrELUSE7vptaYkYum-epVjALQ/viewform)||[Object Constructors, Prototypes, and `this` Deep Dive](lessons/week5/w5d3_deepdive.md)|||
 | 2016-08-18 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeGicwymz_Wwnl5_Zukyc-VLJoXwxg2ZBz5hZQHbxKGNMse4w/viewform)|[Link](challenges/challenges-6.md)|[DOM Deep Dive](lessons/DOM/dom-deep-dive/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfPBKqwqjIb849OX_ugjG9jl4nwuxSMCXTADNL7lGryRZo8mg/viewform)||
-| 2016-08-19 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfaUQcd8UsI0y38sEDtQ5D11Umcv_BgovXhYmhtHZLHrcOvDg/viewform)|||||
+| 2016-08-19 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfaUQcd8UsI0y38sEDtQ5D11Umcv_BgovXhYmhtHZLHrcOvDg/viewform)||[jQuery Lite](projects/jquery-lite)|||
 
 **Homework:**
