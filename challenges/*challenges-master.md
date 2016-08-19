@@ -21,7 +21,7 @@
 - [Javascript filter - 2](http://www.codewars.com/kata/javascript-filter-2/train/javascript) (6 kyu)
 - [Nina vs samurai attack plus block](http://www.codewars.com/kata/ninja-vs-samurai-attack-plus-block) (5 kyu)
 
-//Unused
+
 - [Is this my tail?](http://www.codewars.com/kata/is-this-my-tail/train/javascript) (8 kyu)
 - [Use Map to double the values in an array](http://www.codewars.com/kata/use-map-to-double-the-values-in-an-array) (7 kyu)
 - [Javascript filter - 3](http://www.codewars.com/kata/javascript-filter-3/train/javascript) (6 kyu)
@@ -30,6 +30,7 @@
 - [Custom each() Array method](http://www.codewars.com/kata/custom-each-array-method) (6 kyu)
 - [Josephus survivor](http://www.codewars.com/kata/josephus-survivor) (5 kyu)
 
+//Unused
 - [Christmas Tree](http://www.codewars.com/kata/christmas-tree) (6 kyu)
 - [Is n divisible by (...)?](http://www.codewars.com/kata/is-n-divisible-by-dot-dot-dot) (7 kyu)
 
