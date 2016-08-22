@@ -56,7 +56,6 @@
   //
   //START YOUR CODE BELOW:
   //////////////////////////////////////////////////////////
-
   DOMTree.prototype = {
     //jQuery .each: http://api.jquery.com/jquery.each/
     //This function should loop over each element in the `this.htmlElements` array
@@ -64,6 +63,14 @@
     //It will be helpful to do this first because you can use it in a bunch of other functions
     each: function (callback) {
       //add your code here
+      // for(var i = 0; i < this.htmlElements.length; i++){
+      //   callback(this.htmlElements[i]);
+      // }
+      //
+      this.htmlElements.forEach(function(elem){
+        callback(elem);
+      })
+
     },
     //jQuery .html: http://api.jquery.com/html/
     //If there is NO string passed in as the argument, this function should just return the innerHTML of the first item in the `this.htmlElements` array
@@ -72,14 +79,23 @@
     html: function (string) {
       //add your code here
       //use .innerHTML
+      if(!string){
+        return this.htmlElements[0].innerHTML;
+      } else {
+        this.each(function(elem){
+          elem.innerHTML = string;
+        })
+      }
     },
-
     //jQuery .empty: https://api.jquery.com/empty/
     //This function should remove all elements in the `this.htmlElements` array from the DOM
     //In other words, it should set the innerHTML of all of the elements in the `this.htmlElements` to empty
     empty: function() {
       //add your code here
       // use the html function above
+      this.each(function(elem){
+        elem.innerHTML = '';
+      })
     },
     //jQuery .addClass: https://api.jquery.com/addclass/
     //This function should add a class to each of the elements in the `this.htmlElements` array
@@ -147,3 +163,15 @@
 
 
 }(this));
+
+//This will immediately call this function
+// function immediateFunction(){
+//   console.log('something')
+// };
+//
+// immediateFunction();
+
+//This will do the same as above, and immediately call this function
+(function immediateFunction(){
+  console.log('this from our immediately invoked function')
+})();

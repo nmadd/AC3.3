@@ -54,7 +54,7 @@ if you had a file called `coolFunctions.js` and wanted to import it into a diffe
 var coolFunctions = require('./coolFunctions.js');
 ```
 
-Importantly, you also need to export things from the files that you want to import in. To export modules you'll need to use the special `module.exports` keyword. Ultimately, everytime you export something you are exporting an object.
+Importantly, you also need to export things from the files that you want to import in. To export modules you'll need to use the special `module.exports` keyword. Ultimately, every time you export something you are exporting an object.
 
 There are a few different ways to structure your exports. All of the below essentially do the same thing:
 ```js
@@ -101,6 +101,13 @@ module.exports.multiply = function multiply() {
   }
 }
 ```
+
+## Exercises
+- [Node.js Module Exercises](node-module-exercises.md)
+
+## Challenge Project
+- [Create a module](create-a-module.md)
+
 ## Intro to npm
 One of the most powerful features of node.js is it's package management system. You've seen how easy it is to create modules, and luckily thousands of people have taken advantage of that by creating their own modules and uploading them to the cloud so others can download and use them.
 
