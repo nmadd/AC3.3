@@ -68,9 +68,9 @@ Welcome to Access Code!
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|Pairs|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
 | 2016-08-22 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdKZ10BlAa95OC3yjRRkABRFeXm5_Xj_6o-DMDyi5_vOGR6IQ/viewform)|[Link](challenges/challenges-7.md)|[Intro to Node.js and npm](lessons/node-js/intro-to-node-js/README.md)|[Midday]()||
-| 2016-08-23 ||[Link]()|[Link]()|[Intro to Node.js and npm](lessons/node-js/intro-to-node-js/README.md)|[Midday]()||
-| 2016-08-24 ||[Link]()||[AJAX]()|||
-| 2016-08-25 ||[Link]()|[Link]()||[Midday]()||
-| 2016-08-26 ||[Link]()|||[Midday]()||
+| 2016-08-23 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfJU3UmyoDIuKCuwv1RcqR_2tgFVb47Xo22JfYE-8ucG8tsoA/viewform)|[Link]()|[Intro to Node.js and npm](lessons/node-js/intro-to-node-js/README.md)|[Midday]()||
+| 2016-08-24 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf14NiBFNftAs_s1xkrbXG8D1mxla_9l4MK2DWjwgZGUIuBYA/viewform)||[AJAX]()|||
+| 2016-08-25 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScmGmC_Kl1rcnRYCGXM69ea8dqIIXf3GoCSptyg58RTpOdlGA/viewform)|[Link]()||[Midday]()||
+| 2016-08-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf2sj7YSOqzaBZFwxDEpblARbDiCrWGvfyy4P2bvpwI2MQ0ZA/viewform)|||[Midday]()||
 
 **Homework:**
