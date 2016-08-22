@@ -67,7 +67,7 @@ Welcome to Access Code!
 
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|Pairs|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
-| 2016-08-22 ||[Link]()|[Link](challenges/challenges-7.md)|[Intro to Node.js and npm](lessons/node-js/intro-to-node-js/README.md)|[Midday]()||
+| 2016-08-22 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdKZ10BlAa95OC3yjRRkABRFeXm5_Xj_6o-DMDyi5_vOGR6IQ/viewform)|[Link](challenges/challenges-7.md)|[Intro to Node.js and npm](lessons/node-js/intro-to-node-js/README.md)|[Midday]()||
 | 2016-08-23 ||[Link]()|[Link]()|[Intro to Node.js and npm](lessons/node-js/intro-to-node-js/README.md)|[Midday]()||
 | 2016-08-24 ||[Link]()||[AJAX]()|||
 | 2016-08-25 ||[Link]()|[Link]()||[Midday]()||
