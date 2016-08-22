@@ -28,4 +28,6 @@
 - Call the three new functions from within your `main.js` file and save the results as new variables
 - Add `console.log`s to log out the saved variables with the results
 - Open up your terminal and run your `main.js` file. You should see the output from all of your functions
-- Create more files that contain different functions. Try exporting those files and then importing them into your `main.js` file. Try using multiple imports at once within your `main.js` file. You can even try importing some of your modules into each other to create more complex modules. Furthermore, you can try looking into what npm is, and try installing some modules that other people have created. Get creative!
+- Create a new file called `strings-module` that contains at least three string functions (for example: return the first letter of a string, reverse a string, etc.) of your choosing.
+- Import your `string-module` into your `main.js` file and try calling and console.logging your functions from your `string-module`
+- Can you also import your `string-module` into your `math-module` and use it in there? What about vice versa?

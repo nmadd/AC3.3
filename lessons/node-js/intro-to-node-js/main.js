@@ -1,5 +1,7 @@
-var math_mod = require('./node-demo-1');
+var mod = require('./node-demo');
 
-console.log(math_mod.sum(3, 4));
-
-console.log(process.argv);
+var arr = ['dog', 'cat', 'dog', 'rabbit'];
+console.log(mod.allIndexesOf(arr, 'dog'));
+console.log(mod.randomVal(arr));
+console.log(mod.randomVal(arr));
+console.log(mod.randomVal(arr));

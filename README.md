@@ -62,3 +62,15 @@ Welcome to Access Code!
 | 2016-08-19 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfaUQcd8UsI0y38sEDtQ5D11Umcv_BgovXhYmhtHZLHrcOvDg/viewform)||[jQuery Lite](projects/jquery-lite)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScPoH5Wd0EUP55RuVJpS9BzPtUPLto8G3sO1ZAaQVeZnL3kJg/viewform)||
 
 **Homework:**
+
+### Week 6
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|Pairs|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
+| 2016-08-22 ||[Link]()|[Link](challenges/challenge-7.md)|[Intro to Node.js and npm](lessons/node-js/intro-to-node-js/README.md)|[Midday]()||
+| 2016-08-23 ||[Link]()|[Link]()|[Intro to Node.js and npm](lessons/node-js/intro-to-node-js/README.md)|[Midday]()||
+| 2016-08-24 ||[Link]()||[AJAX]()|||
+| 2016-08-25 ||[Link]()|[Link]()||[Midday]()||
+| 2016-08-26 ||[Link]()|||[Midday]()||
+
+**Homework:**
