@@ -145,3 +145,9 @@ The following would be logged to the console (the first two element of the array
   'hello',
   'world' ]
   ```
+
+# Exercises
+- [chalk module exercises](chalk-exercises.md)
+
+# Project
+- [Block letter logger](ascii/ascii.md)
