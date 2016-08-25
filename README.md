@@ -71,6 +71,6 @@ Welcome to Access Code!
 | 2016-08-23 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfJU3UmyoDIuKCuwv1RcqR_2tgFVb47Xo22JfYE-8ucG8tsoA/viewform)|[Link](challenges/challenges-7.md)|[Intro to Node.js and npm](lessons/node-js/intro-to-node-js/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeJ_7Y47fW2aiU1y2FfuYcpXIyX7oe6_n5Rd7r6uacTxM7XMA/viewform)||
 | 2016-08-24 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf14NiBFNftAs_s1xkrbXG8D1mxla_9l4MK2DWjwgZGUIuBYA/viewform)||[AJAX](lessons/jquery/AJAX)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfrwUwv4_3ByVZQYt1SsZcv1z0xxa8yaS9nU7IeWpxT_9df_A/viewform)||
 | 2016-08-25 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScmGmC_Kl1rcnRYCGXM69ea8dqIIXf3GoCSptyg58RTpOdlGA/viewform)|[Link]()||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfuAYD03-V0qkbwl6UYvqWhMAMwaPP6i2FigVFc-_AoijvZaQ/viewform)||
-| 2016-08-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf2sj7YSOqzaBZFwxDEpblARbDiCrWGvfyy4P2bvpwI2MQ0ZA/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf4i5EtSXfZrwoJfjwRxZ_LsGgpTWOeBOAcxXoMBl4yvrO4fA/viewform)||
+| 2016-08-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf2sj7YSOqzaBZFwxDEpblARbDiCrWGvfyy4P2bvpwI2MQ0ZA/viewform)||[Practice Assessment 03](assessments/practice_assessment03)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf4i5EtSXfZrwoJfjwRxZ_LsGgpTWOeBOAcxXoMBl4yvrO4fA/viewform)||
 
 **Homework:**
