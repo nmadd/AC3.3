@@ -80,11 +80,10 @@ Welcome to Access Code!
 
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|Pairs|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
-| 2016-08-29 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSekxUKRVj2hdJc3SZ9c-IPZqLZQAsrEmNeSDWBbwEYyIzbBRw/viewform)||[Git]||
+| 2016-08-29 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSekxUKRVj2hdJc3SZ9c-IPZqLZQAsrEmNeSDWBbwEYyIzbBRw/viewform)||[Git](lessons/git/intro_git.md)||
 | 2016-08-30 ||||||
 | 2016-08-31 ||||||
 | 2016-09-01 ||||||
 | 2016-09-02 ||||||
 
 **Homework:**
-
