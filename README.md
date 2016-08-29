@@ -74,3 +74,17 @@ Welcome to Access Code!
 | 2016-08-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf2sj7YSOqzaBZFwxDEpblARbDiCrWGvfyy4P2bvpwI2MQ0ZA/viewform)||[Practice Assessment 03](assessments/practice_assessment03)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf4i5EtSXfZrwoJfjwRxZ_LsGgpTWOeBOAcxXoMBl4yvrO4fA/viewform)||
 
 **Homework:**
+
+
+### Week 7
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|Pairs|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
+| 2016-08-22 |||[Git]|||
+| 2016-08-23 ||||||
+| 2016-08-24 ||||||
+| 2016-08-25 ||||||
+| 2016-08-26 ||||||
+
+**Homework:**
+
