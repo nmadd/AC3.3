@@ -82,7 +82,7 @@ Welcome to Access Code!
 |:----------:|:--------:|:--:|:--:|:--:|:----:|:----:|
 | 2016-08-29 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSekxUKRVj2hdJc3SZ9c-IPZqLZQAsrEmNeSDWBbwEYyIzbBRw/viewform)||[Git](lessons/git/intro_git.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfjr4ulZPor4sjNPzM8WSNZ1bV3EiBzWKWylNkc-BqSqqXMeQ/viewform)|
 | 2016-08-30 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSebrKw784cLLQ1-vvCDngzrFKIhmawE2kQvM0m_UxXusFNsJg/viewform)||[Node.js fs module](lessons/node-js/fs-module/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf261mkghfEgNM4N-p7OOU088SgjH91vZjV51C5KTxWb8dy7w/viewform)|
-| 2016-08-31 ||||||
+| 2016-08-31 ||||[Google Maps](lessons/jquery/googlemaps)||
 | 2016-09-01 ||||||
 | 2016-09-02 ||||||
 
