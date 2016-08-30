@@ -1,7 +1,7 @@
 // var logHello = require('./module-1.js').logHello;
 // var logHello = require('./module-1.js').logHello;
 // var logGoodbye = require('./module-1.js').logGoodbye;
-
+var mod1 = require('./module-1.js');
 var obj = {
   logHello: require('./module-1.js').logHello,
   logGoodbye: require('./module-1.js').logGoodbye
