@@ -2,7 +2,7 @@
 - Create a new folder
 - Add an `app.js` file
 - In your terminal, `cd` into your new folder
-- Type in `git init` and setup your `package.json` file
+- Type in `npm init` and setup your `package.json` file
 - Still in your terminal, `npm install figlet` and `npm install prompt`
 - `require` figlet and prompt into your `app.js` file
 - Read over the [figlet](https://www.npmjs.com/package/figlet) and [prompt](https://www.npmjs.com/package/prompt) documentation
