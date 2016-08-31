@@ -83,7 +83,7 @@ Welcome to Access Code!
 | 2016-08-29 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSekxUKRVj2hdJc3SZ9c-IPZqLZQAsrEmNeSDWBbwEYyIzbBRw/viewform)||[Git](lessons/git/intro_git.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfjr4ulZPor4sjNPzM8WSNZ1bV3EiBzWKWylNkc-BqSqqXMeQ/viewform)|
 | 2016-08-30 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSebrKw784cLLQ1-vvCDngzrFKIhmawE2kQvM0m_UxXusFNsJg/viewform)||[Node.js fs module](lessons/node-js/fs-module/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf261mkghfEgNM4N-p7OOU088SgjH91vZjV51C5KTxWb8dy7w/viewform)|
 | 2016-08-31 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSctgtO6apFlOff66Jaf-eSH7kJ5y6bR6G-KjAEs5pNZ4gjE5g/viewform)||[Google Maps](lessons/jquery/googlemaps)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSddVzI5y_vXnno0DgueW6FHjBd61LtNmTfTAb9u_dpsY--w7w/viewform)|
-| 2016-09-01 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdfqWZs00zRDQLcO7L7OUWFAFCjN8vB7mrYk7FqzG7FiQoh7Q/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf5e-7psfEPUNvXV_eLXIlIdCWDUUADuVzd3l3WNTVrvCtF6g/viewform)|
+| 2016-09-01 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdfqWZs00zRDQLcO7L7OUWFAFCjN8vB7mrYk7FqzG7FiQoh7Q/viewform)|[Link](challenges/challenges-8.md)|[Node.js http module](lessons/node-js/http-module/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf5e-7psfEPUNvXV_eLXIlIdCWDUUADuVzd3l3WNTVrvCtF6g/viewform)|
 | 2016-09-02 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdRMTTnpuPhlG6QBDif2E_xTea24LwWNfepmJnlJVUO1utKVg/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeflcecHUE0x--5MJJpwc35st4WkFyexnorCct7LirwrldOmw/viewform)|
 
 **Homework:**
