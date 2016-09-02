@@ -70,11 +70,30 @@ var fs = require('fs');
 // })
 
 
-fs.readFile('text-1.txt', function(err, data){
-  var fullText = '';
-  fullText += data.toString();
-  fs.readFile('text-2.txt', function(err, data){
-    fullText += data.toString();
-    fs.writeFile('text-3.txt', fullText);
+// fs.readFile('text-1.txt', function(err, data){
+//   var fullText = '';
+//   fullText += data.toString();
+//   fs.readFile('text-2.txt', function(err, data){
+//     fullText += data.toString();
+//     fs.writeFile('text-3.txt', fullText);
+//   })
+// })
+
+// fs.readFile('text-1.txt', function(err, data){
+//   if(err) {
+//     console.log('There was an error');
+//   } else {
+//     console.log(data.toString());
+//   }
+// })
+
+// for(var i = 0; i < 100; i++) {
+//   fs.rename('text-1.txt', i + 'new-text-1.txt');
+// }
+
+fs.readdir('.', function(err, data) {
+  console.log(data)
+  data.filter(function(){
+
   })
 })
