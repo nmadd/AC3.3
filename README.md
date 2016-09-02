@@ -92,10 +92,10 @@ Welcome to Access Code!
 
 |  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-09-05 |||||||
-| 2016-09-06 |||||||
-| 2016-09-07 |||||||
-| 2016-09-08 |||||||
-| 2016-09-09 |||||||
+| 2016-09-05 ||||Labor Day||
+| 2016-09-06 ||||Closures and Git||
+| 2016-09-07 ||||AJAX and API||
+| 2016-09-08 ||||Review and Exam||
+| 2016-09-09 ||||No Class||
 
 **Homework:** 
