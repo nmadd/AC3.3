@@ -87,3 +87,15 @@ Welcome to Access Code!
 | 2016-09-02 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdRMTTnpuPhlG6QBDif2E_xTea24LwWNfepmJnlJVUO1utKVg/viewform)||[Best GIFs Ever](lessons/node-js/http-module/best-gifs-ever.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeflcecHUE0x--5MJJpwc35st4WkFyexnorCct7LirwrldOmw/viewform)|
 
 **Homework:**
+
+### Week 8
+
+|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-09-05 |||||||
+| 2016-09-06 |||||||
+| 2016-09-07 |||||||
+| 2016-09-08 |||||||
+| 2016-09-09 |||||||
+
+**Homework:** 
