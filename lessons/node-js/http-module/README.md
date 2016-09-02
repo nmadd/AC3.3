@@ -87,7 +87,7 @@ var request = require('request');
 request.post('http://localhost:8080', {form: 'this is some test data'});
 ```
 ## Exercises
-- [http server exercises](http-exercises)
+- [http server exercises](http-exercises.md)
 
 ## Project
 - [node personal website](node-personal-website/project/server.md)

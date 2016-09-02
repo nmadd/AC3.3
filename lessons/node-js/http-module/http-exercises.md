@@ -13,5 +13,6 @@
 - Try adding 1-2 more HTML pages and adding links to each html page that lets you navigate to any page from any page. Create a `server-5.js` file that serves up all of your html pages
 
 ## Challenges
-- Setup a server that can receive data from a request (you'll need to use `request.on`) and automatically write that data as a response to your web page. You'll need to use either the `http.request` module or the npm request module to manually create a `post` request to your site in order to test it out.
+- Create a node.js server for your personal site (that you made earlier this week) and host it yourself instead of using github pages
 - Choose another previous project (such as the pokemon project, google maps project, etc.) and create a server for it.
+- Setup a server that can receive data from a request (you'll need to use `request.on`) and automatically write that data as a response to your web page. You'll need to use either the `http.request` module or the npm request module to manually create a `post` request to your site in order to test it out.
