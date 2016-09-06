@@ -93,7 +93,7 @@ Welcome to Access Code!
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-09-05 ||||Labor Day||
-| 2016-09-06 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf26v13ytgwRUg_VZyq4GtQu_vO3Wn10izKKPLfjmMxnNNOpA/viewform)|[Link](challenges/challenges-9.md)|[Closures](lessons/javascript-advanced/closures) & [More Git](lessons/git/intermediate_git.md)|[Middy](https://docs.google.com/forms/d/e/1FAIpQLSdTGJKuTQtvOuR7EYNtjZpWuqqRIguYJzftlYSiv3tP23LmwA/viewform)|
+| 2016-09-06 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf26v13ytgwRUg_VZyq4GtQu_vO3Wn10izKKPLfjmMxnNNOpA/viewform)|[Link](challenges/challenges-9.md)|[Closures](lessons/javascript-advanced/closures) & [More Git](lessons/git/intermediate_git.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdTGJKuTQtvOuR7EYNtjZpWuqqRIguYJzftlYSiv3tP23LmwA/viewform)|
 | 2016-09-07 ||||AJAX and API||
 | 2016-09-08 ||||Review and Exam||
 | 2016-09-09 ||||No Class||
