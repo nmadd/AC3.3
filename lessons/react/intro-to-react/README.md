@@ -8,13 +8,18 @@
 - That's where frameworks come into play
 - React is halfway between a library and framework - just the 'view' part of our app
 - Made by Facebook and used in some of the biggest apps
-- React is focused around components ([Coomponents Mock](https://facebook.github.io/react/img/blog/thinking-in-react-components.png))
+- React is focused around components ([Coomponents Mock](https://facebook.github.io/react/img/blog/thinking-in-react-components.png)) (think of lego pieces)
 - React one way data flow - event occurs -> changes state -> filters down to components
 - React is component based, immutable, and functional
 - The virtual DOM - React creates a virtual DOM, and runs a 'diffing' algorithm every time an event takes place. Updates only the parts of the DOM that need updating
 
 ## First Component
+Components are the basic building blocks of React. Here's the simplest way to define a new component:
+
 ```js
+var React = require('react');
+var ReactDOM = require('react-dom');
+
 var HelloWorld = React.createClass({
   render: function() {
     return (
@@ -29,13 +34,19 @@ ReactDOM.render(
 ```
 
 ## Multiple components
+Components can also be nested within eachother: 
 ```js
+var React = require('react');
+var ReactDOM = require('react-dom');
+
 var GifApp = React.createClass({
   render: function() {
     return (
-      <Title />
-      <GifOne />
-      <GifTwo />
+      <div>
+        <Title />
+        <GifOne />
+        <GifTwo />
+      </div>
     )
   }
 })
@@ -50,7 +61,7 @@ var Title = React.createClass({
 var GifOne = React.createClass({
   render: function() {
     return (
-      <img src=""></img>
+      <img src="https://media1.giphy.com/media/UkhHIZ37IDRGo/200.gif"></img>
     )
   }
 });
@@ -58,12 +69,12 @@ var GifOne = React.createClass({
 var GifTwo = React.createClass({
   render: function() {
     return (
-      <img src=""></img>
+      <img src="https://media.giphy.com/media/PZ0mCZOwWHSVi/giphy.gif"></img>
     )
   }
 });
 
 ReactDOM.render(
-  <GifApp />, document.getElementById('main')
+  <GifApp />, document.getElementById('root')
 )
 ```
