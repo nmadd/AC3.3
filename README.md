@@ -93,7 +93,7 @@ Welcome to Access Code!
 |  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-09-05 ||||Labor Day||
-| 2016-09-06 ||||Closures and Git||
+| 2016-09-06 ||||[Closures](lessons/javascript-advanced/closures) & [More Git](lessons/git/intermediate_git.md)||
 | 2016-09-07 ||||AJAX and API||
 | 2016-09-08 ||||Review and Exam||
 | 2016-09-09 ||||No Class||
