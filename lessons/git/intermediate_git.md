@@ -1,4 +1,8 @@
 # Git
+
+## Objectives 
+Students will be able to fork repositories and make pull requests.
+
 The following commands configure Git to label and associate commits with your name and email.
 ```
 $ git config --global user.name "YOUR NAME"
