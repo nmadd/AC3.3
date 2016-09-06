@@ -90,7 +90,7 @@ Welcome to Access Code!
 
 ### Week 8
 
-|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-09-05 ||||Labor Day||
 | 2016-09-06 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf26v13ytgwRUg_VZyq4GtQu_vO3Wn10izKKPLfjmMxnNNOpA/viewform)||[Closures](lessons/javascript-advanced/closures) & [More Git](lessons/git/intermediate_git.md)||
