@@ -50,6 +50,8 @@ A pull request is a request to merge the changes and commits in your fork to the
 
 ## Self-Study
 * [Git Guide](http://rogerdudler.github.io/git-guide/) - Basic
+* [Markdown Cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html) - Basic
+* [GitHub Guides](https://guides.github.com/) - Intermediate
 * [Git Bootcamp](https://help.github.com/categories/bootcamp/) - Intermediate
 * [Git Branching](http://learngitbranching.js.org/) - Advanced
 
