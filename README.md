@@ -94,7 +94,7 @@ Welcome to Access Code!
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-09-05 ||||Labor Day||
 | 2016-09-06 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf26v13ytgwRUg_VZyq4GtQu_vO3Wn10izKKPLfjmMxnNNOpA/viewform)|[Link](challenges/challenges-9.md)|[Closures](lessons/javascript-advanced/closures) & [More Git](lessons/git/intermediate_git.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdTGJKuTQtvOuR7EYNtjZpWuqqRIguYJzftlYSiv3tP23LmwA/viewform)|
-| 2016-09-07 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeMXJiePv-R2Z8AJnWcaCb9bFHCotORaWucGjwWrmJM2mThyA/viewform)||AJAX and API||
+| 2016-09-07 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeMXJiePv-R2Z8AJnWcaCb9bFHCotORaWucGjwWrmJM2mThyA/viewform)||[AJAX and API](lessons/jquery/AJAX/APIproject.md)||
 | 2016-09-08 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeCsu2GwX8LsTM4HOmFi-v2z72uBJ4M5KGLaRQlE2EFa6LH_A/viewform)||Review and Exam||
 | 2016-09-09 ||||No Class||
 
