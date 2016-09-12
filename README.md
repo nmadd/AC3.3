@@ -104,7 +104,7 @@ Welcome to Access Code!
 
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-09-12 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfGAiBCgv-Dgp0JT9rYH1F6Mn4P-g0m0pYK8PzF0qdw8EScEA/viewform)|[Link](challenges/challenges-9.md)|[Intro to React](lessons/react/intro-to-react/README.md)||
+| 2016-09-12 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfGAiBCgv-Dgp0JT9rYH1F6Mn4P-g0m0pYK8PzF0qdw8EScEA/viewform)|[Link](challenges/challenges-9.md)|[Intro to React](lessons/react/intro-to-react/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSewJ4nllUFEbad6ye2Ffkn-Y9EflD67Mlz0mhlByfD7Ggn5Ug/viewform)|
 | 2016-09-13 ||||[React State]()||
 | 2016-09-14 ||||[React Props]()||
 | 2016-09-15 ||||[React Lifecycle]()||
