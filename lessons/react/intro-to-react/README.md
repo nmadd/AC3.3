@@ -131,3 +131,6 @@ ReactDOM.render(
   <GifApp />, document.getElementById('root')
 )
 ```
+
+## Project
+[Store Listing App](projects/store-listing/README.md)
