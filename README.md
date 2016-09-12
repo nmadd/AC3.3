@@ -98,4 +98,16 @@ Welcome to Access Code!
 | 2016-09-08 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeCsu2GwX8LsTM4HOmFi-v2z72uBJ4M5KGLaRQlE2EFa6LH_A/viewform)||Review and Exam||
 | 2016-09-09 ||||No Class||
 
-**Homework:** 
+**Homework:**
+
+### Week 9
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-09-12 |||[Link](challenges/challenges-9.md)|[Intro to React](lessons/react/intro-to-react/README.md)||
+| 2016-09-13 ||||[React State]()||
+| 2016-09-14 ||||[React Props]()||
+| 2016-09-15 ||||[React Lifecycle]()||
+| 2016-09-16 ||||||
+
+**Homework:**

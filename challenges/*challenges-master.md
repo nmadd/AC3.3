@@ -46,3 +46,8 @@
 
 //Unused
 - [SillyCASE](https://www.codewars.com/kata/sillycase) (7 kyu)
+- [Triangular Treasure](https://www.codewars.com/kata/triangular-treasure)(7 kyu)
+- [Vasya Clerk](https://www.codewars.com/kata/vasya-clerk)(6 kyu)
+- [Stop gninnipS My sdroW!](https://www.codewars.com/kata/stop-gninnips-my-sdrow)(6 kyu)
+
+- [Evil Autocorrect Prank](https://www.codewars.com/kata/evil-autocorrect-prank)(6 kyu)
