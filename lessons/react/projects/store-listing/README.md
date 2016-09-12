@@ -1,4 +1,5 @@
-The goal is to create a simple store listing app, where you display a list of items that you'll (pretend to) be selling. Think of a simplified version of the Amazon homepage, where you can see things like featured items, recommendations, and new arrivals.
+## Intro
+Your goal is to create a simple store listing app. In other words, you will want to display a list of items that you'll (pretend to) be selling. Think of a simplified version of the Amazon homepage, where you can see things like featured items, recommendations, and new arrivals.
 
 You can choose the types of items you'd like to have in your store...you can choose to focus on clothing, video games, toys, or anything else you choose. At this time we'll just start to build the very basic parts of the app, and will keep building on it in the future. Do not worry about building out the actual functionality of the app yet...for now we will just be building the visual interface.
 
