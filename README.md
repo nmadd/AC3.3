@@ -106,7 +106,7 @@ Welcome to Access Code!
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-09-12 |||[Link](challenges/challenges-9.md)|[Intro to React](lessons/react/intro-to-react/README.md)||
 | 2016-09-13 ||||[React State]()||
-| 2016-09-14 ||||[React Props]()||
+| 2016-09-14 |||[Link](challenges/challenges-10.md)|[React Props](lessons/react/props/README.md)||
 | 2016-09-15 ||||[React Lifecycle]()||
 | 2016-09-16 ||||||
 
