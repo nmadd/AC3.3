@@ -47,9 +47,11 @@ You can map over state to get props more dynamically:
 var React = require('react');
 var ReactDOM = require('react-dom');
 
+var data = {GIFs: ["https://media1.giphy.com/media/UkhHIZ37IDRGo/200.gif", "https://media.giphy.com/media/PZ0mCZOwWHSVi/giphy.gif", "https://media2.giphy.com/media/6vWVzDv19i3MQ/200.gif"]};
+
 var GifApp = React.createClass({
   getInitialState: function(){
-    return {GIFs: ["https://media1.giphy.com/media/UkhHIZ37IDRGo/200.gif", "https://media.giphy.com/media/PZ0mCZOwWHSVi/giphy.gif", "https://media2.giphy.com/media/6vWVzDv19i3MQ/200.gif"]}
+    return data;
   },
   render: function() {
     return (
@@ -88,9 +90,11 @@ You can also pass functions down through props:
 var React = require('react');
 var ReactDOM = require('react-dom');
 
+var data = {GIFs: ["https://media1.giphy.com/media/UkhHIZ37IDRGo/200.gif", "https://media.giphy.com/media/PZ0mCZOwWHSVi/giphy.gif", "https://media2.giphy.com/media/6vWVzDv19i3MQ/200.gif"]};
+
 var GifApp = React.createClass({
   getInitialState: function(){
-    return {GIFs: ["https://media1.giphy.com/media/UkhHIZ37IDRGo/200.gif", "https://media.giphy.com/media/PZ0mCZOwWHSVi/giphy.gif", "https://media2.giphy.com/media/6vWVzDv19i3MQ/200.gif"]}
+    return data;
   },
   addPuppyGif: function() {
     this.setState({GIFs: this.state.GIFs.concat(["http://i.giphy.com/3o6ZtaO9BZHcOjmErm.gif"])})
