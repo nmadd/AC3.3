@@ -9,7 +9,8 @@ var data = {items:
   [
     {title: 'Tamagotchi', price: 100, description:"Your new best friend", img: 'http://www.musthavetoy.com/wp-content/uploads/tamagotchi4_small.jpg', featured: true, new: true},
     {title: 'Princess Beanie Baby', price: 10000, description:"Your old best friend", img: 'http://www.tycollector.com/the-scoop/scoop-images/princess-history.jpg', featured: false, new: true}
-]}
+  ]
+}
 ```
 
 - Add a `getInitialState` method to your parent component (aka the main component that you will be rendering to your screen, and that holds all your other components). Make your `getInitialState` just return your `items` object.
