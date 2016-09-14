@@ -2,6 +2,9 @@
 - Be able to build basic children components that get properties passed down from parent components
 - Understand how data flows down from parents to children components
 
+# ES6 Importing and Exporting
+- [Intro to ES6 Modules](http://wesbos.com/javascript-modules/)
+
 # Props
 You can use props to share information between components. Properties of parent components can be accessed by child components using the special `this.props` property:
 ```js
