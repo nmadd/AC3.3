@@ -15,7 +15,9 @@ var data = {items:
 - Add a `getInitialState` method to your parent component (aka the main component that you will be rendering to your screen, and that holds all your other components). Make your `getInitialState` just return your `items` object.
 
 - Update your app to pass down all of the data to your components from the `items` object in your state. You will need to use `this.props` to pass the data down, and you  will need to use `this.state` to initially access the data. Once you are done, you should not have any titles, descriptions, image srcs, or any other data hardcoded in your components.
-- 
+
+-  Add a button to your app. When you click on that button it should add a new item to your store, which should be instantly displayed on your site. If you click on the button multiple times it should just keep on adding more items.
+
 
 # Bonuses
 
