@@ -44,10 +44,17 @@
 - [Equal Sides of An Array](https://www.codewars.com/kata/equal-sides-of-an-array) (6 kyu)
 - [Return substring instance count -2](http://www.codewars.com/kata/return-substring-instance-count-2) (5 kyu)
 
-//Unused
+
 - [SillyCASE](https://www.codewars.com/kata/sillycase) (7 kyu)
 - [Triangular Treasure](https://www.codewars.com/kata/triangular-treasure)(7 kyu)
 - [Vasya Clerk](https://www.codewars.com/kata/vasya-clerk)(6 kyu)
 - [Stop gninnipS My sdroW!](https://www.codewars.com/kata/stop-gninnips-my-sdrow)(6 kyu)
 
 - [Evil Autocorrect Prank](https://www.codewars.com/kata/evil-autocorrect-prank)(6 kyu)
+
+//Unused
+- [Find sum of top-left to bottom-right diagonals](https://www.codewars.com/kata/find-sum-of-top-left-to-bottom-right-diagonals) (7 kyu)
+- [Number pairs](https://www.codewars.com/kata/number-pairs) (7 kyu)
+- [Extract the IDs from the data set](https://www.codewars.com/kata/extract-the-ids-from-the-data-set) (6 kyu)
+- [Closures and Scope](https://www.codewars.com/kata/closures-and-scopes/javascript) (6 kyu)
+- [Who Won the Electrion](https://www.codewars.com/kata/who-won-the-election) (6 kyu)
