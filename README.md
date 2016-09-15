@@ -107,7 +107,7 @@ Welcome to Access Code!
 | 2016-09-12 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfGAiBCgv-Dgp0JT9rYH1F6Mn4P-g0m0pYK8PzF0qdw8EScEA/viewform)|[Link](challenges/challenges-9.md)|[Intro to React](lessons/react/intro-to-react/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSewJ4nllUFEbad6ye2Ffkn-Y9EflD67Mlz0mhlByfD7Ggn5Ug/viewform)|
 | 2016-09-13 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScmymHsBUshIXMd9kB-wlzdetOMPry1H3Jm7RKd3NEHym6c8g/viewform)||[React State](lessons/react/state)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdl6G6kqLJ24-QsopC2EO2_m5gTtsHh0NuIiz4_KJVZrZfAzg/viewform)|
 | 2016-09-14 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScd6fBavGMlVO0Ed6aceWPTX1g28jJDdX-xP5eSavc06XqpwA/viewform)|[Link](challenges/challenges-10.md)|[React Props](lessons/react/props/README.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeyDM5tLTNi2qRDPfq1GF_P5uob0s8uRI9hx4LIcLxkS_bogQ/viewform)|
-| 2016-09-15 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSekUhSVVgHjnRiMORR5hA1cpsSXA-1R_XyHEwp7YhogoJnbdA/viewform)||[React Lifecycle](lessons/react/lifecycleMethods.md)|{midday](https://docs.google.com/forms/d/e/1FAIpQLSfzmaxS2SUCplRw8yrokBd4aWa65y1Rl8vXTq4fq40gy4jxig/viewform)|
+| 2016-09-15 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSekUhSVVgHjnRiMORR5hA1cpsSXA-1R_XyHEwp7YhogoJnbdA/viewform)||[React Lifecycle](lessons/react/lifecycleMethods.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfzmaxS2SUCplRw8yrokBd4aWa65y1Rl8vXTq4fq40gy4jxig/viewform)|
 | 2016-09-16 ||||||
 
 **Homework:**
