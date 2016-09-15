@@ -108,7 +108,7 @@ Welcome to Access Code!
 | 2016-09-13 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScmymHsBUshIXMd9kB-wlzdetOMPry1H3Jm7RKd3NEHym6c8g/viewform)||[React State](lessons/react/state)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdl6G6kqLJ24-QsopC2EO2_m5gTtsHh0NuIiz4_KJVZrZfAzg/viewform)|
 | 2016-09-14 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScd6fBavGMlVO0Ed6aceWPTX1g28jJDdX-xP5eSavc06XqpwA/viewform)|[Link](challenges/challenges-10.md)|[React Props](lessons/react/props/README.md)||
 | 2016-09-15 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSekUhSVVgHjnRiMORR5hA1cpsSXA-1R_XyHEwp7YhogoJnbdA/viewform)||[React Lifecycle](lessons/react/lifecycleMethods.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfzmaxS2SUCplRw8yrokBd4aWa65y1Rl8vXTq4fq40gy4jxig/viewform)|
-| 2016-09-16 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScqV_E41QQPMLUQGXp-990pCGmSBOj2oaFgjvxNq6cebHznbg/viewform)||[Bootstrap](lessons/ui/twitter-bootstrap/README.md) + [Todolist](lessons/react/projects/todolist/README.md) + Review||
+| 2016-09-16 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScqV_E41QQPMLUQGXp-990pCGmSBOj2oaFgjvxNq6cebHznbg/viewform)||[Bootstrap](lessons/ui/twitter-bootstrap/README.md) + [Todolist](lessons/react/projects/todolist/README.md) + Review|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScqWOqrjIo1BibO0JfkTLFE8YharLus6UjSWHZvWWSAdzI8fg/viewform)|
 
 
 **Homework:**
