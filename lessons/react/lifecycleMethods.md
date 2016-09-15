@@ -1,5 +1,9 @@
 # React Component Lifecycle Methods
 
+## Objectives 
+Students will be able to use the lifecycle methods like `componentDidMount` and `componentWillMount`.
+Students will be able to construct forms in React. 
+
 ## getInitialState
 This function is invoked once before the first render of the React component. The return value is stored in the state of the React component and can be accessed using `this.state` within the React component.
 
