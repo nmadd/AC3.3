@@ -112,3 +112,14 @@ Welcome to Access Code!
 
 
 **Homework:**
+### Week 10
+
+|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-09-19 |||| [React React React](lessons/react/projectDay.md) ||
+| 2016-09-20 |||| [Flexbox]() ||
+| 2016-09-21 |||| [Closures, Scope, This]() ||
+| 2016-09-22 |||| [More React]() ||
+| 2016-09-23 |||| [Quiz]() |&nbsp;||
+
+**Homework:**
