@@ -108,7 +108,18 @@ Welcome to Access Code!
 | 2016-09-13 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScmymHsBUshIXMd9kB-wlzdetOMPry1H3Jm7RKd3NEHym6c8g/viewform)||[React State](lessons/react/state)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdl6G6kqLJ24-QsopC2EO2_m5gTtsHh0NuIiz4_KJVZrZfAzg/viewform)|
 | 2016-09-14 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScd6fBavGMlVO0Ed6aceWPTX1g28jJDdX-xP5eSavc06XqpwA/viewform)|[Link](challenges/challenges-10.md)|[React Props](lessons/react/props/README.md)||
 | 2016-09-15 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSekUhSVVgHjnRiMORR5hA1cpsSXA-1R_XyHEwp7YhogoJnbdA/viewform)||[React Lifecycle](lessons/react/lifecycleMethods.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfzmaxS2SUCplRw8yrokBd4aWa65y1Rl8vXTq4fq40gy4jxig/viewform)|
-| 2016-09-16 ||||[Bootstrap](lessons/ui/twitter-bootstrap/README.md) + [Todolist](lessons/react/projects/todolist/README.md) + Review||
+| 2016-09-16 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScqV_E41QQPMLUQGXp-990pCGmSBOj2oaFgjvxNq6cebHznbg/viewform)|[Link](challenges/challenges-11.md)|[Bootstrap](lessons/ui/twitter-bootstrap/README.md) + [Todolist](lessons/react/projects/todolist/README.md) + Review|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScqWOqrjIo1BibO0JfkTLFE8YharLus6UjSWHZvWWSAdzI8fg/viewform)|
 
+
+**Homework:**
+### Week 10
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-09-19 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeqAB5nkMT0eFfce5KJHrBvHVQG_F13IVW-R1GGtTiuhpME8A/viewform)|| [React React React](lessons/react/projectDay.md) ||
+| 2016-09-20 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc9Xciz57A3bpVZNcOvFzd5rZeZQ-zBjPnnkwA9ZwfgJAuqAw/viewform)|| [Flexbox]() ||
+| 2016-09-21 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfOO-ZDy8XWsxTtvSgRQae_-pdvSQhEqNdxoxV7zmNP3j5ddQ/viewform)|| [Closures, Scope, This](lessons/javascript-advanced/thisThat.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeyrfWD6ykOx1HozVxspUfKoHYGqAYsYqah0aB_VwNcQwW58w/viewform)|
+| 2016-09-22 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeYRJfpQJxSPt4pZkTLik-iIUc0FfjsK6jS4JVhLDsozpNBUg/viewform)|| [More React]() ||
+| 2016-09-23 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSd5MyckMuyRjaQmaWAVXWFB0qA7sp68aLL12Rs6lsCA4uGVGQ/viewform)|| [Quiz]() |&nbsp;||
 
 **Homework:**
