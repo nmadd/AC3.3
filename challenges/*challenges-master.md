@@ -52,9 +52,19 @@
 
 - [Evil Autocorrect Prank](https://www.codewars.com/kata/evil-autocorrect-prank)(6 kyu)
 
-//Unused
+//Challenges 10
+- [Use Map to Double Values in Array](https://www.codewars.com/kata/use-map-to-double-the-values-in-an-array) (7 kyu)
+- [Largest Pair Sum in Array](https://www.codewars.com/kata/largest-pair-sum-in-array) (7 kyu)
+- [Cycle a list of values] (https://www.codewars.com/kata/cycle-a-list-of-values/javascript) (6 kyu)
+- [Function Composition](https://www.codewars.com/kata/function-composition-1/javascript) (6 kyu)
+
+//Challenges 11
 - [Find sum of top-left to bottom-right diagonals](https://www.codewars.com/kata/find-sum-of-top-left-to-bottom-right-diagonals) (7 kyu)
 - [Number pairs](https://www.codewars.com/kata/number-pairs) (7 kyu)
 - [Extract the IDs from the data set](https://www.codewars.com/kata/extract-the-ids-from-the-data-set) (6 kyu)
 - [Closures and Scope](https://www.codewars.com/kata/closures-and-scopes/javascript) (6 kyu)
-- [Who Won the Electrion](https://www.codewars.com/kata/who-won-the-election) (6 kyu)
+
+//Unused
+- [Gradually Adding Parameters](https://www.codewars.com/kata/gradually-adding-parameters) (7 kyu)
+- [Who Won the Election](https://www.codewars.com/kata/who-won-the-election) (6 kyu)
+- [Fizz/Buzz](https://www.codewars.com/kata/fizz-slash-buzz) (6 kyu)
