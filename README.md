@@ -122,16 +122,16 @@ Welcome to Access Code!
 | 2016-09-22 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeYRJfpQJxSPt4pZkTLik-iIUc0FfjsK6jS4JVhLDsozpNBUg/viewform)|[Link](challenges/challenges-12.md)| [ES6](lessons/es6/variables-and-arrow-functions.md) + [More React](lessons/react/review/review-1.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeyrfWD6ykOx1HozVxspUfKoHYGqAYsYqah0aB_VwNcQwW58w/viewform)|
 | 2016-09-23 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSd5MyckMuyRjaQmaWAVXWFB0qA7sp68aLL12Rs6lsCA4uGVGQ/viewform)|| [Quiz]() |&nbsp;||
 
-**Homework: [POKEDEX](https://github.com/ckuang/pokedex) ** 
+**Homework: [POKEDEX](https://github.com/ckuang/pokedex) **
 
 ### Week 11
 
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-09-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf1TnlkdOaq4Ei7GM8kl98h3YWp4G9aYGJ2gk5537BrefCF0g/viewform)|| [Webpack](https://github.com/ckuang/webpacker) & [Intro to React Router](https://github.com/ReactTraining/react-router) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeDBWS-WypXBC-6LWiylHwgsDp3bFBCZSPSyMGi9rokMTxDdQ/viewform)|
-| 2016-09-27 |||| []() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdI_EKiL1YmBBpZR7GL-QswfCdIeE6rGZYTbFcqE2geJHkpGQ/viewform)|
+| 2016-09-27 |||| [React Router](lessons/react/react-router/README.md) + [Good Burger](lessons/react/projects/good-burger/README.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdI_EKiL1YmBBpZR7GL-QswfCdIeE6rGZYTbFcqE2geJHkpGQ/viewform)|
 | 2016-09-28 |||| []() ||
 | 2016-09-29 |||| []() ||
 | 2016-09-30 |||| []() ||
 
-**Homework:** 
+**Homework:**
