@@ -129,7 +129,7 @@ Welcome to Access Code!
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-09-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf1TnlkdOaq4Ei7GM8kl98h3YWp4G9aYGJ2gk5537BrefCF0g/viewform)|| [Webpack](https://github.com/ckuang/webpacker) & [Intro to React Router](https://github.com/ReactTraining/react-router) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeDBWS-WypXBC-6LWiylHwgsDp3bFBCZSPSyMGi9rokMTxDdQ/viewform)|
-| 2016-09-27 |||| []() ||
+| 2016-09-27 |||| []() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdI_EKiL1YmBBpZR7GL-QswfCdIeE6rGZYTbFcqE2geJHkpGQ/viewform)|
 | 2016-09-28 |||| []() ||
 | 2016-09-29 |||| []() ||
 | 2016-09-30 |||| []() ||
