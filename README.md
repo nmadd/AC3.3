@@ -128,7 +128,7 @@ Welcome to Access Code!
 
 |  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-09-26 |||| [Webpack]() & [Intro to React Router]() ||
+| 2016-09-26 |||| [Webpack](https://github.com/ckuang/webpacker) & [Intro to React Router](https://github.com/ReactTraining/react-router) ||
 | 2016-09-27 |||| []() ||
 | 2016-09-28 |||| []() ||
 | 2016-09-29 |||| []() ||
