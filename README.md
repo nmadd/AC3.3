@@ -123,3 +123,15 @@ Welcome to Access Code!
 | 2016-09-23 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSd5MyckMuyRjaQmaWAVXWFB0qA7sp68aLL12Rs6lsCA4uGVGQ/viewform)|| [Quiz]() |&nbsp;||
 
 **Homework: [POKEDEX](https://github.com/ckuang/pokedex) ** 
+
+### Week 11
+
+|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-09-26 |||| [Webpack]() & [Intro to React Router]() ||
+| 2016-09-27 |||| []() ||
+| 2016-09-28 |||| []() ||
+| 2016-09-29 |||| []() ||
+| 2016-09-30 |||| []() ||
+
+**Homework:** 
