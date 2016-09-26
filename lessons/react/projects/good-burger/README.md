@@ -1,5 +1,5 @@
 ## Good Burger App
-We'll be building a website for a restaurant (we'll be using data from the classic movie Good Burger, but feel free to customize your app however you'd like).
+We'll be building a website for a restaurant (we'll be using data from the CLASSIC movie Good Burger, but feel free to customize your app however you'd like).
 
 When finished , the app should look something like this (note: the below app has not been styled):
 
