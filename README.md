@@ -130,8 +130,8 @@ Welcome to Access Code!
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-09-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf1TnlkdOaq4Ei7GM8kl98h3YWp4G9aYGJ2gk5537BrefCF0g/viewform)|| [Webpack](https://github.com/ckuang/webpacker) & [Intro to React Router](https://github.com/ReactTraining/react-router) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeDBWS-WypXBC-6LWiylHwgsDp3bFBCZSPSyMGi9rokMTxDdQ/viewform)|
 | 2016-09-27 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeucXNgvt-EIp3NK4nWnRBPvN5vQgVtfhdFPsyGfZaM8_fQwg/viewform)|| [React Router](lessons/react/react-router/README.md) + [Good Burger](lessons/react/projects/good-burger/README.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdI_EKiL1YmBBpZR7GL-QswfCdIeE6rGZYTbFcqE2geJHkpGQ/viewform)|
-| 2016-09-28 |||| []() ||
-| 2016-09-29 |||| []() ||
+| 2016-09-28 |||| []() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfgZ03JWtVawQSAEo9l4DfZESoObh8hXCVKKb44C4nA-S3A0g/viewform)|
+| 2016-09-29 |||| []() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSenuOvh2O4mOUF-pHp02Aa-Ieb3rpTr6K4s7DMf3-sdohZpGA/viewform)|
 | 2016-09-30 |||| []() ||
 
 **Homework:**
