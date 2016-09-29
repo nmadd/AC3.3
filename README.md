@@ -117,7 +117,7 @@ Welcome to Access Code!
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-09-19 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeqAB5nkMT0eFfce5KJHrBvHVQG_F13IVW-R1GGtTiuhpME8A/viewform)|| [React React React](lessons/react/projectDay.md) ||
-| 2016-09-20 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc9Xciz57A3bpVZNcOvFzd5rZeZQ-zBjPnnkwA9ZwfgJAuqAw/viewform)|| [Flexbox]() ||
+| 2016-09-20 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc9Xciz57A3bpVZNcOvFzd5rZeZQ-zBjPnnkwA9ZwfgJAuqAw/viewform)|| [Flexbox](lessons/html-and-css/readme.md) ||
 | 2016-09-21 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfOO-ZDy8XWsxTtvSgRQae_-pdvSQhEqNdxoxV7zmNP3j5ddQ/viewform)|| [Closures, Scope, This](lessons/javascript-advanced/thisThat.md) ||
 | 2016-09-22 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeYRJfpQJxSPt4pZkTLik-iIUc0FfjsK6jS4JVhLDsozpNBUg/viewform)|[Link](challenges/challenges-12.md)| [ES6](lessons/es6/variables-and-arrow-functions.md) + [More React](lessons/react/review/review-1.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeyrfWD6ykOx1HozVxspUfKoHYGqAYsYqah0aB_VwNcQwW58w/viewform)|
 | 2016-09-23 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSd5MyckMuyRjaQmaWAVXWFB0qA7sp68aLL12Rs6lsCA4uGVGQ/viewform)|| [Quiz]() |&nbsp;||
@@ -131,7 +131,7 @@ Welcome to Access Code!
 | 2016-09-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf1TnlkdOaq4Ei7GM8kl98h3YWp4G9aYGJ2gk5537BrefCF0g/viewform)|| [Webpack](https://github.com/ckuang/webpacker) & [Intro to React Router](https://github.com/ReactTraining/react-router) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeDBWS-WypXBC-6LWiylHwgsDp3bFBCZSPSyMGi9rokMTxDdQ/viewform)|
 | 2016-09-27 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeucXNgvt-EIp3NK4nWnRBPvN5vQgVtfhdFPsyGfZaM8_fQwg/viewform)|| [React Router](lessons/react/react-router/README.md) + [Good Burger](lessons/react/projects/good-burger/README.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdI_EKiL1YmBBpZR7GL-QswfCdIeE6rGZYTbFcqE2geJHkpGQ/viewform)|
 | 2016-09-28 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeOhCVFYpyZAqrjx3yQ3lhf-TfoFKc7Igydl20mdOG8AiDC4w/viewform)|| [More Routing](lessons/react/react-router/moreRouting.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfgZ03JWtVawQSAEo9l4DfZESoObh8hXCVKKb44C4nA-S3A0g/viewform)|
-| 2016-09-29 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdylJ_tMT8wTsOxryruL5rYnBahBOEXark46JE7cb3oua_12A/viewform)|| []() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSenuOvh2O4mOUF-pHp02Aa-Ieb3rpTr6K4s7DMf3-sdohZpGA/viewform)|
+| 2016-09-29 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdylJ_tMT8wTsOxryruL5rYnBahBOEXark46JE7cb3oua_12A/viewform)|| [React Transitions](lessons/react/transitions/readme.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSenuOvh2O4mOUF-pHp02Aa-Ieb3rpTr6K4s7DMf3-sdohZpGA/viewform)|
 | 2016-09-30 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdNLv8wNCrdsbHPGPObmL-bEkmA74BvaStE0z00ZxeJyYpwpQ/viewform)|| []() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSehsTWJQEX7l6SflZjTs_6j9fnqddgcMJVEbVP0-VgKLRvv7A/viewform)|
 
 **Homework:**
