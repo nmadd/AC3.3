@@ -45,7 +45,7 @@ We can tell the browser to animate the transition between two different values *
 ## Animating with keyframes
 We can also have multi-step animations by using the *animation* attribute.
 
-``css`
+```css
 .box {
   width: 150px;
   height: 150px;
