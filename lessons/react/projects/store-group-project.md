@@ -1,5 +1,10 @@
 # Store Group Project
 
+## Setup
+- Start by cloning the simple react setup: https://github.com/nmadd/simple-react-setup
+- Install Bootstrap using `npm install bootstrap --save`, and import it into you `App.js` file using `import 'bootstrap/dist/css/bootstrap.css';`
+- npm install react-router
+
 Your goal is to work with your team to build an ecommerce store. The theme of your store and what you sell is up to you! Your store should have the following features. Each member of your team must complete AT LEAST ONE of the below features:
 
 - navbar with at least 5 different links to different categories/options
