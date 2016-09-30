@@ -4,6 +4,7 @@
 - Start by cloning the simple react setup: https://github.com/nmadd/simple-react-setup
 - Install Bootstrap using `npm install bootstrap --save`, and import it into you `App.js` file using `import 'bootstrap/dist/css/bootstrap.css';`
 - npm install react-router
+- IMPORTANT: If you rn into issues or have questions while making your project, post them here so we can all try to help out: https://github.com/C4Q/AC3.1/issues
 
 ## Instructions
 
