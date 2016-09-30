@@ -56,3 +56,5 @@ add(1, 2);//3
 add(); //0
 add(1); //1
 ```
+# Exercises
+-[Practice exercises](spread-operator-practice-exercises.md)
