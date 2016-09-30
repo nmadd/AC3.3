@@ -8,7 +8,55 @@ function Pokemon(name, type, level) {
   this.level = level
 }
 
+Pokemon.prototype.sound = function() {
+  console.log("I AM A POKEMON")
+}
+
+
+var Button = React.createclass({
+  something: function() {
+
+  }
+})
+
+
+
 var pika = new Pokemon("pikachu", "electric", 5)
+var pika = {}
+pika.name = "pikachu"
+pika.type = "electric"
+pika.level = 5
+pika = {name: "pikachu", type: "electric", level: 5}
+
+var App = React.createClass({
+  getInitialState: function() {
+
+  },
+  componentDidMount: function() {
+
+  },
+  componentWillMount: function() {
+
+  },
+  render: function() {
+
+  }
+})
+
+ReactDOM.render(<App/>, document.getElementById('something'))
+```
+```js
+var person = {
+    var this = person
+    firstName: "Penelope",
+    lastName: "Barrymore",
+    fullName: function () {
+        ​// Notice we use "this" just as we used "he" in the example sentence earlier?:​
+        console.log(this.firstName + " " + this.lastName);
+    ​// We could have also written this:​​
+        console.log(person.firstName + " " + person.lastName);
+    }
+}
 ```
 
 ## Prototype Review
