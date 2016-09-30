@@ -64,7 +64,16 @@
 - [Extract the IDs from the data set](https://www.codewars.com/kata/extract-the-ids-from-the-data-set) (6 kyu)
 - [Closures and Scope](https://www.codewars.com/kata/closures-and-scopes/javascript) (6 kyu)
 
-//Unused
+//Challenges 12
 - [Gradually Adding Parameters](https://www.codewars.com/kata/gradually-adding-parameters) (7 kyu)
 - [Who Won the Election](https://www.codewars.com/kata/who-won-the-election) (6 kyu)
 - [Fizz/Buzz](https://www.codewars.com/kata/fizz-slash-buzz) (6 kyu)
+
+//Unused
+- [Arrays Similar ](https://www.codewars.com/kata/arrays-similar)(6 kyu)
+- [Highest Rank Number in Array](https://www.codewars.com/kata/highest-rank-number-in-an-array)(6 kyu)
+- [Count Adjacent Pairs in a String](https://www.codewars.com/kata/adjacent-pairs-in-a-string)(6 kyu)
+- [Ping Pong service problem](https://www.codewars.com/kata/ping-pong-service-problem)(6 kyu)
+- [Sum up the random string](https://www.codewars.com/kata/sum-up-the-random-string)(7 kyu)
+- [isAN(value)](https://www.codewars.com/kata/isan-value)(7 kyu)
+- [How Many Twos](https://www.codewars.com/kata/how-many-twos)(7 kyu)
