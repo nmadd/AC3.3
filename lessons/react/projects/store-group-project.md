@@ -17,12 +17,12 @@ Your goal is to work with your team to build an ecommerce store. The theme of yo
 - professional looking design and interface ([fab.com](https://fab.com/) is a good example of a clean looking store interface)
 - data stored in a 'data.js' file, similar to the Good Burger app
 
-Bonuses:
+**Bonuses:**
 - a way to sort your products by things like price or popularity
 - a way to search through your products and display search results
 - a 'cart' that saves items users want to buy, and a way for users to add specific products to their cart
 
-Things to think about:
+**Things to think about:**
 - How should you break up responsibilities within your group? Who should be responsible for making what?
 - How should you go about building your app? What should you start with? What order should you do things in?
 - How are you going to collaborate and share code?
