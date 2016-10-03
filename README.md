@@ -141,7 +141,7 @@ Welcome to Access Code!
 
 |  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-10-03 |||| [Advanced Git]() ||
+| 2016-10-03 |||| [Advanced Git](lessons/git/advancedGit.md) ||
 | 2016-10-04 |||| [BASH Projects]() ||
 | 2016-10-05 |||| [Redux]() ||
 | 2016-10-06 |||| [React-Redux]() ||
