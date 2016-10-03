@@ -139,9 +139,9 @@ Welcome to Access Code!
 
 ### Week 12
 
-|  Date      |Pre-Work|Pre-check|Challenge| Lesson |Check-in|
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-10-03 |||| [Advanced Git](lessons/git/advancedGit.md) ||
+| 2016-10-03 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfi0D1B9L3EjOdzgZP9gQXTCfdi6pkVna4xlCZTEqd2DD2olw/viewform)|| [Advanced Git](lessons/git/advancedGit.md) ||
 | 2016-10-04 |||| [BASH Projects]() ||
 | 2016-10-05 |||| [Redux]() ||
 | 2016-10-06 |||| [React-Redux]() ||
