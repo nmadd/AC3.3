@@ -1,5 +1,9 @@
 # Git
 
+## Objectives 
+* Students will be able to fork, push, and make pull requests to collaborate on a project.
+* Students will be able to resolve merge conflicts.
+
 ## MUST READ!!!
 [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/syncing) - great reading on fundamental and advanced Git.
 
