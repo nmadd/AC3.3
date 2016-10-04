@@ -135,3 +135,16 @@ Welcome to Access Code!
 | 2016-09-30 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdNLv8wNCrdsbHPGPObmL-bEkmA74BvaStE0z00ZxeJyYpwpQ/viewform)|| [ES6](lessons/es6/spread-operator-and-default-params.md) + [Bootstrap](lessons/ui/twitter-bootstrap/README.md) + [Store Project](lessons/react/projects/store-group-project.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSehsTWJQEX7l6SflZjTs_6j9fnqddgcMJVEbVP0-VgKLRvv7A/viewform)|
 
 **Homework:**
+
+
+### Week 12
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-10-03 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfi0D1B9L3EjOdzgZP9gQXTCfdi6pkVna4xlCZTEqd2DD2olw/viewform)|| [Advanced Git](lessons/git/advancedGit.md) ||
+| 2016-10-04 |||| [BASH Projects]() ||
+| 2016-10-05 |||| [Redux]() ||
+| 2016-10-06 |||| [React-Redux]() ||
+| 2016-10-07 |||| []() |||
+
+**Homework:** 
