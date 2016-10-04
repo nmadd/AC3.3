@@ -1,23 +1,13 @@
 # Table of Contents
-1. [Resources](#resources)
 2. [Why Redux?](#why-redux)
 3. [What is Redux?](#what-is-redux?)
-3. [Reducers](#reducers)
-3. [Actions](#actions)
+3. [How to use Redux](#how-to-use-redux)
+  - [Store](#store)
+  - [Reducers](#reducers)
+  - [Actions](#actions)
+3. [Putting it All Together](#putting-it-all-together)
+1. [Resources](#resources)
 
-## Example
-## Example2
-## Third Example
-
-
-## Resources
-- [Redux.js.org Docs](http://redux.js.org/docs/basics/)
-- [Leveling up With React: Redux](https://css-tricks.com/learning-react-redux/)
-- [Getting Started With Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
-- [10 Tips For Better Redux Architecutre](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
-- [Redux.js.org Glossary](http://redux.js.org/docs/Glossary.html)
-- [A Cartoon Intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.r7worz8yq)
-- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.5f6z0zolb)
 
 # Why Redux?
 As you've probably encountered, it gets harder and harder to keep your React code organized as your app gets bigger.
@@ -25,12 +15,11 @@ Once you start adding more and more components that need to talk to each other, 
 
 Redux is one of the solutions to this problem. Redux is basically a specific way for you to structure and build the architecture for your apps. Redux helps simplify your complex apps by giving you a logical way to structure the way data flows throughout your app.
 
-Redux is an advanced topic that will help you become a true JavaScript master, and separate you from all of the JavaScript peasants.
+Redux is an advanced topic and takes some time to learn, but once you get down the setup in terms it is amazing how dramatically Redux can help simplify your apps. that will help you become a true JavaScript master, and separate you from all of the JavaScript peasants.
 
-However, even though it is advanced, it is actually surprisingly simple.
 
 # Redux Roadmap
-- Overview -> Store, Deliverymen, Customers
+- Overview -> Reducers, Deliverymen, Customers
 - Store -> Subscribe, dispatch, getState, createStore
 - Reducers
 - Actions
@@ -71,14 +60,16 @@ Basically, in Redux there is one main 'store' that holds the state of our entire
 - Time travel debugging
 
 
-# Store
+# How to Use Redux
+Redux is comprised of three main parts: the store, actions, and reducers. Let's look at each piece one by one:
+## Store
 - [Redux Store Docs](http://redux.js.org/docs/api/Store.html)
 
 The store is the 'single source of truth' in Redux. In other words, the store holds the entire state of our application. Holding all of our state in one place makes it a lot easier to build complex apps, because we always know where to look for any state changes.
 
 Redux stores are immutable, which means we can't directly change store data. Instead, we need to use 'actions', which are the only things that can update our store.
 
-## Creating a store
+### Creating a store
 - [Redux createStore Docs](http://redux.js.org/docs/api/createStore.html)
 
 `createStore` is one of the main functions included with Redux. We can import in the `createStore` function by doing the following:
@@ -95,7 +86,7 @@ const store = createStore(reducer);
 
 The `createStore` needs to take at least one argument: a reducer.
 
-## Store Methods
+### Store Methods
 Redux stores come with three main methods, that let us interact with the store. They are:
 
 #### 1. getState
@@ -130,7 +121,7 @@ render();
 store.subscribe(render);
 ```
 
-# Reducers
+## Reducers
 - [Redux Reducers Docs](http://redux.js.org/docs/basics/Reducers.html)
 
 A `reducer` is simply a function that takes in an action and the previous state, and returns a new, updated state.
@@ -154,7 +145,7 @@ let todosReducer = (state, action) => {
 
 Typically, a `reducer` function contains a switch statements with different outcomes for different actions.
 
-# Actions
+## Actions
 - [Redux Actions Docs](http://redux.js.org/docs/basics/Actions.html)
 
 Actions are sent from your application to the store to update or change store data. They are very similar to `setState`.
@@ -254,3 +245,14 @@ const render = () => ReactDOM.render(
 render();
 store.subscribe(render);
 ```
+
+
+
+## Resources
+- [Redux.js.org Docs](http://redux.js.org/docs/basics/)
+- [Leveling up With React: Redux](https://css-tricks.com/learning-react-redux/)
+- [Getting Started With Redux: An Intro](https://scotch.io/bar-talk/getting-started-with-redux-an-intro)
+- [10 Tips For Better Redux Architecutre](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+- [Redux.js.org Glossary](http://redux.js.org/docs/Glossary.html)
+- [A Cartoon Intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.r7worz8yq)
+- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.5f6z0zolb)
