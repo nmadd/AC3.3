@@ -1,6 +1,8 @@
+# Redux
 # Table of Contents
 2. [Why Redux?](#why-redux)
-3. [What is Redux?](#what-is-redux?)
+3. [What is Redux?](#what-is-redux)
+3. [When to Use Redux](#when-to-use-redux)
 3. [How to use Redux](#how-to-use-redux)
   - [Store](#store)
   - [Reducers](#reducers)
@@ -13,10 +15,11 @@
 As you've probably encountered, it gets harder and harder to keep your React code organized as your app gets bigger.
 Once you start adding more and more components that need to talk to each other, your code inevitably starts turning into spaghetti. It gets harder and harder to keep track of what parts of your app and your state you need to update every time something changes, which makes it hard to build and maintain really big apps.
 
-Redux is one of the solutions to this problem. Redux is basically a specific way for you to structure and build the architecture for your apps. Redux helps simplify your complex apps by giving you a logical way to structure the way data flows throughout your app.
+Redux is one of the solutions to this problem (there are also many other Redux competitors, including [Flux](https://facebook.github.io/flux/docs/overview.html), which Redux is based off of). Redux is basically a specific way for you to structure and build the architecture for your apps. Redux helps simplify your complex apps by giving you a logical way to structure the way data flows throughout your app.
 
-Redux is an advanced topic and takes some time to learn, but once you get down the setup in terms it is amazing how dramatically Redux can help simplify your apps. that will help you become a true JavaScript master, and separate you from all of the JavaScript peasants.
+Redux is an advanced topic and takes some time to learn, but once you get down the setup in terms it is amazing how dramatically Redux can help simplify your apps. Understanding Redux will help you become a true JavaScript master, and separate you from all of the JavaScript peasants out there.
 
+![karate kid](https://valleyrelicsmuseum.org/wp-content/uploads/2015/09/THE-KARATE-KID-3-DI-02.jpggi)
 
 # Redux Roadmap
 - Overview -> Reducers, Deliverymen, Customers
@@ -25,11 +28,15 @@ Redux is an advanced topic and takes some time to learn, but once you get down t
 - Actions
 - React-redux -> Provider, Connect
 
-# Redux FAQs
-- What can I build with Redux? Anything
-- When should I use Redux? You'll know when you need it...(in complicated apps)
-
 # What is Redux?
+Redux revolves around three main principles:
+
+1) Your entire app's state is kept in one place (the 'store'). In other words, Redux apps have a 'single source of truth' that holds all of your app's data in one object.
+
+2) State can only be updated in one way: through 'actions'.
+
+3) State is immutable.
+
 You can think of Redux kind of like an Amazon.com warehouse. Let me explain...
 
 ![amazon-warehouse](http://archive.boston.com/business/technology/innoeco/kiva2.jpg)
@@ -40,7 +47,7 @@ Firstly there's the warehouse. There's only one warehouse (let's pretend Amazon 
 
 Since it has everything, it would get too crazy if everyone tried to shop there at once. So customers are not allowed to directly go to the warehouse. Instead, they make their orders online.
 
-Basically, whenever a customer places an order, the order will get processed by the warehouse, and then Amazon will dispatch one of its [Kiva robots](https://www.cnet.com/news/meet-amazons-busiest-employee-the-kiva-robot/) to go find that item in the warehouse. Once the robot locates the item and brings it back to be shipped, the warehouse inventory (and website) is officially updated.
+Whenever a customer places an order, the order will get processed by the warehouse, and then Amazon will dispatch one of its [Kiva robots](https://www.cnet.com/news/meet-amazons-busiest-employee-the-kiva-robot/) to go find that item in the warehouse. Once the robot locates the item and brings it back to be shipped, the warehouse inventory (and website) is officially updated.
 
 There are many advantages of having robots as part of the process, but perhaps the biggest one is that it makes the entire process very predictable and trackable. The robots keep a record of every single thing they do, which eliminates the possibility of human error, and also makes it really easy to go back and see exactly what happened if something does end up going wrong.
 
@@ -50,15 +57,28 @@ Redux architecture is very similar. There are three main parts to Redux:
 - Actions (the customers)
 - Reducers (the robots)
 
-Basically, in Redux there is one main 'store' that holds the state of our entire application. The only way the state can get updated is through actions, which are typically triggered by the user (for example, typing text into an input box and hitting 'submit'). However actions do not directly update the store - actions are processed by 'reducer' functions, which take in the action, update the state, and return a new state to the store.
+Basically, in Redux there is one main 'store' that holds the state of our entire application. The only way the state can get updated is through actions, which are typically triggered by the user (for example, typing text into an input box and hitting 'submit' can trigger an action). However actions do not directly update the store - actions are processed by 'reducer' functions, which take in the action, update the state, and return a new state to the store.
 
-# Advantages of Redux
+## Advantages of Redux
 - State is all stored in one place
-- A lot easier for sibling components to talk to each other
-- State changes are a lot more predictable
-- Transactional history of all state changes
+- Easy for sibling components to talk to each other
+- State changes are predictable and easily trackable (transactional history of all state changes)
 - Time travel debugging
+- Ability to build basically any app imaginable
 
+## Redux terms
+The most confusing thing about Redux is often the terms and vocabulary used to describe all of the various parts.
+
+- 'Store'
+- 'Actions': 'update notifiers' - actions signal that something in the interface has changed
+- 'Reducers': 'state updaters' - reducers take in actions and update state
+
+# When to Use Redux
+- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.5f6z0zolb)
+
+You don't always need Redux in every app. In fact, people often say that 'you'll know when you need Redux....if you aren't sure if you need it, you probably don't need it.' In other words, if you are building an app without Redux and everything is going relatively smoothly and easy to follow, you probably do not need Redux. However if your app has turned into a complete mess and you're ready to set your computer on fire and throw it out a window, you probably need Redux.
+
+Generally, large apps need Redux. You can build almost any app imaginable using Redux. Most large-scale React apps (that contain many different components that all need to communicate) use Redux (or something similar). However, small, simple projects probably don't necessarily need Redux.
 
 # How to Use Redux
 Redux is comprised of three main parts: the store, actions, and reducers. Let's look at each piece one by one:
