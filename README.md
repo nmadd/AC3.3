@@ -142,7 +142,7 @@ Welcome to Access Code!
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-10-03 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfi0D1B9L3EjOdzgZP9gQXTCfdi6pkVna4xlCZTEqd2DD2olw/viewform)|| [Advanced Git](lessons/git/advancedGit.md) ||
-| 2016-10-04 |||| [BASH Projects]() ||
+| 2016-10-04 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf6TXFaaWIAXQFgjQ2X6PXJqo6wwZHNX_AjjLA2qlMLdwKZcg/viewform)|| [BASH Projects]() ||
 | 2016-10-05 |||| [Redux]() ||
 | 2016-10-06 |||| [React-Redux]() ||
 | 2016-10-07 |||| []() |||
