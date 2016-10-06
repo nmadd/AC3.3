@@ -147,4 +147,4 @@ Welcome to Access Code!
 | 2016-10-06 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdmvRfF4VccpTuoGtBtzTfxslMiTA2WRxFUxkomYyHTC2qRGw/viewform)|| [React-Redux]() ||
 | 2016-10-07 |||| []() |||
 
-**Homework:** 
+**Homework:** [Redux Readings](pre-work/redux-readings.md)
