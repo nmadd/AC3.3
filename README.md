@@ -2,6 +2,24 @@
 
 Welcome to Access Code!
 
+## Table of Contents
+1. [Unit 1](#unit-1)
+  - [Week 1](#week-1)
+  - [Week 2](#week-2)
+  - [Week 3](#week-3)
+  - [Week 4](#week-4)
+2. [Unit 2](#unit-2)
+  - [Week 5](#week-5)
+  - [Week 6](#week-6)
+  - [Week 7](#week-7)
+  - [Week 8](#week-8)
+3. [Unit 3](#unit-3)
+  - [Week 9](#week-9)
+  - [Week 10](#week-10)
+  - [Week 11](#week-11)
+  - [Week 12](#week-12)
+  - [Week 13](#week-13)
+
 # Unit 1
 
 ### Week 1
@@ -122,7 +140,7 @@ Welcome to Access Code!
 | 2016-09-22 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeYRJfpQJxSPt4pZkTLik-iIUc0FfjsK6jS4JVhLDsozpNBUg/viewform)|[Link](challenges/challenges-12.md)| [ES6](lessons/es6/variables-and-arrow-functions.md) + [More React](lessons/react/review/review-1.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeyrfWD6ykOx1HozVxspUfKoHYGqAYsYqah0aB_VwNcQwW58w/viewform)|
 | 2016-09-23 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSd5MyckMuyRjaQmaWAVXWFB0qA7sp68aLL12Rs6lsCA4uGVGQ/viewform)|| [Quiz]() |&nbsp;||
 
-**Homework: [POKEDEX](https://github.com/ckuang/pokedex) **
+**Homework:** [POKEDEX](https://github.com/ckuang/pokedex)
 
 ### Week 11
 
@@ -148,3 +166,15 @@ Welcome to Access Code!
 | 2016-10-07 |||| []() |||
 
 **Homework:** [Redux Readings](pre-work/redux-readings.md)
+
+### Week 13
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-10-10 |||| No class ||
+| 2016-10-11 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf6TXFaaWIAXQFgjQ2X6PXJqo6wwZHNX_AjjLA2qlMLdwKZcg/viewform)|| [Redux Part 1: Intro to Redux](lessons/react/redux/redux-part-one.md) ||
+| 2016-10-12 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdvVPkxsNg4N_amIYlIDw5bzbTKp2nc8D6aUtwa0owaZ6FDrQ/viewform)|| [Redux Part 2: Connecting React and Redux]() ||
+| 2016-10-13 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdmvRfF4VccpTuoGtBtzTfxslMiTA2WRxFUxkomYyHTC2qRGw/viewform)|| [Redux and Review]() ||
+| 2016-10-14 |||| [Assessment]() |||
+
+**Homework:**
