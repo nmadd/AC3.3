@@ -174,7 +174,7 @@ Welcome to Access Code!
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-10-10 |||| No class ||
-| 2016-10-11 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf6TXFaaWIAXQFgjQ2X6PXJqo6wwZHNX_AjjLA2qlMLdwKZcg/viewform)|| [Redux Part 1: Intro to Redux](lessons/react/redux/redux-part-one.md) ||
+| 2016-10-11 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe8LQb_GpAaPR1XnXvlJVoaeQBSB6s0aUe_R_N8tTiJyKyZ-g/viewform)|| [Redux Part 1: Intro to Redux](lessons/react/redux/redux-part-one.md) ||
 | 2016-10-12 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdvVPkxsNg4N_amIYlIDw5bzbTKp2nc8D6aUtwa0owaZ6FDrQ/viewform)|| [Redux Part 2: Connecting React and Redux]() ||
 | 2016-10-13 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdmvRfF4VccpTuoGtBtzTfxslMiTA2WRxFUxkomYyHTC2qRGw/viewform)|| [Redux and Review]() ||
 | 2016-10-14 |||| [Assessment]() |||
