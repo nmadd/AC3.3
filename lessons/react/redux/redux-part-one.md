@@ -305,3 +305,6 @@ store.subscribe(render);
 - [Redux.js.org Glossary](http://redux.js.org/docs/Glossary.html)
 - [A Cartoon Intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.r7worz8yq)
 - [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.5f6z0zolb)
+
+# Projects
+- [Redux Emoji Counter](redux-emoji-counter.md)
