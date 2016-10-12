@@ -176,7 +176,7 @@ Welcome to Access Code!
 | 2016-10-10 |||| No class ||
 | 2016-10-11 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe8LQb_GpAaPR1XnXvlJVoaeQBSB6s0aUe_R_N8tTiJyKyZ-g/viewform)|| [Redux Part 1: Intro to Redux](lessons/react/redux/redux-part-one.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSecSjvkheBe1p4Y_5Nr3pKHxirA0VjWkuZRRYKtT4skwiuOfg/viewform)|
 | 2016-10-12 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScMvMA3C1BxC9P71aF4P3PqIhYqZLw-O6h2c7riCSv3z_DB-Q/viewform)|| [Redux Part 2: Connecting React and Redux](lessons/react/redux/react-redux.md) ||
-| 2016-10-13 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSckOENl7oc4wP8fBtPG_6dbVW-90i2zrNDsZMvqvJn321qzDQ/viewform)|| [Redux and Review]() ||
+| 2016-10-13 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSckOENl7oc4wP8fBtPG_6dbVW-90i2zrNDsZMvqvJn321qzDQ/viewform)|| [Redux and Review]() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf1pJXJq2dGsXUUux0xnSWiDtnquxCILY69r2DJHlfdYd6Xwg/viewform)|
 | 2016-10-14 |||| [Assessment]() |||
 
 **Homework:**
