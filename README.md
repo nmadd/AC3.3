@@ -19,6 +19,8 @@ Welcome to Access Code!
   - [Week 11: React Router](#week-11)
   - [Week 12: BASH Projects](#week-12)
   - [Week 13: Redux](#week-13)
+3. [Unit 4](#unit-4)
+  - [Week 15: Intro to Computer Science](#week-15)
 
 # Unit 1
 
@@ -174,9 +176,25 @@ Welcome to Access Code!
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-10-10 |||| No class ||
-| 2016-10-11 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe8LQb_GpAaPR1XnXvlJVoaeQBSB6s0aUe_R_N8tTiJyKyZ-g/viewform)|| [Redux Part 1: Intro to Redux](lessons/react/redux/redux-part-one.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSecSjvkheBe1p4Y_5Nr3pKHxirA0VjWkuZRRYKtT4skwiuOfg/viewform)|
+| 2016-10-11 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe8LQb_GpAaPR1XnXvlJVoaeQBSB6s0aUe_R_N8tTiJyKyZ-g/viewform)|| [Redux Part 1: Intro to Redux](lessons/react/redux/redux-part-one.md||
 | 2016-10-12 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScMvMA3C1BxC9P71aF4P3PqIhYqZLw-O6h2c7riCSv3z_DB-Q/viewform)|| [Redux Part 2: Connecting React and Redux](lessons/react/redux/react-redux.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf1pJXJq2dGsXUUux0xnSWiDtnquxCILY69r2DJHlfdYd6Xwg/viewform)|
 | 2016-10-13 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSckOENl7oc4wP8fBtPG_6dbVW-90i2zrNDsZMvqvJn321qzDQ/viewform)|| [Redux and Review]() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeOn9uxeGHu4Nh61EfaAdq9eFGRfZm-O9HL0PZsm-1iniszqQ/viewform)|
 | 2016-10-14 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe2lRRA0_BjNrBafUChcbAXLDe2RGQC1E-RZBRsc7HHtMFDLA/viewform)|| [Assessment]() |||
+
+**Homework:**
+
+### Week 14
+
+Hackathon
+
+### Week 15
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-10-23 ||||[Intro to Big O & Data Structures and Algorithms](agendas/10-24-2016-agenda.md) ||
+| 2016-10-24 ||[Link]()||||
+| 2016-10-25 ||[Link]()||||
+| 2016-10-26 ||[Link]()||||
+| 2016-10-27 ||[Link]()|||||
 
 **Homework:**
