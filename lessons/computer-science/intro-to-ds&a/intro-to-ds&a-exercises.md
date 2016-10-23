@@ -1,4 +1,4 @@
-For each of these questions, solve it and then ask yourself 'what is the Big O runtime?'. Add your answer in a comment on the page. Then ask your self: 'is there a way this can be solved more efficiently?'
+For each of these questions, solve it and then ask yourself 'what is the Big O runtime?'. Then ask your self: 'is there a way this can be solved more efficiently?'
 
 ### Third Largest In Array
 Write a function called `thirdLargest` that takes in an array of numbers as an argument and returns the third largest number.
