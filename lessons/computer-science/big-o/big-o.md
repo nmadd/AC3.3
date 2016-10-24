@@ -180,6 +180,10 @@ Let's put all the charts together:
 | 50 | 10 ms | 500 ms | 25000 ms = 25 s |
 | 1000 | 10 ms | 10,000 ms = 10 s | 10,000,000 ms = 2.78 hours |
 
+**Chart of Big O runtimes**
+
+![runtimes](http://apprize.info/science/algorithms/algorithms.files/image060.jpg)
+
 
 ##Other Runtimes
 **Note**: log(n) means log<sub>2</sub>(n)
