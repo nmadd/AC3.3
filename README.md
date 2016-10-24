@@ -191,7 +191,7 @@ Hackathon
 
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-10-23 ||||[Intro to Big O & Data Structures and Algorithms](agendas/10-24-2016-agenda.md) ||
+| 2016-10-23 ||||[Intro to Big O & Data Structures and Algorithms](agendas/10-24-2016-agenda.md) |[Midday](https://docs.google.com/a/c4q.nyc/forms/d/e/1FAIpQLSf2iRAt9U73doZGqW8UFyfmVRxNt1Cnj8iQIWKpXCSiCKTvuQ/viewform)|
 | 2016-10-24 ||[Link]()||||
 | 2016-10-25 ||[Link]()||||
 | 2016-10-26 ||[Link]()||||
