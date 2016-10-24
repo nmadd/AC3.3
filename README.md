@@ -191,10 +191,10 @@ Hackathon
 
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-10-23 ||||[Intro to Big O & Data Structures and Algorithms](agendas/10-24-2016-agenda.md) |[Midday](https://docs.google.com/a/c4q.nyc/forms/d/e/1FAIpQLSf2iRAt9U73doZGqW8UFyfmVRxNt1Cnj8iQIWKpXCSiCKTvuQ/viewform)|
-| 2016-10-24 ||[Link]()||||
-| 2016-10-25 ||[Link]()||||
-| 2016-10-26 ||[Link]()||||
-| 2016-10-27 ||[Link]()|||||
+| 2016-10-24 ||||[Intro to Big O & Data Structures and Algorithms](agendas/10-24-2016-agenda.md) |[Midday](https://docs.google.com/a/c4q.nyc/forms/d/e/1FAIpQLSf2iRAt9U73doZGqW8UFyfmVRxNt1Cnj8iQIWKpXCSiCKTvuQ/viewform)|
+| 2016-10-25 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdQKAR_RH3umrjcOVfQMQlfi8Dc2nhD8jejhfQXvv9qXmRZZg/viewform)||||
+| 2016-10-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSci9lVPsFFlZgFxei3FYRynbLw1BvywLuSvXhfBQl7EToMdBA/viewform)||||
+| 2016-10-27 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeZkwE2B_6nw_y_mXBVYIVLGfbQwhE-om-EI87Jcn8nLP7PwQ/viewform)||||
+| 2016-10-28 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeC2Y4oqTRYfSI4_5twqypPXgZ9nWnPvZEsE3jXebKMS6g3EQ/viewform)|||||
 
 **Homework:**
