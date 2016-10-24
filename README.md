@@ -192,9 +192,9 @@ Hackathon
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-10-24 ||||[Intro to Big O & Data Structures and Algorithms](agendas/10-24-2016-agenda.md) |[Midday](https://docs.google.com/a/c4q.nyc/forms/d/e/1FAIpQLSf2iRAt9U73doZGqW8UFyfmVRxNt1Cnj8iQIWKpXCSiCKTvuQ/viewform)|
-| 2016-10-25 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdQKAR_RH3umrjcOVfQMQlfi8Dc2nhD8jejhfQXvv9qXmRZZg/viewform)||||
-| 2016-10-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSci9lVPsFFlZgFxei3FYRynbLw1BvywLuSvXhfBQl7EToMdBA/viewform)||||
-| 2016-10-27 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeZkwE2B_6nw_y_mXBVYIVLGfbQwhE-om-EI87Jcn8nLP7PwQ/viewform)||||
-| 2016-10-28 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeC2Y4oqTRYfSI4_5twqypPXgZ9nWnPvZEsE3jXebKMS6g3EQ/viewform)|||||
+| 2016-10-25 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdQKAR_RH3umrjcOVfQMQlfi8Dc2nhD8jejhfQXvv9qXmRZZg/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdGtoOEA55V5IeC-jvxQXlv3ueOT7LdrZjPI3pXwSJivzzQgw/viewform)|
+| 2016-10-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSci9lVPsFFlZgFxei3FYRynbLw1BvywLuSvXhfBQl7EToMdBA/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLScAG1s3Lh8vIU1i_xo50BXZOsmmT66c3MsVmil0U5L9We_UUg/viewform)|
+| 2016-10-27 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeZkwE2B_6nw_y_mXBVYIVLGfbQwhE-om-EI87Jcn8nLP7PwQ/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdheVcaCQULyzyfBlYNXgHaYgEXJJxYeUg26cC1j7TZigKtfQ/viewform)|
+| 2016-10-28 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeC2Y4oqTRYfSI4_5twqypPXgZ9nWnPvZEsE3jXebKMS6g3EQ/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdMS9VI1qmEm25D5yi3e1pZdylK4ECYmvn9igJBRW2tLFMKMw/viewform)||
 
 **Homework:**
