@@ -189,21 +189,25 @@ So before you make any new function calls, you look up if you've already called 
 Let's look at an example:
 
 ```js
-function fibRecursive(n) {
+var fibRecursive = (function() {
   var saved = {};
-  var answer;
-  if(saved[n]) {
-    answer = saved[n]
+  function f(n){
+    var answer;
+    if(saved[n]) {
+      answer = saved[n]
+    }
+    else if (n <= 1) {
+      answer = n;
+    } else {  
+      answer = fibRecursive(n - 2) + fibRecursive(n - 1);
+      saved[n] = answer;
+    }
+    return answer;
   }
-  else if (n <= 1) {
-    answer = n;
-  } else {  
-    answer = fibRecursive(n - 2) + fibRecursive(n - 1);
-    saved[n] = answer;
-  }
-  return answer;
-}
+  return f;
+})()
 ```
+Without memoization, in order to calculate the 50th fibonacci number this function would be recursively called over 40 billion times. With memoization it only need to be called 99 times.
 
 # Resources
 - [Recursion, Recursion, Recursion](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.kcw8k9ec6)
