@@ -17,6 +17,7 @@ concatArr(['is', 'it', 'tomorrow']); // returns 'is it tomorrow'
 concatArr(['or', 'just', 'the', 'end', 'of', 'time']); //returns 'or just the end of time'
 ```
 
+
 - ### Sum evens
 
 Write a function called `sumEvens` that takes in an array of numbers as an argument and recursively sums only the even numbers in the array.
@@ -24,6 +25,15 @@ Write a function called `sumEvens` that takes in an array of numbers as an argum
 ```js
 sumEvens([2, 3, 5, 6]); // returns 8
 sumEvens([10, 5, 1, 2, 12]); //returns 24
+```
+
+- ### Square and multiply
+
+Write a function called `squareAndMultiply` that takes in an array of numbers, squares each number, multiplies all of the squared numbers together, and returns the product:
+
+```js
+squareAndMult([1, 2, 3]); // returns 36
+squareAndMult([5, 10]); //returns 2500
 ```
 
 - ### Recursive range
@@ -34,6 +44,24 @@ Write a function called `range` which takes in two numbers (num1, num2) as argum
 range(2,10); // returns [2, 3, 4, 5, 6,7, 8, 9, 10]
 range(17,20); // returns [17, 18, 19, 20]
 ```
+- ### Count the vowels
+
+Write a function called `countVowels` that takes in a string and returns an object with the count of the number of vowels in the string:
+
+```js
+countVowels('this is a test'); // returns {'a': 1, 'e': 1, 'i': 2, 'o': 0, 'u': 0}
+countVowels('another one'); //returns {'a': 1, 'e': 2, 'i': 0, 'o': 2, 'u': 0}
+```
+
+- ### Add and multiply
+
+Write a function called `addAndMult` that takes in an array of nubers and returns an object with two properies: 'sum', which has the sum of the array, and 'product', which has the product of the array:
+
+```js
+addAndMult([1, 2, 3, 4, 5]); // returns {'sum': 15, 'product': 120}
+addAndMult([10, 10, 10]); // returns {'sum': 30, 'product': 1000}
+```
+
 
 - ### Factorial
 
@@ -83,6 +111,3 @@ coinCombos(60); //returns 73
 ```
 
 Source: CTCI
-
-# Resources
-- [JavaScript Recursion Exercises](http://www.w3resource.com/javascript-exercises/javascript-recursion-functions-exercises.php)

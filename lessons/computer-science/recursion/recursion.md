@@ -11,7 +11,13 @@
 4. [Calculating Big O of Recursive Functions](#calculating-big-o-of-recursive-functions)
 5. [Resources](#resources)
 
-### *"In order to understand recursion, you must first understand recursion"* - Marty McFly
+<details open>
+<summary>Recursion</summary>
+
+<img src="https://media.giphy.com/media/xT5LMqeGKphtXz80Uw/giphy.gif" width='500' />
+</details>
+
+### *"In order to understand recursion, you must first understand recursion"* - Xzibit
 
 # What is Recursion?
 In computer science, recursion basically means a function that calls itself. Recursion can be a little mind bending at first but is actually relatively simple: it's basically just another way to create loops.
@@ -168,8 +174,36 @@ Source: [Writing a Fibonacci implementation in JavaScript](https://www.gregjs.co
 
 As you can see, the recursive solution is significantly simpler.
 
-# Calculating Big O of Recursive Functions
+# Improving recursive functions
+
+## Calculating Big O of Recursive Functions
 In iterative loops, we count the number of loops in order to figure out the Big O complexity. Similarly, with recursion, we count the number of times the function is being called.
+
+## Memoization
+A common method for improving the efficiency of recursive functions is something called 'memoization'. Memoization is very similar to the key-value mapping you can use to increase the efficiency of algorithms from O(n^2) to O(n).
+
+The basic idea of memoization is that every time you make a new function call, you save the result of that call (you usually save it in an object). Storing the result of function calls can help save you from having to make duplicate function calls, because you can just looked up the saved result instead of calling it again.
+
+So before you make any new function calls, you look up if you've already called the function with that specific set of arguments. If you have, you return the saved result. If you haven't, you call the function, and save the result for potential later use.
+
+Let's look at an example:
+
+```js
+function fibRecursive(n) {
+  var saved = {};
+  var answer;
+  if(saved[n]) {
+    answer = saved[n]
+  }
+  else if (n <= 1) {
+    answer = n;
+  } else {  
+    answer = fibRecursive(n - 2) + fibRecursive(n - 1);
+    saved[n] = answer;
+  }
+  return answer;
+}
+```
 
 # Resources
 - [Recursion, Recursion, Recursion](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.kcw8k9ec6)
