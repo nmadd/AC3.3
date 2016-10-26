@@ -186,23 +186,37 @@ The basic idea of memoization is that every time you make a new function call, y
 
 So before you make any new function calls, you look up if you've already called the function with that specific set of arguments. If you have, you return the saved result. If you haven't, you call the function, and save the result for potential later use.
 
-Let's look at an example:
+Let's look at some examples:
+
+Here's a simple way to do memoization using a global variable called `saved`:
+```js
+var saved = {};
+function fib(n) {
+  //base case
+	if(n === 1 || n === 0) {
+  		saved[n] = 1;
+  //have we already saved this function call?
+	} else if(!saved[n]) {
+      //if we haven't already saved it, we save it here
+    	saved[n] = fib(n - 1) + fib(n - 2)  	
+  }
+  //return our saved result
+  return saved[n];
+}
+```
+
+And here's an even more optimal way, because we use an immediately invoked function to avoid creating global variables:
 
 ```js
 var fibRecursive = (function() {
   var saved = {};
   function f(n){
-    var answer;
-    if(saved[n]) {
-      answer = saved[n]
+  	if(n === 1 || n === 0) {
+  		saved[n] = 1;
+  	} else if(!saved[n]){
+      saved[n] = fibRecursive(n - 2) + fibRecursive(n - 1);
     }
-    else if (n <= 1) {
-      answer = n;
-    } else {  
-      answer = fibRecursive(n - 2) + fibRecursive(n - 1);
-      saved[n] = answer;
-    }
-    return answer;
+    return saved[n];
   }
   return f;
 })()
