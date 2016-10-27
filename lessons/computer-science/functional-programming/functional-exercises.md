@@ -1,6 +1,7 @@
 Solve all of these problems without using a `for` loop or `while` loops in any of your solutions. You should also avoid creating any unnecessary side effects:
 
-1. write a function (or series of functions) that takes in an array that contains numbers, and returns the sum of all the even numbers
+### 1
+write a function (or series of functions) that takes in an array that contains numbers, and returns the sum of all the even numbers
 
 Examples:
 
@@ -12,7 +13,8 @@ Input: [9, 11, 13, 15, 17, 2, 4]
 Output: 6
 ```
 
-2. write a function (or series of functions) that takes in an array that contains strings, and returns an array with the number of letters in each string
+### 2
+write a function (or series of functions) that takes in an array that contains strings, and returns an array with the number of letters in each string
 
 Examples:
 
@@ -24,7 +26,8 @@ Input: ['this', 'is', 'a', 'longer', 'array']
 Output: [4, 2, 1, 6, 5]
 ```
 
-3. write a function (or series of functions) that takes in an array that can contain both words and numbers, and returns the sum of all the even numbers
+### 3
+write a function (or series of functions) that takes in an array that can contain both words and numbers, and returns the sum of all the even numbers
 
 Examples:
 
