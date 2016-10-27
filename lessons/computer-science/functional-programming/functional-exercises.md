@@ -24,7 +24,6 @@ Input: ['this', 'is', 'a', 'longer', 'array']
 Output: [4, 2, 1, 6, 5]
 ```
 
-
 - write a function (or series of functions) that takes in an array that can contain both words and numbers, and returns the sum of all the even numbers
 
 Examples:
@@ -61,6 +60,18 @@ Input: ['this', 'is', 'a', 'longer', 'array']
 Output: {'a': 3, 'e': 1, 'i': 2, 'o': 1, 'u': 0}
 ```
 
+- write a function (or series of functions) that takes in an array of numbers, and returns an object with a count of the number of even numbers and number of odd numbers in the array
+
+Examples:
+
+```
+Input: [1, 2, 3, 4, 5]
+Output: {'evens': 2, 'odds': 3}
+
+Input: [10, 10, 10, 5, 5, 5, 5]
+Output: {'evens': 3, 'odds': 4}
+```
+
 - write a function (or series of functions) that takes in an array of numbers, and returns an array of only the unique numbers
 
 Examples:
@@ -93,6 +104,15 @@ Output: ['9', '25']
 
 Input: [10 ,11]
 Output: ['121']
+```
+
+- write a function (or series of functions) that takes in an array of strings, reverses every string, removes all strings with the letter 'l' in them, capitalizes the first letter of strings with an even amount of letters, and capitalizes the last letter of strings with an odd amount of letters.
+
+Examples:
+
+```
+Input: ['bird', 'cat', 'snake', 'cat', 'dog', 'frog', 'llama']
+Output: ['Drib', 'taC', 'ekanS', 'taC', 'goD', 'Gorf']
 ```
 
 - write a function (or series of functions) that takes in an array of strings, removes duplicate strings, removes all of the strings with an even number of letters, and multiplies the remaining letter counts together to return a product.
