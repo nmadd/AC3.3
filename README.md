@@ -197,4 +197,11 @@ Hackathon
 | 2016-10-27 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeZkwE2B_6nw_y_mXBVYIVLGfbQwhE-om-EI87Jcn8nLP7PwQ/viewform)||[Functional Programming](agendas/10-27-2016-agenda.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdheVcaCQULyzyfBlYNXgHaYgEXJJxYeUg26cC1j7TZigKtfQ/viewform)|
 | 2016-10-28 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeC2Y4oqTRYfSI4_5twqypPXgZ9nWnPvZEsE3jXebKMS6g3EQ/viewform)|||||
 
-**Homework:**
+### Week 16
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-10-31 ||||[Introduction to Databases and SQL](lessons/databases/intro_databases.md)||
+| 2016-11-01 ||||[MongoDB: Models and Schema]||
+| 2016-11-02 ||||[Express Router and Routing]||
+| 2016-11-03 ||||[Project]||
+| 2016-11-04 ||||[Project]||
