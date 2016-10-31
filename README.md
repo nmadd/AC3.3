@@ -200,7 +200,7 @@ Hackathon
 ### Week 16
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-10-31 ||||[Introduction to Databases and SQL](lessons/databases/intro_databases.md)||
+| 2016-10-31 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfNg4reQUvHJx6a7fJ0cU0-Ly6JWADfJ-oBLfQEZezxekHemg/viewform)||[Introduction to Databases and SQL](lessons/databases/intro_databases.md)||
 | 2016-11-01 ||||[MongoDB: Models and Schema]()||
 | 2016-11-02 ||||[Express Router and Routing]()||
 | 2016-11-03 ||||[Project]()||
