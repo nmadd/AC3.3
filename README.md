@@ -202,6 +202,6 @@ Hackathon
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-10-31 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfNg4reQUvHJx6a7fJ0cU0-Ly6JWADfJ-oBLfQEZezxekHemg/viewform)||[Introduction to Databases and SQL](lessons/databases/intro_databases.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdMS9VI1qmEm25D5yi3e1pZdylK4ECYmvn9igJBRW2tLFMKMw/viewform)|
 | 2016-11-01 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeqeLK8QF_FLImW3AAvIrg0Iob4bCSag-2FYfZI76wGJ45Vpg/viewform)||[MongoDB: Models and Schema]()|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSefeY5OmdhGJXfw3pCg0EEb31IbYymoAQuCJeHfLbOdwBfX3A/viewform)|
-| 2016-11-02 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdd3BIuhHZlq_KtHX-JwCYKGdWMuL90ta_lroOM9KuWjC6Elw/viewform)||[Express Router and Routing]()||
+| 2016-11-02 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdd3BIuhHZlq_KtHX-JwCYKGdWMuL90ta_lroOM9KuWjC6Elw/viewform)||[Express Router and Routing]()|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdJo4Xh45eZpEj2pG3S23UwAKmVgIJ8_HEYXpKdXECkTmnzkQ/viewform)|
 | 2016-11-03 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc9SEbleVX9_5D-0iyuTAZHFnxFSMWDPLeXIasXxMeCGL1Y6A/viewform)||[Project]()|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeoMTtUCvwyBYMpZM69yzL_1yQXLzTEXdotoQmDFizfK76xDA/viewform)|
 | 2016-11-04 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdqLE5LssxIdQdZVzyr2FRgPRmZZnl7_i0DsCIoc_SM16ZvvA/viewform)||[Project]()|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScnaoRj-IZmA0phm3gCvBb9vrYMFkPvZt818sUwL_7lr5V8Dw/viewform)|
