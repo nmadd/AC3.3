@@ -201,7 +201,7 @@ Hackathon
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-10-31 ||||[Introduction to Databases and SQL](lessons/databases/intro_databases.md)||
-| 2016-11-01 ||||[MongoDB: Models and Schema]||
-| 2016-11-02 ||||[Express Router and Routing]||
-| 2016-11-03 ||||[Project]||
-| 2016-11-04 ||||[Project]||
+| 2016-11-01 ||||[MongoDB: Models and Schema]()||
+| 2016-11-02 ||||[Express Router and Routing]()||
+| 2016-11-03 ||||[Project]()||
+| 2016-11-04 ||||[Project]()||
