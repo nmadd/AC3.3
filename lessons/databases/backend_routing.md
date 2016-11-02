@@ -26,12 +26,12 @@
 ## HTTP Verbs
 [Undestanding HTTP](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 | Route |	HTTP Verb	| Description |
-:---:|:---:|:---:
-| /api/dogs  |	GET	  | Fetch information on all the dogs.
-| /api/dogs	| POST	| Create a single dog.
-| /api/dogs/:dog_id	| GET	| Fetch a single dog.
-| /api/dogs/:dog_id	| PUT	| Update a dog with new info.
-| /api/dogs/:dog_id	| DELETE| 	Delete a dog.
+---|---|---
+ /api/dogs  |	GET	  | Fetch information on all the dogs.
+ /api/dogs	| POST	| Create a single dog.
+ /api/dogs/:dog_id	| GET	| Fetch a single dog.
+ /api/dogs/:dog_id	| PUT	| Update a dog with new info.
+ /api/dogs/:dog_id	| DELETE| 	Delete a dog.
 
 ## Instructions
 
