@@ -74,7 +74,7 @@ The row in the table above would get converted to an object depicted below.
 * DATETIME
 * DATE
 * TIME
-* VARCHAR
+* VARCHAR(140)
 * TIMESTAMP
 
 # SQL Commands
@@ -86,8 +86,13 @@ The row in the table above would get converted to an object depicted below.
 * LIMIT
 * SUM / AVG  
 
-* EXERCISES
+# EXERCISES
 * [Learning SQL Textbook](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf)
 * [SQLZoo](http://sqlzoo.net/)
 * [SQLBolt](https://sqlbolt.com/)
 * [SQL Teaching](https://www.sqlteaching.com/)
+
+# MariaDB and MySQL
+* [Setup](https://mariadb.com/blog/installing-mariadb-10010-mac-os-x-homebrew)
+* [execute SQL script](http://stackoverflow.com/questions/4003034/execute-sql-script-to-create-tables-and-rows)
+* [world.sql](http://stackoverflow.com/questions/719259/sample-database-for-exercise)
