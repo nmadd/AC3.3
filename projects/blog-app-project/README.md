@@ -50,10 +50,15 @@ For example, you should have a list of all your posts:
 <img src="http://i.imgur.com/Ckhx8kn.png" width=350 />
 
 
-
+<br />
+<br />
+<br />
 
 **And when you click on a post, you should go to a page that just has that specific post:**
 
+<br />
+<br />
+<br />
 
 
 
