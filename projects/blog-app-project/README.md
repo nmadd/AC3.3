@@ -49,7 +49,13 @@ For example, you should have a list of all your posts:
 
 <img src="http://i.imgur.com/Ckhx8kn.png" width=350 />
 
-And when you click on a post, you should go to a page that just has that specific post:
+
+
+
+**And when you click on a post, you should go to a page that just has that specific post:**
+
+
+
 
 <img src="http://i.imgur.com/EEe0TIB.png" width=350 />
 
