@@ -117,7 +117,7 @@ Stack.isEmpty() // returns true
 ## Exercises
 * Create a object to implement a stack.
 * Create a object to implement a queue.
-* Design a stack that also has a method that returns the smallest element in the stack.
+* Design a stack that also has a method that returns the smallest element in the stack. **challenge - retrieve the smallest element in constant time O(1)** (hint: you'll need a second stack...)
 * Design a queue that uses two stacks.
 * Design a stack that uses two queues.
 

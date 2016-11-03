@@ -176,7 +176,7 @@ Welcome to Access Code!
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-10-10 |||| No class ||
-| 2016-10-11 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe8LQb_GpAaPR1XnXvlJVoaeQBSB6s0aUe_R_N8tTiJyKyZ-g/viewform)|| [Redux Part 1: Intro to Redux](lessons/react/redux/redux-part-one.md||
+| 2016-10-11 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe8LQb_GpAaPR1XnXvlJVoaeQBSB6s0aUe_R_N8tTiJyKyZ-g/viewform)|| [Redux Part 1: Intro to Redux](lessons/react/redux/redux-part-one.md)||
 | 2016-10-12 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLScMvMA3C1BxC9P71aF4P3PqIhYqZLw-O6h2c7riCSv3z_DB-Q/viewform)|| [Redux Part 2: Connecting React and Redux](lessons/react/redux/react-redux.md) |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf1pJXJq2dGsXUUux0xnSWiDtnquxCILY69r2DJHlfdYd6Xwg/viewform)|
 | 2016-10-13 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSckOENl7oc4wP8fBtPG_6dbVW-90i2zrNDsZMvqvJn321qzDQ/viewform)|| [Redux and Review]() |[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeOn9uxeGHu4Nh61EfaAdq9eFGRfZm-O9HL0PZsm-1iniszqQ/viewform)|
 | 2016-10-14 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe2lRRA0_BjNrBafUChcbAXLDe2RGQC1E-RZBRsc7HHtMFDLA/viewform)|| [Assessment]() |||
@@ -195,6 +195,13 @@ Hackathon
 | 2016-10-25 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdQKAR_RH3umrjcOVfQMQlfi8Dc2nhD8jejhfQXvv9qXmRZZg/viewform)||[Stacks and Queues](lessons/computer-science/stacks_queues/stack_queues.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdGtoOEA55V5IeC-jvxQXlv3ueOT7LdrZjPI3pXwSJivzzQgw/viewform)|
 | 2016-10-26 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSci9lVPsFFlZgFxei3FYRynbLw1BvywLuSvXhfBQl7EToMdBA/viewform)||[Recursion](agendas/10-26-2016-agenda.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScAG1s3Lh8vIU1i_xo50BXZOsmmT66c3MsVmil0U5L9We_UUg/viewform)|
 | 2016-10-27 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeZkwE2B_6nw_y_mXBVYIVLGfbQwhE-om-EI87Jcn8nLP7PwQ/viewform)||[Functional Programming](agendas/10-27-2016-agenda.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdheVcaCQULyzyfBlYNXgHaYgEXJJxYeUg26cC1j7TZigKtfQ/viewform)|
-| 2016-10-28 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeC2Y4oqTRYfSI4_5twqypPXgZ9nWnPvZEsE3jXebKMS6g3EQ/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdMS9VI1qmEm25D5yi3e1pZdylK4ECYmvn9igJBRW2tLFMKMw/viewform)||
+| 2016-10-28 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeC2Y4oqTRYfSI4_5twqypPXgZ9nWnPvZEsE3jXebKMS6g3EQ/viewform)|||||
 
-**Homework:**
+### Week 16
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-10-31 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfNg4reQUvHJx6a7fJ0cU0-Ly6JWADfJ-oBLfQEZezxekHemg/viewform)||[Introduction to Databases and SQL](lessons/databases/intro_databases.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdMS9VI1qmEm25D5yi3e1pZdylK4ECYmvn9igJBRW2tLFMKMw/viewform)|
+| 2016-11-01 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeqeLK8QF_FLImW3AAvIrg0Iob4bCSag-2FYfZI76wGJ45Vpg/viewform)||[MongoDB: Models and Schema]()|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSefeY5OmdhGJXfw3pCg0EEb31IbYymoAQuCJeHfLbOdwBfX3A/viewform)|
+| 2016-11-02 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdd3BIuhHZlq_KtHX-JwCYKGdWMuL90ta_lroOM9KuWjC6Elw/viewform)||[Express Router and Routing](lessons/databases/backend_routing.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdJo4Xh45eZpEj2pG3S23UwAKmVgIJ8_HEYXpKdXECkTmnzkQ/viewform)|
+| 2016-11-03 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc9SEbleVX9_5D-0iyuTAZHFnxFSMWDPLeXIasXxMeCGL1Y6A/viewform)||[Project]()|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSeoMTtUCvwyBYMpZM69yzL_1yQXLzTEXdotoQmDFizfK76xDA/viewform)|
+| 2016-11-04 ||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdqLE5LssxIdQdZVzyr2FRgPRmZZnl7_i0DsCIoc_SM16ZvvA/viewform)||[Project]()|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScnaoRj-IZmA0phm3gCvBb9vrYMFkPvZt818sUwL_7lr5V8Dw/viewform)|
