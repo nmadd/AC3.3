@@ -210,8 +210,8 @@ Hackathon
 
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-11-07||||||
-| 2016-11-08||||||
-| 2016-11-09||||||
-| 2016-11-10||||||
+| 2016-11-07||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeKf7nJz3WjUOYU7OQVjZnfAyxlQmq9VWIPFvRb3dNv7UhZgg/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSe-D-6v_poYOwsUQRCYfDfCMqfrz8-H7Dy_T2jbB4QNV_1zrg/viewform)|
+| 2016-11-08||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc6fLZdnxwlPigXNxFNPe1yobdJ7bGfy7EBTW8jkP_9osIIFw/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSfAGDu3EhkUG8p4mMktMQWEbJWLykjMoNLSCWHRYz_YbiGyAQ/viewform)|
+| 2016-11-09||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdP8WEYn5eKc2HusPAxA2_ViGRUoffz4sf5Iq1nxP8dUrT-sA/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdf2zdVv4u4fE-MMMbg57921fRn2jRCzduTQI31yl6QPezkRQ/viewform)|
+| 2016-11-10||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf0iSoO9kG9RLyiEDdJFaeecP8kyERnNLNIyZ0yhazFY7l83w/viewform)||||
 | 2016-11-11||||||
