@@ -7,7 +7,7 @@
 * Create a React component with a text input and submit input. When you submit, it should take the text and send it off in an AJAX request to your server to be saved in the database.
 * Have a React component that displays all posts
 * Practice debugging - what is debugging?
-* Challenge - add a delete button to posts. When you clikc it, the post should be removed from your page and deleted from your database.
+* Challenge - add a delete button to posts. When you click it, the post should be removed from your page and deleted from your database.
 * Challenge - add an 'archive' React components. It should have links to individual posts and when you click on a link, it should show that specific post.
 
 
