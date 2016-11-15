@@ -215,3 +215,25 @@ Hackathon
 | 2016-11-09||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdP8WEYn5eKc2HusPAxA2_ViGRUoffz4sf5Iq1nxP8dUrT-sA/viewform)|||[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdf2zdVv4u4fE-MMMbg57921fRn2jRCzduTQI31yl6QPezkRQ/viewform)|
 | 2016-11-10||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf0iSoO9kG9RLyiEDdJFaeecP8kyERnNLNIyZ0yhazFY7l83w/viewform)||||
 | 2016-11-11||||||
+
+
+### Week 18
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-11-14||[Link]|||[Midday]|
+| 2016-11-15||[Link]||Midterm|[Midday]|
+| 2016-11-16||[Link]||Blog Project Review|[Midday]|
+| 2016-11-17||[Link]||RESTful API|[Midday]|
+| 2016-11-18||[Link]||Advanced SQL|[Midday]|
+
+
+### Week 19
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-11-21||[Link]||Promises|[Midday]|
+| 2016-11-22||[Link]||Data Structures and Algorithms|[Midday]|
+| 2016-11-23||[Link]||Socket.io|[Midday]|
+| 2016-11-24||[Link]|||[Midday]|
+| 2016-11-25||[Link]|||[Midday]|
