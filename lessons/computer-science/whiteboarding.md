@@ -28,6 +28,10 @@ At some point in the interview process for a programming job, you'll be asked to
 
 ## Exercise 1
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23, because 3 + 5 + 6 + 9 = 23.
+```js 
+threeFive(10) // returns 23 
+```
 
 Find the sum of all the multiples of 3 or 5 below 100.
 **Challenge: Find the sum of all the multiples of 3 or 5 below 1000.**
+
