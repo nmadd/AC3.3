@@ -225,7 +225,7 @@ Hackathon
 | 2016-11-15||||Midterm||
 | 2016-11-16||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeC2mMMVDEUrpvrMCKabIVEJvENxTAFEW8RINS3OoxcbHhapg/viewform)||[Intro to Whiteboarding](lessons/computer-science/whiteboarding.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSf4zfZmdAOSG3XXa7QDKyvfEulyCK9dKEYkYnuwM0jxhUKIZQ/viewform)|
 | 2016-11-17||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe-A9XaOQrGXe0C8ueE-pI3GCiFVSwif1IW_6K5g5NEcEBrMQ/viewform)||[RESTful API](lessons/server/RESTfulAPIs.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSc-86_no07uS2wWhaNFenHs3QbpPmNKdpiZg8U8Qw7dY0KmTQ/viewform)|
-| 2016-11-18||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdGLM42Bv57T2rWEg2bYfIzKP9AoU_AFI9kGdFDVVnMiebsFQ/viewform)||Advanced SQL|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdpaSiFZYAX7diqfoU5I2n8NtxpStVNCTnrn5nckuIEt2cvqQ/viewform)|
+| 2016-11-18||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdGLM42Bv57T2rWEg2bYfIzKP9AoU_AFI9kGdFDVVnMiebsFQ/viewform)||[Advanced SQL](lessons/databases/advancedSQL.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLSdpaSiFZYAX7diqfoU5I2n8NtxpStVNCTnrn5nckuIEt2cvqQ/viewform)|
 
 
 ### Week 19
