@@ -235,5 +235,5 @@ Hackathon
 | 2016-11-21||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc_cEMOxufz_HODXVKuNZp7dQfjZI4okShoFntWp2W7Ki5kVA/viewform)||Promises|[Midday]|
 | 2016-11-22||[Link]||Data Structures and Algorithms|[Midday]|
 | 2016-11-23||[Link]||Socket.io|[Midday]|
-| 2016-11-24||[Link]|||[Midday]|
-| 2016-11-25||[Link]|||[Midday]|
+| 2016-11-24||[Link]||Holiday No Class|[Midday]|
+| 2016-11-25||[Link]||Holiday No Class|[Midday]|
