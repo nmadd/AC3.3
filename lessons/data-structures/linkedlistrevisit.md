@@ -216,3 +216,10 @@ g.next = c
 existLoop(a) // returns true
 ```
 ![loop linked list](http://umairsaeed.com/images/circular-loop-figure-1.jpg)
+
+
+### Whiteboarding 
+Write a function that receives an array of duplicate elements and a single unique element and returns the single unique element in O(n) time. 
+```js
+findUniq([1, 2, 3, 4, 1, 5, 2, 3, 4]) //returns 5
+```
