@@ -243,7 +243,7 @@ Hackathon
 
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
-| 2016-11-28||[Link](https://docs.google.com/forms/d/e/1FAIpQLScfwNI-7LoADuQ1bFXf0ztp9KiBb_BN49mSPlBaOyI0onLq1w/viewform)||[Sequelize Intro](lessons/databases/sequelize_intro.md)|[Midday]|
+| 2016-11-28||[Link](https://docs.google.com/forms/d/e/1FAIpQLScfwNI-7LoADuQ1bFXf0ztp9KiBb_BN49mSPlBaOyI0onLq1w/viewform)||[Sequelize Intro](lessons/databases/sequelize_intro.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScRcA-IdaEGOPpomiHYev3mV2Zw-GJeQv-MCvH5XiIrLfOHeA/viewform)|
 | 2016-11-29||[Link]()||[Sequelize]()|[Midday]()|
 | 2016-11-30||[Link])|||[Midday]|
 | 2016-12-01||[Link]()|||[Midday]|
