@@ -237,3 +237,14 @@ Hackathon
 | 2016-11-23||[Link](https://docs.google.com/forms/d/e/1FAIpQLScs-t4cDbVRc6WXb3y5bRCdZTk8Cwg1Neecf0AQmwMj1yhv2Q/viewform)||Socket.io|[Midday]|
 | 2016-11-24||[Link]||Holiday No Class|[Midday]|
 | 2016-11-25||[Link]||Holiday No Class|[Midday]|
+
+
+### Week 20
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-11-28||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc_cEMOxufz_HODXVKuNZp7dQfjZI4okShoFntWp2W7Ki5kVA/viewform)||[Sequelize Intro](lessons/databases/sequelize_intro.md)|[Midday]|
+| 2016-11-29||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdG1t5MsQYNT2NV3L19ADcmfMOeTevJisJb1m8eFxtRdTBSOw/viewform)||[Sequelize]()|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScRcA-IdaEGOPpomiHYev3mV2Zw-GJeQv-MCvH5XiIrLfOHeA/viewform)|
+| 2016-11-30||[Link](https://docs.google.com/forms/d/e/1FAIpQLScs-t4cDbVRc6WXb3y5bRCdZTk8Cwg1Neecf0AQmwMj1yhv2Q/viewform)|||[Midday]|
+| 2016-12-01||[Link]|||[Midday]|
+| 2016-12-02||[Link]|||[Midday]|
