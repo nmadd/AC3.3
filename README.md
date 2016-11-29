@@ -234,6 +234,17 @@ Hackathon
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-11-21||[Link](https://docs.google.com/forms/d/e/1FAIpQLSc_cEMOxufz_HODXVKuNZp7dQfjZI4okShoFntWp2W7Ki5kVA/viewform)||[Promises](lessons/promises/README.md)|[Midday]|
 | 2016-11-22||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdG1t5MsQYNT2NV3L19ADcmfMOeTevJisJb1m8eFxtRdTBSOw/viewform)||[Data Structures and Algorithms](lessons/data-structures/linkedlistrevisit.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScRcA-IdaEGOPpomiHYev3mV2Zw-GJeQv-MCvH5XiIrLfOHeA/viewform)|
-| 2016-11-23||[Link]||[Socket.io](http://socket.io/get-started/chat/)|[Midday]|
+| 2016-11-23||[Link](https://docs.google.com/forms/d/e/1FAIpQLScs-t4cDbVRc6WXb3y5bRCdZTk8Cwg1Neecf0AQmwMj1yhv2Q/viewform)||[Socket.io](http://socket.io/get-started/chat/)|[Midday]|
 | 2016-11-24||[Link]||Holiday No Class|[Midday]|
 | 2016-11-25||[Link]||Holiday No Class|[Midday]|
+
+
+### Week 20
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-11-28||[Link](https://docs.google.com/forms/d/e/1FAIpQLScfwNI-7LoADuQ1bFXf0ztp9KiBb_BN49mSPlBaOyI0onLq1w/viewform)||[Sequelize Intro](lessons/databases/sequelize_intro.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScRcA-IdaEGOPpomiHYev3mV2Zw-GJeQv-MCvH5XiIrLfOHeA/viewform)|
+| 2016-11-29||[Link]()||[Sequelize Music API](https://github.com/C4Q/music-api)|[Midday]()|
+| 2016-11-30||[Link])|||[Midday]|
+| 2016-12-01||[Link]()|||[Midday]|
+| 2016-12-02||[Link]|||[Midday]|
