@@ -246,5 +246,5 @@ Hackathon
 | 2016-11-28||[Link](https://docs.google.com/forms/d/e/1FAIpQLScfwNI-7LoADuQ1bFXf0ztp9KiBb_BN49mSPlBaOyI0onLq1w/viewform)||[Sequelize Intro](lessons/databases/sequelize_intro.md)|[Midday](https://docs.google.com/forms/d/e/1FAIpQLScRcA-IdaEGOPpomiHYev3mV2Zw-GJeQv-MCvH5XiIrLfOHeA/viewform)|
 | 2016-11-29||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe3G3ZvrmJU4rJ_JZqqvSf569_k9PPNG_8CyLHCaVXVaqiFyg/viewform)||[Sequelize Music API](https://github.com/C4Q/music-api)|[Midday]()|
 | 2016-11-30||[Link](https://docs.google.com/forms/d/e/1FAIpQLScKr4lDbEHpoNR1jSsVhIgeNMYTS1que_rZzYNZGbKt2Zm99g/viewform)||[Sequelize Music API](https://github.com/C4Q/music-api)|[Midday]|
-| 2016-12-01||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfXrn8Ib9BgnDWO6f9INfKg2FzqOjV4PO9Ba389bfP5H2yJEw/viewform)||[Sequelize Music Database](https://github.com/C4Q/music-db)|[Midday]|
+| 2016-12-01||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfXrn8Ib9BgnDWO6f9INfKg2FzqOjV4PO9Ba389bfP5H2yJEw/viewform)||[Sequelize Music Database](https://github.com/C4Q/music-db)|[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfDgTahncb5O-ZJV-btmFtY1Ds5O4jJmKn1I_kyChc2r-EOeQ/viewform)|
 | 2016-12-02||[Link]|||[Midday]|
