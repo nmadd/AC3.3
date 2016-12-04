@@ -248,3 +248,13 @@ Hackathon
 | 2016-11-30||[Link](https://docs.google.com/forms/d/e/1FAIpQLScKr4lDbEHpoNR1jSsVhIgeNMYTS1que_rZzYNZGbKt2Zm99g/viewform)||[Sequelize Music API](https://github.com/C4Q/music-api)|[Midday]|
 | 2016-12-01||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfXrn8Ib9BgnDWO6f9INfKg2FzqOjV4PO9Ba389bfP5H2yJEw/viewform)||[Sequelize Music Database](https://github.com/C4Q/music-db)|[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfDgTahncb5O-ZJV-btmFtY1Ds5O4jJmKn1I_kyChc2r-EOeQ/viewform)|
 | 2016-12-02||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfkCWdx9zIXhEWuuIGyojh0iM-dhpPX5JZUCV8BVIjFdjo0RQ/viewform)|||[Midday]|
+
+### Week 21
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-12-5||[Link]()||[Playlist App](projects/playlist-app/README.md)|[Midday]()|
+| 2016-12-6||[Link]()||[Playlist App](projects/playlist-app/README.md)|[Midday]()|
+| 2016-12-7||[Link]()||[Playlist App](projects/playlist-app/README.md)|[Midday]|
+| 2016-12-8||[Link]()||Assesment||
+| 2016-12-9||||No class||
