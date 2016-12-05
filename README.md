@@ -257,4 +257,4 @@ Hackathon
 | 2016-12-6||[Link]()||[Playlist App](projects/playlist-app/README.md)|[Midday]()|
 | 2016-12-7||[Link]()||[Playlist App](projects/playlist-app/README.md)|[Midday]|
 | 2016-12-8||[Link]()||Assesment||
-| 2016-12-9||||No class||
+| 2016-12-9||||||
