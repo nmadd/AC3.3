@@ -254,7 +254,7 @@ Hackathon
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-12-5||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfNJnUPDes6hkTDZgUin4AICPQZS_tcLqnhQ2Umbe09RU1R8Q/viewform)||[Playlist App](projects/playlist-app/README.md)|[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe5i5xjGP3Yid-s9t_pv9cJ4dO-eVEYptlQBfOmzxX9P2nmZg/viewform)|
-| 2016-12-6||[Link]()||[Playlist App](projects/playlist-app/README.md)|[Midday]()|
+| 2016-12-6||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdXW6LehPqY6IE0QvR8rudLHGWY7HNzOFRcADRym0wpZ-MBcg/viewform)||[Playlist App](projects/playlist-app/README.md)|[Midday]()|
 | 2016-12-7||[Link]()||[Playlist App](projects/playlist-app/README.md)|[Midday]|
 | 2016-12-8||[Link]()||Assesment||
 | 2016-12-9||||||
