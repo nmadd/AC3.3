@@ -257,4 +257,4 @@ Hackathon
 | 2016-12-6||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdXW6LehPqY6IE0QvR8rudLHGWY7HNzOFRcADRym0wpZ-MBcg/viewform)||[Playlist App](projects/playlist-app/README.md)|[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfxczEu_QNxLIq__TAChO-8qZs2EvTPdRqrJW_mfuqFEw3cgg/viewform)|
 | 2016-12-7||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf2L6eQJ_EluB-qJGb-x71Awy9ESTEHn2SaTgIrtNwq3xE2iQ/viewform)||[Playlist App](projects/playlist-app/README.md)|[Midday]|
 | 2016-12-8||[Link](https://docs.google.com/forms/d/e/1FAIpQLSd2G21n7tsq4k1l9lpmRAOQo2KFhOQgrSle26hIXs0FlrlmpA/viewform)||Assesment||
-| 2016-12-9||||||
+| 2016-12-9||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeUkO4deCPHufs4FJdwMqrPcWXwnd1ovKRLaKi9zI1p7fUGqQ/viewform)||||
