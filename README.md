@@ -264,7 +264,7 @@ Hackathon
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-12-12||||No class||
-| 2016-12-13||[Link]()||[Intro to Authentication w/ Sessions and Cookies](lessons/authentication/cookies-and-sessions.md)|[Checkin]()|
+| 2016-12-13||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfeKtEoE6T7hH3K8XSVRROF2IykUsLpKrw4zh0YaIT2iVP9GA/viewform)||[Intro to Authentication w/ Sessions and Cookies](lessons/authentication/cookies-and-sessions.md)|[Checkin]()|
 | 2016-12-14||[Link]()||[How the Internet Works]()||
 | 2016-12-15||[Link]()||||
 | 2016-12-16||||||
