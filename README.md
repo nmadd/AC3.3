@@ -254,7 +254,17 @@ Hackathon
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-12-5||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfNJnUPDes6hkTDZgUin4AICPQZS_tcLqnhQ2Umbe09RU1R8Q/viewform)||[Playlist App](projects/playlist-app/README.md)|[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe5i5xjGP3Yid-s9t_pv9cJ4dO-eVEYptlQBfOmzxX9P2nmZg/viewform)|
-| 2016-12-6||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdXW6LehPqY6IE0QvR8rudLHGWY7HNzOFRcADRym0wpZ-MBcg/viewform)||[Playlist App](projects/playlist-app/README.md)|[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSfxczEu_QNxLIq__TAChO-8qZs2EvTPdRqrJW_mfuqFEw3cgg/viewform)|
-| 2016-12-7||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf2L6eQJ_EluB-qJGb-x71Awy9ESTEHn2SaTgIrtNwq3xE2iQ/viewform)||[Playlist App](projects/playlist-app/README.md)|[Midday]|
-| 2016-12-8||[Link](https://docs.google.com/forms/d/e/1FAIpQLSd2G21n7tsq4k1l9lpmRAOQo2KFhOQgrSle26hIXs0FlrlmpA/viewform)||Assesment||
-| 2016-12-9||[Link](https://docs.google.com/forms/d/e/1FAIpQLSeUkO4deCPHufs4FJdwMqrPcWXwnd1ovKRLaKi9zI1p7fUGqQ/viewform)||||
+| 2016-12-6||[Link](https://docs.google.com/forms/d/e/1FAIpQLSdXW6LehPqY6IE0QvR8rudLHGWY7HNzOFRcADRym0wpZ-MBcg/viewform)||[Playlist App](projects/playlist-app/README.md)|[Midday]()|
+| 2016-12-7||[Link]()||[Playlist App](projects/playlist-app/README.md)|[Midday]|
+| 2016-12-8||[Link]()||Assesment||
+| 2016-12-9||||||
+
+### Week 22
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-12-12||||No class||
+| 2016-12-13||[Link]()||[Intro to Authentication w/ Sessions and Cookies](projects/playlist-app/README.md)|[Midday]()|
+| 2016-12-14||[Link]()||[How the Internet Works)|[Midday]|
+| 2016-12-15||[Link]()||||
+| 2016-12-16||||||
