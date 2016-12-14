@@ -169,12 +169,16 @@ Each key/value pair would be allocated into the hash table as follows (according
 | 1  |  1245028 | 'pandas' | 2
 | 2  |  1245029 | 'birds' | 250
 | 3  |  1245030 | | |
-| 4  |  1245031 | 'elephants', 'tigers' | 9, 6
+| 4  |  1245031 | 'elephants, tigers' | 9, 6
 | 5  |  1245032 | 'bears' | 25
 | 6  |  1245033 | | |
-| 7  |  1245034 | 'cats', 'cheetahs' | 6
+| 7  |  1245034 | 'cats, cheetahs' | 6
 | 8  |  1245035 | 'platypus' | 20
-| 9  |  1245036 | 'tapirs', 'lions' | 5, 9
+| 9  |  1245036 | 'tapirs, lions' | 5, 9
+
+For another example, here's a diagram of a hash table mapping for phone numbers:
+
+![Hash](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hash_table_5_0_1_1_1_1_0_SP.svg/380px-Hash_table_5_0_1_1_1_1_0_SP.svg.png)
 
 ### Collisions
 You may have noticed that two separate strings may sometimes get hashed to the same bucket. This is called a 'collision', and happens pretty often.
@@ -215,10 +219,6 @@ countLetters('banana'); //{ b: 1, a: 3, n: 2 }
 ```
 
 This is very efficient with an O(n) runtime.
-
-Here's an diagram of a hash table mapping for phone numbers:
-
-![Hash](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hash_table_5_0_1_1_1_1_0_SP.svg/380px-Hash_table_5_0_1_1_1_1_0_SP.svg.png)
 
 
 
