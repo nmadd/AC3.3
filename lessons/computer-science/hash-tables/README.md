@@ -164,17 +164,17 @@ cheetahs: 6
 Each key/value pair would be allocated into the hash table as follows (according to the above hash function):
 
 |Bucket Number   | Memory Address | Key | Value
-|---|---|
+|---|---|---|---|---|---|
 | 0  |  1245027 | | |
 | 1  |  1245028 | 'pandas' | 2
 | 2  |  1245029 | 'birds' | 250
 | 3  |  1245030 | | |
-| 4  |  1245031 | 'elephants, tigers' | 9, 6
+| 4  |  1245031 | 'elephants', 'tigers' | 9, 6
 | 5  |  1245032 | 'bears' | 25
 | 6  |  1245033 | | |
-| 7  |  1245034 | 'cats, cheetahs' | 6
+| 7  |  1245034 | 'cats', 'cheetahs' | 6
 | 8  |  1245035 | 'platypus' | 20
-| 9  |  1245036 | 'tapirs, lions' | 5, 9
+| 9  |  1245036 | 'tapirs', 'lions' | 5, 9
 
 For another example, here's a diagram of a hash table mapping for phone numbers:
 
