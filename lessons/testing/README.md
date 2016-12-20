@@ -27,6 +27,7 @@
 
 ## Exercises
 Complete the following exercises to practice TDD:
+
 1. [Testing number and strings functions](https://github.com/C4Q/numbers-and-strings-testing)
 1. [Testing an API](https://github.com/C4Q/api-testing)
 
