@@ -242,6 +242,8 @@ This is very efficient with an O(n) runtime.
 
 1. Given a block of text find the 5 most common words.
 
+1. Given a string, find the first non-repeated character in the string.
+
 1. Given two strings, check if they’re anagrams or not. Two strings are
 anagrams if they are written using the same exact letters, ignoring
 space, punctuation and capitalization. Each letter should have the
