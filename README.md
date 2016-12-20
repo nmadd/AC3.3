@@ -268,3 +268,13 @@ Hackathon
 | 2016-12-14||[Link](https://docs.google.com/forms/d/e/1FAIpQLSczfJ6j2XlhmEbVjKxmx5vzPT8kIj5ZAr1f0z45K7ngvxvX3A/viewform)||[How the Internet Works](lessons/how_the_internet_works.md)|[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSe5mEZ_qoOJ755V2m16_DtiJqffTm2YLM-sPjvjblRXOfHBYA/viewform)|
 | 2016-12-15||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfjY4JdAtipAaT75XkatAnOX8FQMeBEl0vwyymf5FOnHtnnCg/viewform)||[Hash Tables + How Objects Work](lessons/computer-science/hash-tables/README.md)|[Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScK_WI_9_v0viu_4nMy3lTA3rQfok80Hb1Fe0VNYC3xw7nxAw/viewform)|
 | 2016-12-16||[Link](https://docs.google.com/forms/d/e/1FAIpQLScYepmhq0GHnndR9bevSzJfkQz8GJQjneeVJzSvFqcy30Kg8w/viewform)||||
+
+### Week 23
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2016-12-19||||........||
+| 2016-12-20||[Link]()||[Unit Testing](lessons/testing/README.md)|[Checkin]()|
+| 2016-12-21||[Link]()|||[Exit Ticket]()|
+| 2016-12-22||[Link]()||Assessment||
+| 2016-12-23||[Link]()||||
