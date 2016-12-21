@@ -275,6 +275,6 @@ Hackathon
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2016-12-19||||........||
 | 2016-12-20||[Link](https://docs.google.com/forms/d/e/1FAIpQLScSp1PHDbc2xrpbwt8x1Ipj33uZ0_oy2s11NQEGwtgMsHyQlA/viewform)||[Unit Testing](lessons/testing/README.md)|[Checkin]()|
-| 2016-12-21||[Link]()|||[Exit Ticket]()|
+| 2016-12-21||[Link]()||[Debuggin](lessons/env-and-tools/debugging.md)|[Exit Ticket]()|
 | 2016-12-22||[Link]()||Assessment||
 | 2016-12-23||[Link]()||||
