@@ -278,3 +278,25 @@ Hackathon
 | 2016-12-21||[Link](https://docs.google.com/forms/d/e/1FAIpQLSf7l_gXlKijnwmrLc3WOp_9qrJlE3ygevOkLksnMNMGeyPDrg/viewform)||[Debuggin](lessons/env-and-tools/debugging.md)|[Exit Ticket]()|
 | 2016-12-22||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfqPhnUX7ACImRWmnXfJYha357V7EYfU_LdArbb47H0Cf_Ayw/viewform)||Assessment||
 | 2016-12-23||[Link]()||||
+
+### Week 24
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2017-01-02||||New Year's Day Observed||
+| 2017-01-03||||Presentations and Project Management||
+| 2017-01-04||||Scaffold - Passport.js & Git Review||
+| 2017-01-05||||Documentation - documenting your code||
+| 2017-01-06||||Workday||
+
+
+
+### Week 25
+
+|  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
+|:----------:|:--------:|:--:|:--:|:--:|:----:|
+| 2017-01-09||||Demo practice||
+| 2017-01-10||||||
+| 2017-01-11||||CSS||
+| 2017-01-12||||Deploying to Heroku||
+| 2017-01-13||||Presentations||
