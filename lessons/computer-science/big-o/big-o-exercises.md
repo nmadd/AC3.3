@@ -7,7 +7,7 @@ function problem1 (arr) {
   for(var i = 0; i < 10; i++) {
     console.log(i);
   }
-  return arr[0];
+  return arr[ 0];
 }
 
 problem1([1, 2, 3, 4, 5]);
