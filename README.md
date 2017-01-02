@@ -284,9 +284,9 @@ Hackathon
 |  Date      |Pre-Work|Attendance|Challenge| Lesson |Check-in|
 |:----------:|:--------:|:--:|:--:|:--:|:----:|
 | 2017-01-02||||New Year's Day Observed||
-| 2017-01-03||||Presentations and Project Management||
-| 2017-01-04||||Scaffold - Passport.js & Git Review||
-| 2017-01-05||||Documentation - documenting your code||
+| 2017-01-03||||[Presentations and Project Management](lessons/project-management/README.md)||
+| 2017-01-04||||Project||
+| 2017-01-05||||Project||
 | 2017-01-06||||Workday||
 
 
