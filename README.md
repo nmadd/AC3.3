@@ -286,7 +286,7 @@ Hackathon
 | 2017-01-02||||New Year's Day Observed||
 | 2017-01-03||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfPEk9PwSFiJEp3OknwcRt4evK3KyYSKb6EnqemgdFdVIR0UA/viewform)||[Presentations and Project Management](lessons/project-management/README.md)||
 | 2017-01-04||[Link](https://docs.google.com/forms/d/e/1FAIpQLSe7SKespWfgFw8Q-N_i9fSiwSQ3HinFg7izcm0c2wCJ5Vhh0Q/viewform)||Project||
-| 2017-01-05||||Project||
+| 2017-01-05||[Link](https://docs.google.com/forms/d/e/1FAIpQLSfD0ojGjlu9_9vDpz3PdNpmcZZ17TfcOqqNDsCpfWpjeNzhFQ/viewform)||Project||
 | 2017-01-06||||Workday||
 
 
