@@ -2,6 +2,8 @@
 
 Welcome to Access Code!
 
+[Attendance Sign In](https://docs.google.com/a/c4q.nyc/forms/d/e/1FAIpQLSemS4KF78sTN-ptXdNuCLVtElfCL4Lq-l93JHCJ1fAXNUHI7Q/viewform)
+
 ## Table of Contents
 1. [Unit 1](#unit-1)
   - [Week 1: JavaScript Fundamentals](#week-1)
