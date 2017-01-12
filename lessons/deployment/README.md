@@ -54,12 +54,6 @@ add the following to your package.json file:
 ```
 - you can also add a `"heroku-postbuild"` field which will get run after `npm install`. Here you can add things like `webpack` or run `seed` files - basically anything you'd want to run before `npm start`
 
-## database setup
-- Similarly, change your Sequelize database connection to the following:
-```js
-let sequelizeConnection = process.env.NODE_ENV === 'production' ? new Sequelize(process.env.DATABASE_URL) : new Sequelize('postgres://natemaddrey@localhost:5432/music-db');
-```
-- Then, from the command line run `heroku addons:add heroku-postgresql:hobby-dev`
 
 ### server.js
 In your `server.js` make the following changes:
@@ -67,6 +61,13 @@ In your `server.js` make the following changes:
 ```js
 app.listen(process.env.PORT || '9999', () => console.log('Listening on port 9999'));
 ```
+
+### database setup
+- Similarly, change your Sequelize database connection to the following:
+```js
+let sequelizeConnection = process.env.NODE_ENV === 'production' ? new Sequelize(process.env.DATABASE_URL) : new Sequelize('postgres://natemaddrey@localhost:5432/music-db');
+```
+- Then, from the command line run `heroku addons:add heroku-postgresql:hobby-dev`. This will create a new database instance for your deployed app.
 
 ### deployment
 - to deploy your app, `cd` into your app's directory and run `heroku create`
