@@ -1,7 +1,0 @@
-- Open up your terminal and `cd` into your ac3.1-submissions folder
-- Still in your terminal, run the command `git pull upstream master`. This should pull down any changes form the main repo on github, and merge them into your local copy
-- Copy and paste your assignment that you'd like to submit into your specific folder in ac3.1-submissions. Also make sure you put it in the correct week's folder
-- In the command line, enter `git add -A`, this adds all of your changes to git
-- Then enter `git commit -m '(enter your commit message here)'` this is just a short descriptive message of the assignments you're adding, so you can keep track of it later
-- Enter `git push origin master`. That should add your changes from your local copy up to your github profile
-- Lastly, go to your local github page and click the 'New Pull Request' button. As long as you see a green 'Able to merge' text, click 'Create new pull request' and enter a short description about the assignments you're submitting.
