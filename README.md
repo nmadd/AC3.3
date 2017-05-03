@@ -58,9 +58,9 @@
 ## Express
 - [Intro To Express](./lessons/express)
 - [Intro To RESTful APIs](./lessons/express/RESTfulAPIs.md)
-- [Express Routing]](./lessons/express/backend_routing.md)
-- [Express Blog API Project]](./lessons/express/express-blog-api-project)
-- [Express Music API Project]](./lessons/express/express-music-api-project)
+- [Express Routing](./lessons/express/backend_routing.md)
+- [Express Blog API Project](./lessons/express/express-blog-api-project)
+- [Express Music API Project](./lessons/express/express-music-api-project)
 
 ## Git
 - [Intro to Git](./lessons/git/intro_git.md)
