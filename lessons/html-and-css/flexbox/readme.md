@@ -60,7 +60,7 @@ Now we can use any of the [FontAwesome icons](http://fontawesome.io/icons/) in o
 ```
 
 ## Exercise 1: Style our giphy App
-![mockup](giphy1.png) 
+![mockup](giphy1.png)
 ![mockup](giphy2.png)
 Font: [Roboto light](https://fonts.google.com/specimen/Roboto?selection.family=Roboto:300)
 
@@ -109,8 +109,8 @@ render() {
 We'll use [inline styles](https://facebook.github.io/react/tips/inline-styles.html) and some the [background-size attributes](https://css-tricks.com/almanac/properties/b/background-size/) to make our giphy fit its container perfectly.
 
 ```html
-<div 
-  className="resultsRow" 
+<div
+  className="resultsRow"
   style={{backgroundImage: 'url(' + this.state.src + ')'}}
 />
 ```
