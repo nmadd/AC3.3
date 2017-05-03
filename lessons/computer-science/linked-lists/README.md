@@ -104,4 +104,4 @@ linklist.removeHead() //sets the node after the current head to be the new head
 8) Write a program that detects a loop in a linked list. **difficult-ish**
 
 ## Fun logic question unrelated to linked lists
-You have two cubes and are trying to represent all the days(01 - 31) in the calendar. What numbers do you need to put on the cubes to represent all the days in a month? 
+You have two cubes and are trying to represent all the days(01 - 31) in the calendar. What numbers do you need to put on the cubes to represent all the days in a month?
